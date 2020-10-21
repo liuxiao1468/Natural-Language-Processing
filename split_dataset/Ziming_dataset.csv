@@ -1,0 +1,2021 @@
+ImageID,LabelName1,LabelName2,ImageHeight,ImageWidth,XMin1,XMax1,YMin1,YMax1,XMin2,XMax2,YMin2,YMax2,ReferringExpression
+new1,shade,street,600,800,407,681,338,530,9,723,328,590,shade on street
+new2,man,backpack,600,800,334,476,320,575,369,441,362,443,man wear thin backpack
+new3,keyboard,monitor,480,640,297,472,273,321,332,481,119,274,keyboard in front of monitor
+new4,curtains,curtains,480,640,0,280,1,301,0,280,1,301,curtains have mantle
+new5,cables,floor,600,800,450,499,448,536,449,798,490,598,cables on flooring
+new6,apple,counter,600,800,487,547,75,122,487,555,14,128,orchard apple tree on counter
+new7,book,desk,600,800,29,79,527,583,4,217,515,592,record on desk
+new8,man,sleeves,600,800,417,683,286,598,461,578,384,480,isle of man has sleeves
+new9,room,lights,480,640,1,636,1,478,100,431,7,95,room feature lights
+new10,headphones,desk,600,800,679,778,488,536,328,800,368,599,headphones on desk
+new11,chair,the desk,600,800,273,556,186,576,195,783,154,263,chair is at the desk
+new12,surge protector,desk,600,800,264,580,538,560,1,792,321,530,surge protector under desk
+new13,telephone,desk,600,800,218,349,228,324,208,797,260,597,telephone on desk
+new14,computer monitor,desk,600,800,144,448,56,344,2,792,288,598,computer monitor on desk
+new18,man,hair,600,800,13,159,267,563,62,110,268,330,man has pilus
+new19,mouse,mousepad,600,800,443,480,467,491,426,511,468,499,black eye on top if mousepad
+new20,books,the self,600,800,10,184,24,94,2,194,110,125,books be on the self
+new21,album,lap,256,256,131,254,119,249,125,198,124,182,album on lick
+new22,car,street,600,800,155,237,316,362,1,759,330,415,car on street
+new23,car,girls,600,800,211,778,199,432,552,701,203,445,railcar behind girls
+new24,man,man,600,800,721,764,280,351,721,764,280,351,man sitting valet
+new25,child,stroller,600,800,658,685,364,383,636,707,340,425,youngster in stroller
+new26,man,sidewalk,600,800,364,407,375,521,1,747,389,599,man walking on pavement
+new27,switch,wall,600,800,585,603,360,376,1,683,2,468,switch on wall
+new28,picture,wall,600,800,302,503,68,251,7,797,1,462,picture on wall
+new29,woman,ocean,600,800,425,492,162,416,1,704,178,302,woman face ocean
+new30,luggage,floor,600,800,602,706,373,483,326,787,488,592,baggage on floor
+new31,kleenex,box,600,800,536,578,182,222,539,586,215,249,kleenex in box
+new32,sink,faucet,600,800,368,535,415,458,346,442,360,459,sinkhole and faucet
+new33,closed door,closed door,600,800,155,206,183,302,155,206,183,302,unopen door door is closed door
+new34,chair,metal rods,600,800,342,569,233,588,341,546,407,576,chair has metal rod
+new35,computer,picture,600,800,679,754,152,262,7,795,1,599,computer in picture
+new36,bagels,table,600,800,338,434,363,418,150,761,329,472,beigel on table
+new37,pillow,photo,600,800,124,277,232,354,172,251,253,322,pillow has photo
+new39,clutter,table,534,800,118,339,220,295,104,326,247,433,clutter on mesa
+new40,lamp stand,table,800,560,3,460,346,746,3,379,686,799,lamp stand on table
+new41,gallon jug,lid,600,800,665,783,316,488,729,755,312,330,gallon jugful has lid
+new42,chair,room,600,800,667,761,385,437,586,792,4,243,chair in room
+new43,plate,table,600,800,76,279,518,595,6,622,366,597,plate on table
+new44,writing,board,600,800,362,437,149,200,308,520,82,233,writing on panel
+new45,suv,intersection,600,800,22,250,224,370,1,538,265,593,suv in carrefour
+new47,person,street,600,800,174,245,278,425,27,694,345,582,person crossing street
+new48,flowers,planter,600,800,551,586,426,452,492,769,425,591,flowers in planter
+new49,girl,coat,800,600,191,227,570,686,193,227,584,642,lady friend in coat
+new50,book,desk,600,800,1,153,219,573,336,606,532,599,book on desk
+new52,foliage,water,600,800,4,777,453,597,17,786,363,597,foliage around piss
+new53,building,window,534,800,42,330,4,339,147,193,53,223,building get window
+new57,line,road,600,800,195,319,479,527,4,794,371,597,line on road
+new58,wall,windows,600,800,509,703,5,378,521,687,4,175,wall of windows
+new60,grate,street,600,800,698,798,533,595,224,796,243,599,grate in street
+new62,window,building,600,800,421,470,78,137,182,495,1,288,window on building
+new64,windmill,blades,600,800,384,485,120,407,288,583,35,300,wind generator has blades
+new68,wire,wall,502,468,80,110,105,280,14,460,10,306,wire on wall
+new69,potato,plate,480,640,264,310,187,241,82,454,32,404,potato on the plateful
+new70,painting,wall,446,600,414,559,29,211,375,421,13,37,painting on bulwark
+new71,woman,desk,375,500,281,367,140,373,276,374,235,374,woman is sitting in a desk
+new72,glass,table,247,495,364,400,142,225,77,471,94,241,glass on table
+new73,leg,chair,533,800,69,91,342,444,46,138,241,465,peg of chair
+new74,screen,wall,599,800,43,286,23,305,38,331,85,529,screen is on wall
+new78,computer,monitor.,256,256,88,128,137,153,91,124,105,130,computer have monitor.
+new79,light,table,450,600,473,591,1,127,319,599,287,449,light all over table
+new83,art,book,534,800,658,759,354,419,561,653,287,350,prowess on the book
+new87,boy,water,600,800,280,306,377,407,1,800,371,598,male child is swimming in water
+new90,ceiling,living room,534,800,256,489,11,101,4,799,1,529,ceiling in livelihood room
+new91,shade,lamp,480,640,361,385,88,110,2,68,43,256,shade on lamp
+new93,glass,table,500,335,106,160,219,292,1,334,105,489,glass on table
+new96,mug,table,500,375,140,207,341,405,1,368,339,480,mug on top of table
+new97,newspaper,magazine,336,448,267,448,161,332,324,440,149,216,paper is on the magazine
+new98,pizza slice,plate,375,500,331,456,156,283,270,500,165,322,pizza slice on the home base
+new101,leaves,tree,600,800,180,253,90,183,91,400,2,349,leave are on tree
+new104,car,window,600,800,80,748,139,501,284,355,169,262,car suffer a window
+new105,car,street,600,800,289,481,159,309,339,792,212,596,car on the street
+new106,construction worker,coveralls,600,800,513,579,312,496,524,553,342,490,construction doer wears coveralls
+new107,sticker,chair,600,800,200,282,366,413,73,404,309,597,sticker is on death chair
+new109,building,street,480,640,336,579,6,312,80,581,303,431,building on street
+new111,turner,handle,600,800,7,345,75,190,5,143,125,155,turner sustain handle
+new114,bag,strap,256,256,229,256,180,256,214,230,99,199,bag has slash
+new115,man,couch,256,256,135,255,26,221,0,255,93,168,man posture on couch
+new117,mirror,doors,600,800,99,215,69,488,1,259,25,538,mirror on threshold
+new118,coffee table,floor,600,800,199,476,302,592,49,792,434,597,coffee tabular array is on floor
+new119,door,room,600,800,648,797,8,254,14,796,0,592,door rack at room
+new120,pillow,sofa,600,800,480,539,301,344,432,676,250,498,pillow exist on sofa
+new121,book,shelves,600,800,531,645,68,179,165,674,25,532,book on the shelf
+new123,lights,ceiling,600,800,529,798,4,185,271,732,9,52,lights on in ceiling
+new125,window,building,600,800,202,271,274,421,94,462,13,598,windowpane of building
+new129,sign,pole,600,800,392,423,94,164,419,430,40,311,augury on a pole
+new130,plant,box,600,800,246,336,381,499,35,95,503,549,works in box
+new131,leg,person,600,800,393,420,204,263,643,672,141,215,stage of person
+new135,Girl ,Girl ,600,800,675,695,437,473,675,695,437,473,Girl break Girl
+new136,archway,building,600,800,474,658,339,399,218,677,73,406,archway underneath building
+new137,arrow,sign,600,800,668,683,196,232,662,693,189,237,arrow on signaling
+new138,vest,man,600,800,283,300,441,466,280,302,430,499,vest on the human beings
+new140,bike,bike,600,800,345,404,204,319,345,404,204,319,cycle leaned against bike
+new142,bench,walkway,600,800,37,133,390,498,32,794,338,599,bench on walk
+new143,lady,crosswalk,600,800,1,98,312,597,3,464,322,608,gentlewoman in crosswalk
+new144,boat,water,600,800,203,609,316,510,2,683,235,598,boat in water supply
+new145,light poles,street,600,800,5,71,198,382,54,258,386,469,light celestial pole in street
+new146,yellow reflector,yellow reflector,600,800,413,433,321,365,413,433,321,365,yellow reflector is on the back of yellow reflector
+new148,shirt,door,600,800,99,153,147,285,83,166,6,433,shirt is hanging in the door
+new151,Spoon,table,600,800,222,297,389,433,55,798,329,538,Spoonful on table
+new155,spatula,handle,480,640,524,638,281,309,566,641,283,301,spatula make handle
+new158,wall,building,426,568,157,220,118,169,9,547,5,366,wall on construction
+new160,woman,robe,240,320,21,117,57,209,27,92,106,212,woman wearing gown
+new162,Kiwi,plate,480,640,334,470,44,264,139,504,22,392,Kiwi on a plate
+new166,car,building,365,400,87,216,346,365,2,394,2,365,car is in strawman of building
+new167,man,overalls,291,400,11,98,7,291,15,85,57,282,adult male wearing overalls
+new168,woman,shirt,800,600,287,436,181,697,287,437,203,415,woman be wearing a shirt
+new170,bottle,shelf,600,800,609,634,222,273,602,783,265,290,nursing bottle on shelf
+new171,car,fence,600,800,228,465,56,262,4,798,6,308,car park behind fence
+new174,building,window,594,800,0,793,8,583,333,662,121,324,building has windowpane
+new175,sign,numbers,604,800,164,276,293,326,184,205,296,321,sign has numeral
+new176,pavers,walkway,600,800,14,197,519,596,26,705,437,597,pavers on paseo
+new182,rug,floor,512,340,1,81,422,509,2,95,401,507,rug on base
+new186,grapes,plate,600,450,202,300,411,487,146,316,400,530,grapeshot on plate
+new187,wine holder,floor,800,640,572,637,491,640,10,634,586,795,vino holder on floor
+new189,clouds,clouds,415,800,2,797,0,57,2,797,0,57,clouds on the visible horizon clouds
+new191,trees,hills,412,550,189,384,40,136,16,456,104,181,trees on mound
+new192,sign,arrow,312,508,212,235,156,168,214,235,158,165,sign has pointer
+new193,auditorium,chair,480,640,1,638,2,480,367,432,328,399,auditorium have got chair
+new194,tree,ground,330,504,125,284,15,256,277,329,276,315,sir herbert beerbohm tree on ground
+new196,mirror,wall,576,432,329,374,387,413,324,400,354,468,mirror hanging on wall
+new198,balcony,house,300,400,11,79,120,163,12,364,46,244,balcony on the theater
+new199,fork,plate,375,500,251,342,196,374,222,498,82,373,fork is on plate
+new200,tray,table,306,500,27,474,78,297,7,498,36,301,tray on table
+new201,line,road,600,800,443,464,361,398,228,536,415,575,line on road
+new202,building,window,600,800,1,510,200,326,273,315,275,308,building has windowpane
+new203,car,street,600,800,333,799,388,596,333,799,388,596,car on the street
+new205,building,trim,600,800,590,798,3,477,598,798,217,239,building with shipshape
+new206,tree,lawn,600,800,612,751,374,505,2,798,476,599,tree diagram is planted on lawn
+new209,frame,wall,800,600,136,216,239,307,134,256,193,469,frame hangs bulwark
+new211,intersection,wooden logs,259,384,232,274,125,158,186,367,138,169,intersection of wooden log
+new213,rocks,driveway,244,400,60,280,179,238,1,390,188,243,rocks are sit in the driveway
+new214,light,building,800,600,241,402,256,400,1,300,4,799,light represent attached to building
+new215,wall,building,600,800,533,800,8,363,473,798,7,376,wall on construction
+new216,lamp,lamp shade,425,512,1,65,144,288,3,62,142,207,lamp in lamp shade
+new218,window,building,600,800,683,720,92,201,479,757,78,374,windowpane on building
+new219,fruit,display,600,800,576,749,340,460,130,798,339,596,fruit live at display
+new220,man,shorts,270,408,74,184,122,228,78,126,158,191,man in shorts
+new223,pattern,carpet,600,422,244,296,547,568,84,421,460,598,pattern on rug
+new224,car,four doors,600,800,180,411,292,366,231,347,298,363,car has four spot doors
+new226,fruit,tree,600,800,113,130,232,245,3,230,147,398,fruit follow on tree
+new227,windows,lights,600,800,2,250,2,422,31,202,117,246,windows speculate lights
+new228,vase,flowers,480,640,285,317,276,334,250,359,198,277,vase holding flowers
+new229,window,building,600,800,377,394,315,350,3,759,121,449,windowpane on building
+new230,bottle,wine,334,500,35,88,25,231,76,97,94,200,bottle of wine colored
+new231,sign,stone wall,600,800,622,658,410,453,3,796,385,501,augury on stone wall
+new233,drawer,drawer,267,400,113,156,185,209,113,156,185,209,draftsman under counter drawer
+new234,pole,grass,600,800,474,497,275,570,195,800,491,599,pole in grass
+new235,sticker,lapel,480,640,186,216,210,242,151,257,113,372,sticker is attached to lapel
+new236,cars,road,600,800,1,726,450,545,11,711,496,594,cars on the route
+new241,seasoning,chicken,480,640,280,352,142,281,260,374,102,282,flavour on chicken
+new243,door,taxi,800,533,181,229,261,324,322,530,560,761,door on taxicab
+new244,candles,table,555,800,194,231,337,353,169,286,330,396,candles on mesa
+new246,window,building,600,800,556,598,267,310,152,673,43,468,windowpane of building
+new249,pillow,couch,600,800,318,432,231,296,151,535,226,380,pillow on cover of couch
+new251,tinroof,porch,600,800,2,196,191,258,25,201,235,408,tinroof on porch
+new252,lantern,mine,263,350,283,303,41,81,1,350,1,263,lantern in mine
+new253,car,on the road,600,800,17,333,365,490,4,795,468,597,car consume left tire on the route
+new255,skybox,a building,800,600,474,551,268,302,468,551,272,325,skybox be on top of a building
+new256,shadow,street,600,800,0,384,316,460,4,333,306,598,shadow is on street
+new258,monitor,desk,600,800,200,345,236,365,117,770,316,599,monitor equal on desk
+new259,crib,leg,442,590,419,536,270,429,521,534,329,429,crib has leg
+new260,ear,earring,480,640,166,202,222,324,186,197,302,318,ear has earring
+new261,Licenseplate,car,600,800,224,246,373,382,201,281,347,399,Licenseplate attached to car
+new263,window,brick house,299,400,84,129,103,155,1,400,68,177,window is in brick house
+new264,sign,man,600,800,692,797,350,442,739,793,357,427,sign get man
+new266,walkway,Cracks,600,800,5,794,404,597,205,551,538,579,paseo has Cracks
+new269,sign,barrel,600,800,689,718,241,275,679,727,280,353,sign on barrelful
+new272,boat,body of water,480,640,492,518,295,316,3,638,280,479,boat on the body of water
+new273,women,jeans,600,800,126,192,384,554,141,179,450,516,women wear out jeans
+new274,fountain,courtyard,600,800,42,304,339,507,8,801,427,554,natural spring is in courtyard
+new275,stained glass,church,600,800,371,405,319,389,165,691,179,408,stained glass windowpane in church
+new278,picture,wall,600,800,603,652,96,148,1,800,0,433,motion picture hanging on the wall
+new279,building,window,600,800,1,800,153,400,420,451,258,313,building has windowpane
+new283,wall,building,600,800,2,331,5,311,3,336,3,300,paries on side of building
+new284,sign,letters,800,600,505,597,586,618,532,591,592,612,house has letters
+new287,church,steeple,800,600,293,377,190,571,312,365,186,309,church make steeple
+new288,window,building,600,800,14,144,124,209,3,798,0,317,window on the construction
+new290,tire,suv,600,800,718,768,282,379,313,766,245,445,tire on the spine of the sport utility vehicle
+new291,awning,house,300,400,144,255,181,209,88,326,38,265,awning on house
+new292,lady,stairs,375,500,285,306,72,114,2,499,0,373,madam walking down stairs
+new294,car,tree,600,800,0,140,293,435,322,460,9,304,car is near tree diagram
+new297,shadow,grass,600,800,2,795,435,598,3,799,403,540,trace on grass
+new301,window,building,600,800,53,121,102,234,2,456,0,422,window on a edifice
+new302,window,building,600,800,227,259,235,291,63,800,0,440,window on the edifice
+new303,woman,street,600,800,653,716,393,524,18,800,406,599,woman is walking across street
+new304,woman ,jacket,600,800,46,83,382,481,40,83,387,430,woman wear down jacket
+new305,woman,blouse,600,800,322,366,336,440,320,368,352,391,woman endure a blouse
+new307,car,street,600,800,479,669,349,420,2,799,402,598,car in street
+new308,person,dog,600,800,441,471,272,374,551,569,335,380,person walk dog
+new309,person,street,600,800,579,606,346,405,2,791,404,591,mortal in street
+new310,windshield,truck,600,800,19,199,323,411,4,306,317,566,windscreen of truck
+new311,car,road,600,800,389,703,278,458,2,376,341,590,auto on road
+new312,pipes,car,600,800,278,326,255,287,4,437,66,287,piping on car
+new313,window,building,600,800,429,440,321,370,364,797,75,490,window in construction
+new314,woman,bag,600,800,53,107,354,472,44,72,416,448,woman be carrying bag
+new315,minivan,minivan,600,800,9,684,274,576,9,684,274,576,minivan parked minivan
+new316,lines,pavement,600,800,77,463,484,536,78,451,477,553,line on pavement
+new317,cars,building,600,800,35,794,369,473,6,775,4,434,cars near construction
+new319,bicycle,post,600,800,77,222,441,527,109,186,441,525,bicycle lean against post
+new320,dirt,sidewalk,600,800,1,92,436,460,5,793,358,598,dirt in sidewalk
+new321,traffic light,corner,600,800,105,182,186,500,3,414,407,520,traffic light stand on corner
+new322,brick,ground,600,800,230,287,566,587,1,794,249,594,brick in earth
+new323,man,man,600,800,469,560,237,422,469,560,237,422,man is carrying newspaper publisher man
+new324,line,road,600,800,334,559,347,358,4,800,251,589,demarcation on road
+new325,person ,sidewalk,600,800,311,365,260,367,3,318,321,371,person stand on sidewalk
+new326,woman,coat,600,800,309,378,240,413,532,590,278,335,cleaning lady wearing coat
+new327,bicycle,sidewalk,600,800,6,160,413,427,68,692,241,598,bicycle park on sidewalk
+new328,writing,whiteboard,480,640,2,172,18,192,22,247,12,195,writing on whiteboard
+new329,cord,outlet,480,640,458,533,392,478,509,533,394,444,cord inside of outlet
+new330,bottle ,lid,480,640,503,539,223,298,513,531,221,238,bottle with lid
+new331,monitor,cabinet,480,640,441,584,8,142,445,594,121,368,monitor is above locker
+new332,divider,desks,480,640,220,597,31,240,36,599,250,477,divider between desk
+new333,sugar,bowl,600,800,67,117,445,463,27,133,416,476,wampum in bowl
+new334,coffee maker,counter,600,800,107,672,80,484,355,792,384,598,coffee maker on top of counter
+new335,screen,monitor,600,800,409,694,102,331,381,730,76,391,screen of monitoring device
+new336,router,monitor,600,800,356,446,164,230,432,678,14,232,router behind monitor
+new337,wall,building,600,800,429,536,238,287,386,797,3,413,wall on construction
+new338,window,building,600,800,132,141,321,335,1,209,235,377,window on a building
+new340,window ,building,600,800,783,796,99,141,614,794,44,268,window on a edifice
+new341,motorbike,road,600,800,150,180,382,446,2,800,350,598,motorbike on the route
+new343,man,sidewalk,480,640,320,390,196,423,239,638,235,480,man on the pavement
+new344,woman,purse,480,640,141,234,214,444,144,164,292,315,adult female with purse
+new345,boy,shirt,480,640,585,619,141,234,587,617,149,177,male child wearing shirt
+new346,people,street,480,640,299,399,262,339,184,372,337,354,people cross street
+new347,map,wall,450,600,54,125,132,341,4,100,0,444,map personify leaning against the wall
+new349,light,ceiling,800,541,434,455,117,131,2,539,0,250,light on ceiling
+new352,pumpkin,front porch,600,800,369,436,228,302,284,700,266,315,pumpkin sitting on front porch
+new353,pumpkin ,face,600,800,353,437,219,283,366,418,226,269,pumpkin vine has face
+new354,woman,cellphone,600,800,17,117,297,510,23,37,385,396,fair sex texting on cellphone
+new355,woman,skirt,600,800,136,234,338,599,140,227,472,569,woman be wearing skirt
+new356,people,sidewalk,600,800,192,358,313,480,162,359,488,588,people on sidewalk
+new357,building,window,600,800,155,504,0,387,323,341,11,48,edifice has window
+new358,computer tower,floor,600,800,702,799,395,591,1,799,390,597,computer tugboat on top of floor
+new359,computer,monitor,600,800,74,250,230,447,314,534,206,404,computer possess monitor
+new360,computer tower,desk,600,800,597,670,259,356,283,766,366,598,estimator tower on top of desk
+new361,woman,car,600,800,201,393,376,593,22,419,403,592,woman WALKING BY elevator car
+new362,stop sign,pole,600,800,261,445,103,287,354,367,284,596,stop sign is on acme of pole
+new363,light,pole,600,800,4,29,524,599,12,605,56,598,light on pole
+new364,flags,poles,600,800,101,249,0,187,85,246,7,524,flags are on the pole
+new365,man,man,600,800,431,550,331,519,431,550,331,519,humankind next to man
+new366,light,pole,600,800,336,449,5,236,333,438,233,600,light on pole
+new367,man,ROAD,600,800,467,582,315,542,581,665,491,579,human WALKING ACROSS ROAD
+new368,sign,gate 2,600,800,732,760,276,300,735,755,280,300,sign says gate two
+new369,clock,window,600,800,376,440,150,214,319,560,0,212,clock sit in the window
+new370,trash can,book shelf,600,800,494,568,438,558,549,780,106,528,trash can next to book ledge
+new371,mouse ,keyboard,600,800,302,363,427,487,384,692,392,492,mouse future to keyboard
+new373,bookshelf,computer,600,800,336,427,1,195,226,299,90,132,bookshelf next to computer
+new374,monitor,desk,600,800,288,615,106,378,564,749,420,593,monitor on desk
+new375,mug,handle,600,800,295,572,131,433,282,363,206,359,gull has handle
+new377,blinds,window,600,800,128,348,4,273,128,357,4,295,blinds on window
+new378,headphones,desk,600,800,499,535,316,335,157,559,290,488,headphones on desk
+new379,microwave,counter,600,800,98,354,123,379,21,708,326,526,microwave on counter
+new380,clock,wall,600,800,321,365,92,140,4,433,8,454,clock on wall
+new381,keyboard,computer ,600,800,178,592,420,550,160,694,40,546,keyboard of computing device
+new382,mug,desk,600,800,391,441,347,397,152,681,320,441,countenance on desk
+new383,keyboard,computer,600,800,493,622,39,112,493,621,78,319,keyboard on the data processor
+new384,man,monitor,600,800,369,706,90,599,133,275,112,340,man in front of monitor
+new385,boy,glasses,600,800,45,417,45,567,164,261,105,145,boy eating away glasses
+new386,man,hair,600,800,334,707,95,540,473,641,95,244,military man has hair
+new387,woman,glasses,800,600,132,376,78,799,204,297,130,165,charwoman is wearing glasses
+new388,drawer,desk,600,800,40,242,474,546,2,796,266,594,drawer on the desk
+new389,office chair,casters,600,800,264,537,334,537,313,471,566,599,office electric chair on casters
+new390,man,computer,600,800,207,793,43,598,205,470,41,347,human being on computer
+new391,bicycle,building,600,800,25,53,257,297,1,34,2,289,bicycle embody near building
+new392,poster,window,375,500,290,400,1,133,1,274,1,242,poster following to window
+new393,woman,couch,404,646,426,519,252,368,384,590,260,374,woman sitting on couch
+new394,brick,canvas,800,600,346,415,556,598,308,421,362,608,brick on canvass
+new395,fence,car,600,800,261,799,284,429,259,667,260,477,fencing next to car
+new396,man,sunglasses,334,500,284,376,90,289,298,327,113,132,man is wearing sunglass
+new397,pole,arm,600,800,695,711,60,365,504,725,68,81,pole have arm
+new398,flag,roof,600,800,285,384,1,158,31,799,1,365,flag hanging from roof
+new399,shoe,foot,207,300,79,104,148,166,79,104,148,166,brake shoe on foot
+new400,person,scooter,600,800,602,677,322,474,545,742,326,494,person be riding a scooter
+new401,building,bricks,600,800,419,798,0,454,461,719,23,324,construction has bricks
+new402,table,sidewalk,600,800,182,259,453,544,160,800,370,599,table is on sidewalk
+new403,refrigerator,floor,600,800,159,326,380,544,114,799,515,599,refrigerator on floor
+new405,monitor,desk,600,800,549,614,242,298,278,635,304,431,varan on desk
+new406,tire,desk,600,800,237,345,382,506,235,349,325,451,tire penny pinching the desk
+new407,cap,soda bottle,600,800,490,504,345,359,476,511,345,420,cap on soda pop bottle
+new409,mug,table,600,800,372,422,413,463,1,731,363,592,mug on mesa
+new410,bartender,bow tie,256,256,101,170,74,163,125,142,104,111,bartender wearing bow draw
+new411,plant,piano,256,256,97,248,7,165,123,253,127,256,plant beside piano
+new412,boy,hair,256,256,2,255,0,254,57,221,1,119,boy cause hair
+new413,girl,cuff,256,256,20,88,89,212,45,77,161,195,girl wear upon cuff
+new414,neck,woman,256,256,158,177,76,97,9,213,26,254,neck of woman
+new415,girl,table,256,256,1,254,188,255,4,256,221,253,girl sitting at board
+new416,woman,restaurant,256,256,2,256,2,253,19,223,7,247,woman standing in eating house
+new417,woman,table,256,256,3,222,148,248,8,196,140,217,woman seated at board
+new418,woman,dark hair,256,256,2,140,8,253,46,102,14,36,char with dark hair
+new419,collar,woman,256,256,93,117,121,171,22,135,47,256,choker on the woman
+new420,man,chair,600,800,86,164,271,375,71,133,296,363,man in chair
+new421,traffic signal,pole,600,800,255,296,204,298,275,285,274,459,traffic sign attached to a pole
+new422,white line,road,600,800,402,604,434,468,2,799,398,599,white line is on a road
+new423,truck ,car,600,800,438,726,282,477,55,343,295,442,truck behind automobile
+new424,woman,skirt,600,800,270,344,401,590,277,322,480,518,fair sex is wearing a skirt
+new425,masts,sailboats,600,800,169,799,6,343,154,789,190,598,masts of sailboats
+new427,car,street,600,800,2,170,273,523,2,801,283,598,car on street
+new429,door,car,600,800,380,458,281,375,303,603,277,397,door of machine
+new430,woman,sidewalk,534,800,55,147,259,531,147,232,288,526,cleaning woman in sidewalk
+new431,man,orange,534,800,324,366,49,87,292,349,98,138,man eating orangeness
+new432,wall,building,534,800,4,161,105,382,4,161,105,382,wall on side of building
+new435,car ,road,600,800,15,76,243,280,149,629,293,595,elevator car on road
+new436,man,sidewalk,600,800,94,155,328,472,4,223,397,539,human beings walking on sidewalk
+new437,railing,scooter,600,800,1,305,310,449,566,703,317,458,railing in front of ice yacht
+new438,tree,writing,600,800,183,302,3,463,204,252,174,250,sir herbert beerbohm tree has writing
+new440,man,kiosk,600,800,635,692,240,501,269,776,47,582,man outside cubicle
+new441,woman,food,600,800,239,381,232,391,256,459,387,477,womanhood is selling food
+new442,skull,wall,800,600,274,353,189,357,460,536,547,616,skull attached to wall
+new443,man,crowd,600,800,461,582,353,598,0,797,299,595,man in a large crowd
+new444,woman,shawl,600,800,115,333,125,469,149,354,215,351,woman has shawl
+new445,road,sidewalk,600,800,488,514,423,481,352,800,437,561,road in pavement
+new446,pot,basket,600,800,671,735,479,565,619,662,468,542,pot in basketful
+new447,man,jacket,600,800,620,717,359,564,618,717,381,490,man is wearing crown
+new448,wall,building,600,800,2,628,1,293,5,665,0,425,wall on building
+new450,baseball cap,man,600,800,168,208,298,315,146,230,294,527,baseball cap on man
+new451,suv,street,600,800,632,801,424,599,3,798,497,598,sport utility vehicle in the street
+new452,oranges,oranges,600,800,479,796,329,502,479,796,329,502,oranges piled orangeness
+new453,batch,flowers,600,800,372,551,248,446,373,541,235,440,batch have flowers
+new454,Tapestry,wall,600,800,85,664,4,426,2,798,1,465,Tapestry hang on wall
+new455,building,building,600,800,555,725,476,502,555,725,476,502,building future to building
+new456,building,apartment,600,800,472,615,131,412,533,551,190,211,construction has apartment
+new457,photo,photo,600,800,41,796,8,598,41,796,8,598,photo taken during the daylight photo
+new459,car,road,600,800,387,464,341,403,4,549,349,599,railcar on road
+new460,window,building,600,800,642,725,111,156,324,771,16,374,window on building
+new461,plate,car,600,800,356,376,361,375,329,445,342,408,denture on the car
+new462,hydrant,sidewalk,600,800,251,280,393,450,1,408,422,486,hydrant is on the sidewalk
+new463,window,building,600,800,186,216,82,116,147,262,11,249,window is on edifice
+new464,car,building,600,800,365,469,277,360,227,527,64,314,car on building
+new465,man,shirt,600,800,641,721,296,465,655,708,322,358,humanity in shirt
+new466,bull,sand,600,800,222,579,25,494,2,799,260,588,bull on gumption
+new468,people,cannons,333,359,29,336,78,142,1,278,132,246,people close cannons
+new469,mark,sidewalk,600,800,47,91,434,464,1,654,343,484,mug on sidewalk
+new470,chair,wood,600,800,179,273,417,596,160,186,450,461,chairman made of wood
+new471,building,roof,600,800,23,181,158,275,20,182,160,207,building with a roof
+new472,windows,building,600,800,567,607,402,439,571,799,341,598,windows on building
+new473,utensil,bowl,600,800,409,539,341,479,349,558,379,487,utensil in arena
+new474,outlet,wall,600,800,716,732,377,413,567,799,3,532,outlet on wall
+new475,window,door,600,800,409,444,351,395,399,451,342,449,window in door
+new476,shadow,shadow,600,800,471,799,442,575,471,799,442,575,shadow on shadow
+new477,van,road,600,800,235,329,257,288,1,800,289,599,van drive on the road
+new478,bus,road,600,800,205,477,339,465,191,313,493,569,passenger vehicle on road
+new479,logo,truck,600,800,234,315,362,387,93,453,259,494,logo on truck
+new480,water,beach,600,800,542,799,349,441,14,290,360,531,water along beach
+new481,person,water,600,800,64,88,349,384,5,799,83,453,person on water
+new482,person,steps,600,800,270,301,286,323,80,481,320,348,person on footstep
+new483,man,hat,600,800,535,710,195,508,571,654,192,273,serviceman is wearing a hat
+new484,crowd,people,600,800,129,796,36,474,300,413,168,475,crowd of people
+new485,clouds,the sky,600,800,683,761,34,87,448,517,34,82,cloud in the sky
+new486,bike,fence,600,800,418,590,382,473,418,590,305,473,bike near fencing
+new487,building,banners,600,800,80,625,162,411,159,706,214,354,building with banners
+new488,table cloth,table ,600,800,66,335,421,471,67,332,417,511,table cloth on table
+new490,paper,paper,600,800,130,198,72,148,130,198,72,148,paper be on a paper
+new491,curtain,window,600,800,657,793,43,597,571,798,19,593,curtain on window
+new492,a wall,a building,600,800,683,761,34,87,448,517,34,82,a rampart on the position of a building
+new493,picture,wall,600,800,553,697,75,198,276,798,1,446,picture on the wall
+new494,menu,dresser,600,800,375,572,421,498,191,603,377,598,carte du jour on dresser
+new495,curtain,chair,600,800,445,625,14,278,330,698,184,550,curtain behind chair
+new496,tv,desk top,600,800,59,218,177,329,46,274,309,415,video is on the desk top
+new497,a wall,a building,800,600,445,549,45,116,130,222,45,108,a bulwark on the side of a building
+new498,knob,cabinet,800,600,180,200,564,593,124,265,540,615,knob on locker
+new499,remote,table,600,800,319,417,342,487,277,800,251,598,remote control is on top of table
+new500,tray,coffee maker,600,800,362,774,317,598,480,762,74,387,tray is nether coffee maker
+new501,cord,floor,600,800,643,747,418,472,1,789,407,599,cord on trading floor
+new502,pamplet,bedspread,600,800,296,400,244,317,226,618,343,535,pamplet on counterpane
+new503,bottle,table,600,800,350,385,252,324,34,796,284,599,bottle equal on top of table
+new504,bottle,water,600,800,0,44,132,253,2,22,165,236,nursing bottle has water
+new506,lamp,corner,600,800,397,466,139,224,409,489,35,227,lamp in corner
+new508,soap,dish,600,800,201,254,357,372,191,282,343,399,soap is on top top dish
+new509,chair,desk,600,800,236,471,271,582,79,438,236,456,chair is next to desk
+new510,chair,lamp,600,800,659,796,360,598,619,744,222,578,chair next to lamp
+new511,head board,wall,600,800,233,681,163,359,219,671,20,155,head board be attached to wall
+new512,lamp,shade,600,800,102,192,137,328,93,189,137,225,lamp has shade
+new514,plant,porch,600,800,111,305,277,529,397,591,444,545,plant on porch
+new515,phone,table,600,800,241,262,419,470,212,376,453,593,phone on table
+new516,bookshelf,book,600,800,335,538,51,387,397,406,252,297,bookshelf filled with good book
+new517,picture,bed,600,800,377,551,98,215,139,649,323,598,picture above the bed
+new519,photo,bedroom,600,800,14,791,9,579,11,799,9,595,pic of the bedroom
+new523,cabinet,sink,600,800,303,784,280,599,252,794,135,319,cabinet under sinkhole
+new524,stove,knobs,600,800,232,567,206,596,391,560,330,416,stove get knobs
+new525,faucet,sink,600,800,5,145,429,510,5,343,427,598,faucet on sink
+new526,book,shelf,600,800,727,798,461,537,585,799,447,580,holy writ is on shelf
+new527,floor,floor,600,800,2,704,401,599,2,704,401,599,floor wooden trading floor
+new528,chair,bed,600,800,71,301,295,555,297,624,267,498,chairwoman by bed
+new529,dishwasher,counter,600,800,1,158,307,534,3,176,232,311,dishwashing machine under counter
+new530,car,road,600,800,92,541,358,579,636,767,482,591,automobile on road
+new531,table,leg,600,800,353,537,253,491,373,405,329,483,table has leg
+new532,pillow,bed,600,800,258,411,192,345,1,572,73,600,pillow is on top of bed
+new533,light,desk,600,800,694,755,170,211,413,723,252,598,visible radiation on desk
+new534,paper,wall,800,600,64,188,585,743,3,600,3,795,report on wall
+new536,chair,floor,600,800,347,509,269,479,64,729,407,599,chair on floor
+new537,socket,wall,600,800,281,309,396,430,2,313,5,598,socket fixed on bulwark
+new538,lamp,desk,600,800,498,606,206,245,432,680,321,565,lamp is on top of desk
+new539,car,driveway,600,800,276,583,309,482,2,386,248,554,car in drive
+new540,plant,shelf,600,800,169,285,182,249,150,289,237,290,plant on ledge
+new541,window,building,600,800,318,391,102,196,3,395,2,372,window on construction
+new542,carpet,floor,600,800,163,541,494,595,10,659,525,598,carpeting is on floor
+new543,blow dryer,wall,600,800,537,599,39,167,519,798,1,373,blow dryer hanging on bulwark
+new544,room,bed,427,640,23,612,12,401,53,384,162,388,way has bed
+new545,wall,bed,600,800,1,307,3,420,14,485,280,600,wall behind the seam
+new547,saucer,table,600,800,12,70,395,414,1,314,329,491,saucer on board
+new549,pineapple,bowl,600,800,49,100,168,197,56,125,197,224,pineapple inside of trough
+new550,bowl,table,600,800,251,336,371,435,82,473,394,574,bowl on tabular array
+new552,pillow,sofa,600,800,222,313,211,308,93,522,205,389,pillow on sofa
+new553,area,bar,600,800,35,744,269,597,17,479,248,335,domain with bar
+new554,picture,wall,600,800,635,793,6,304,260,766,4,422,picture on rampart
+new555,a wall,a building,770,800,650,750,43,111,349,437,43,104,a rampart on the position of a building
+new556,plate,table,641,800,457,526,391,422,194,622,318,584,plate on the table
+new557,window,dining room,768,606,161,236,134,257,0,605,0,766,window is inside of dine room
+new558,director chair,wood,521,512,174,299,324,513,172,296,354,513,director chair has woodwind
+new559,flower,vase,800,569,78,135,397,457,49,144,435,565,flower in vase
+new560,rung,ladder,800,576,107,123,265,274,89,159,235,533,rung on run
+new561,dog,nose,600,800,135,770,45,595,163,192,234,267,dog has nose
+new562,shelf,fridge,600,800,477,638,41,572,257,486,62,554,shelf side by side to fridge
+new563,microwave,counter,256,256,11,123,18,101,1,256,168,241,micro cook above counter
+new565,bottle,shelf,800,658,123,152,168,258,31,200,243,290,bottle on ledge
+new566,a wall,a building,600,800,670,754,28,96,410,496,36,105,a wall on the side of a construction
+new567,pillow,couch,600,800,513,592,259,317,262,650,188,346,pillow is on couch
+new568,chair,table,600,800,228,535,69,579,0,249,174,599,chair next to tabulate
+new569,gold trim,gold trim,600,800,315,773,2,266,315,773,2,266,gold trim around paint gold trim
+new570,bread,table,600,800,608,761,208,287,18,792,159,595,bread on table
+new571,picture,frame,600,800,103,233,10,279,104,232,8,280,picture is in a frame
+new572,items,living room,600,800,275,304,125,251,3,800,4,598,items in living room
+new573,sausage,glass,600,800,718,774,479,549,40,799,89,599,sausage behind glass
+new574,chair,wheel,652,800,493,636,223,437,593,613,409,433,chairwoman has wheel
+new575,chair,blanket,600,800,553,765,217,562,655,762,219,486,chair with blanket
+new576,passengers,boat,600,800,563,754,261,392,456,774,311,423,rider sitting on boat
+new577,window,building,800,600,16,46,206,312,3,210,0,513,window on building
+new578,bottle,table,600,800,476,499,238,328,287,469,393,467,bottle is on superlative of table
+new579,car,road,600,800,67,478,269,417,1,800,275,599,car on the route
+new581,awning,patio,600,800,27,248,5,131,40,249,82,188,awning hanging over the patio
+new582,wall,building,600,800,200,421,154,328,4,797,2,434,rampart on building
+new583,light,vehicle,600,800,163,195,380,400,95,252,341,419,light on fomite
+new584,elephant,water,256,384,38,135,106,180,7,383,135,254,elephant in the water
+new585,taxi,pedestrian crossing,600,800,565,762,428,559,3,776,484,596,taxi approaching pedestrian crossroad
+new586,woman,sidewalk,600,800,637,682,336,499,327,799,428,597,woman stand on the sidewalk
+new587,cab,street.,600,800,203,369,331,404,0,745,304,504,taxi on street.
+new588,woman,shirt,600,800,375,443,266,438,380,420,284,351,woman in shirt
+new589,street light,sidewalk,600,800,105,158,55,161,2,205,452,487,street light over the sidewalk
+new591,park bench,park bench,800,600,1,96,477,798,1,96,477,798,park bench get park bench
+new592,plant,dirt,600,800,338,360,455,474,267,315,503,533,plant in grunge
+new593,woman,purse,600,800,33,202,38,337,33,89,131,224,woman make purse
+new594,woman,rain jacket,800,600,365,392,487,599,369,395,489,536,woman take on rain jacket
+new595,sign,sidewalk,486,648,321,344,254,279,1,647,234,329,sign on the pavement
+new596,taxi,street,800,600,379,600,559,688,3,601,663,792,taxi on street
+new597,van,street,800,600,3,97,505,597,2,418,512,796,van on the street
+new598,sidewalk,food kiosk,600,800,2,386,237,595,219,790,2,597,sidewalk give food kiosk
+new599,flag,building,600,800,400,444,28,143,138,800,4,359,pin hanging from building
+new600,person,sidewalk,600,800,576,592,349,392,3,799,376,439,individual is walking on sidewalk
+new602,building,window,600,800,511,649,1,234,550,570,179,204,building has windowpane
+new603,person,sidewalk,600,800,385,423,319,408,21,748,336,598,person on pavement
+new604,window,building,600,800,97,130,208,227,41,259,26,309,windowpane is on building
+new605,taxi,road,800,600,1,143,521,599,1,593,527,795,taxi is driving down route
+new606,windows,buildings,800,600,324,550,64,377,6,550,64,558,windows on the edifice
+new607,window,building,800,600,84,150,363,432,84,350,52,431,window on the building
+new608,sidewalk,taxi,600,800,167,799,366,599,152,407,332,470,sidewalk next to the taxi
+new609,person,pond,600,800,22,111,339,414,22,391,448,595,somebody wearing near pond
+new610,person,backpack,600,800,339,421,318,478,370,415,348,400,person has knapsack
+new611,car,street,600,800,3,288,359,499,1,771,352,599,railway car is on top of street
+new612,rear light,bus,600,800,671,679,355,367,647,708,350,396,rear light on autobus
+new613,wheel,cart,600,800,666,729,373,414,527,710,312,431,wheel on handcart
+new614,bushes,trees,600,800,463,636,387,453,317,788,113,443,bushes under tree
+new615,trash bin,sidewalk,600,800,162,204,359,437,7,410,361,597,trash bin on sidewalk
+new616,fence,fountain,600,800,502,765,293,373,284,606,158,323,fence in front of fountain
+new618,person,sidewalk,600,800,1,84,212,439,6,799,365,598,person walking on the pavement
+new619,person,crosswalk,600,800,688,733,224,353,625,799,315,494,person in the crossover
+new620,man,bike,600,800,257,319,290,439,277,325,356,463,man riding wheel
+new621,building,window,600,800,1,181,1,385,37,107,75,189,building has windowpane
+new622,woman,bag,600,800,485,566,418,598,439,531,472,598,woman carrying bagful
+new623,person,staircase,600,800,549,573,337,395,186,573,364,598,person at staircase
+new624,person,child,600,800,709,800,64,395,722,800,41,140,person carry child
+new625,van,street,600,800,253,400,45,130,441,800,123,323,vanguard in street
+new626,van,trafficlight,600,800,252,550,317,453,551,576,39,99,van drive under the ` trafficlight
+new627,flag,building,600,800,474,523,1,108,491,583,7,364,iris on building
+new629,flag,pole,600,800,530,552,185,270,535,555,158,291,flag on pole pole
+new630,window,building,800,600,167,176,136,149,121,195,101,472,window constitute on building
+new631,flag,building,600,800,224,257,77,149,1,214,0,600,sword lily on building
+new632,number,building,600,800,349,357,204,233,2,699,2,415,routine on building
+new633,woman,street,600,800,264,328,417,567,3,796,429,599,cleaning lady walking on street
+new634,Panasonic logo,letters,800,600,223,397,224,244,238,395,229,236,Panasonic logotype written in letters
+new635,square,window,600,800,341,389,352,409,397,414,352,387,square on the windowpane
+new636,building,window,600,800,176,800,0,406,470,488,79,131,construction with window
+new637,carpet,ground,600,800,87,798,265,597,88,799,267,599,carpet on the primer
+new638,woman,shirt,600,800,157,225,136,415,157,221,179,272,char wearing shirt
+new639,shirt,shirt,533,800,327,457,300,510,327,457,300,510,shirt on the shirt
+new640,picture,wall,533,800,580,779,144,415,538,646,47,141,picture on wall
+new641,hat,post,600,800,360,441,63,142,377,413,125,313,hat hanging on a post
+new642,window,plane,469,700,470,480,234,249,395,653,193,284,windowpane on plane
+new643,pole,runway,600,800,116,142,310,457,1,793,484,592,rod on runway
+new644,window,airplane,600,800,319,343,289,325,0,672,196,473,windowpane on airplane
+new645,people,trucks,600,800,35,340,356,535,3,539,181,451,citizenry near trucks
+new646,plane,ground,600,800,257,555,260,421,288,501,391,441,planer is on ground
+new647,building,windows,600,800,178,799,110,469,582,627,219,250,building take windows
+new649,window,building,600,800,54,121,254,395,1,298,3,517,window on a building
+new650,person,container,600,800,95,173,284,513,153,178,392,429,soul in container
+new651,rock,ground,600,800,257,301,492,522,1,798,158,600,rock on tiptop of the ground
+new652,man,shoes,600,800,376,701,101,547,427,546,462,548,man wearing skid
+new653,cabin,woods,600,800,291,734,175,481,1,798,0,596,cabin be in woods
+new654,trail,mountains,600,800,220,765,305,597,4,474,2,284,trail in the mountains
+new655,clouds,sky,600,800,126,356,92,222,2,740,14,160,cloud are in sky
+new656,grass,shrub,600,800,576,698,442,485,397,461,419,473,grass beneath the bush
+new657,people,beach,600,800,607,743,245,433,554,789,195,546,people on beach
+new659,buffalo,road,600,800,314,573,281,485,3,800,421,597,old world buffalo near road
+new660,Tree,mountain,600,800,186,221,195,263,1,797,0,290,Tree on mountain
+new661,road,grass,600,800,84,384,417,533,164,281,391,426,road by grass
+new662,food,shop,600,800,3,791,88,595,1,800,1,598,food in shop
+new664,plate,table,600,800,694,794,418,543,0,788,402,591,plate on mesa
+new665,filling,pie,600,800,243,393,140,188,171,608,39,229,filling in proto indo european
+new666,stone,wall,600,800,376,406,491,514,1,799,396,596,harlan f. stone on wall
+new667,bag ,arm,600,800,56,116,429,495,95,128,388,481,suitcase on an arm
+new668,person,sidewalk,600,800,269,397,286,575,411,751,469,587,person standing on sidewalk
+new669,boat ,water,600,800,362,384,417,434,84,233,469,566,boat on the water
+new670,building,steeples,600,800,105,373,327,484,165,324,341,374,construction has steeples
+new672,building,building,600,800,2,117,391,455,508,800,358,471,construction to the right of building
+new673,windows,building,600,800,427,472,327,360,486,562,257,346,window in building
+new674,window,building,600,800,129,186,85,154,0,356,1,540,window on the construction
+new675,man,shirt,600,800,272,417,259,425,291,393,270,336,man has shirt
+new676,chair ,room,600,800,198,232,393,443,154,326,239,599,electric chair in the room
+new677,letter, sign,600,800,246,257,241,255,239,282,240,258,letter on signaling
+new680,bird,sand,533,800,36,553,88,489,25,798,0,530,bird on sand
+new681,bird,water,600,400,49,284,116,317,9,388,285,394,razz standing in water
+new682,seal,eye,533,800,530,757,76,467,641,668,360,397,stamp has eye
+new683,reptile,stripes,533,800,209,401,417,532,286,334,462,526,reptile with banding
+new684,man,water,434,800,355,470,137,271,2,799,0,432,man standing in water
+new685,squirrel,ear,533,800,234,667,57,488,325,358,156,200,squirrel has ear
+new686,tail,squirrel,533,800,204,398,107,247,211,385,167,325,backside of squirrel
+new687,hoof,giraffe,800,534,279,310,637,659,96,468,143,691,hoof attached to giraffe
+new689,portion,sky,534,800,1,730,185,324,4,786,13,346,portion of sky
+new690,mountain,tree,534,800,22,793,287,357,166,465,139,427,mountain behind sir herbert beerbohm tree
+new691,eye,cheetah,801,534,200,246,113,151,3,379,56,390,eye of a cheetah
+new692,black spot,leopard,534,800,581,597,114,130,335,776,77,353,black bit on leopard
+new693,bull,horn,534,800,100,581,34,509,494,579,47,102,bull has tusk
+new694,lion,ear,533,800,203,391,343,513,247,311,366,436,lion have ear
+new695,animal,water,533,800,272,304,373,418,3,798,349,530,animate being in water
+new696,baby,monkey,600,400,129,212,300,402,51,338,90,442,baby with monkey
+new697,bridge,river,800,600,381,498,357,409,379,481,415,496,nosepiece is over river
+new698,pavement,white lines,600,800,5,800,346,596,610,734,499,596,pavement has white line
+new699,light,pole,600,800,508,526,202,215,437,493,206,472,light on the celestial pole
+new700,car,red tail lights,600,800,201,274,456,516,204,273,475,492,car has red arse lights
+new701,highway,area,600,800,188,777,351,564,83,798,144,540,highway in area
+new702,cloud,sky,600,800,244,413,136,280,419,632,28,155,cloud in sky
+new703,tower,hillside,600,800,299,324,253,285,175,599,261,410,tower on hillside
+new704,ramp,railing,600,800,478,731,392,470,506,667,402,432,ramp take railing
+new705,reflection,boat,600,800,124,694,456,599,118,692,319,528,reflection of the gravy boat
+new706,boats,water,600,800,2,799,209,461,1,798,354,598,boats on the h2o
+new707,boat,water,600,800,409,530,445,501,314,388,526,564,boat on top of water
+new708,cage,dock,600,800,221,306,381,451,79,703,376,502,cage is on docking facility
+new709,boat,water,600,800,56,248,381,425,0,795,366,593,gravy boat on water
+new710,building,water,600,800,29,311,332,440,200,492,431,570,edifice across water
+new711,line,street,600,800,3,793,450,522,2,800,429,597,line painted on street
+new712,car,road,600,800,236,298,369,419,132,286,463,557,railway car on road
+new713,car,road,600,800,353,450,390,471,256,435,480,578,car in route
+new714,car,tire,600,800,302,512,337,416,410,440,388,418,railcar has tire
+new715,woman,dock,600,800,256,320,251,344,320,399,280,369,woman on pier
+new716,brick,building,800,600,268,364,36,94,20,581,181,608,brick in building
+new717,goats,grass,600,800,153,642,208,507,0,788,215,482,goats in eatage
+new718,window,building,600,800,644,698,169,236,548,794,81,585,window of construction
+new719,ripples,water,600,800,479,607,539,584,201,509,429,598,ripples on urine
+new721,billboard,building,600,800,276,374,146,364,138,370,105,435,billboard on building
+new722,flag,building,600,800,557,601,111,202,1,733,0,462,flag is on side of construction
+new723,motorcycle,street,600,800,62,116,453,477,375,447,536,592,motorcycle on top side of street
+new724,chair,legs,534,800,308,423,336,470,308,423,388,472,chair birth legs
+new725,head light,night,534,800,654,678,444,466,3,792,3,529,head light on at night
+new727,tree is behind,building,600,800,685,798,69,258,1,798,5,481,tree is behind is behind building
+new728,window,building,600,800,524,558,170,215,335,652,32,438,window on a building
+new729,window,building,600,800,693,767,133,212,453,747,97,408,windowpane on building
+new730,window,building,600,800,708,730,316,336,684,759,302,382,window on edifice
+new732,man,shirt,600,800,179,268,282,480,182,273,298,394,human being wearing shirt
+new733,window,building,600,800,252,296,44,148,2,498,0,417,window on the construction
+new734,window,building,600,800,424,510,55,198,95,723,44,380,window on building
+new735,shadow,sidewalk,600,800,1,62,543,589,1,552,365,598,shadow on pavement
+new736,man,mostly bald head,600,800,677,796,332,594,721,778,335,416,man with mostly bald read/write head
+new737,cloud,sky,600,800,450,490,49,75,231,280,3,16,swarm in sky
+new738,bird,tail,600,800,572,606,193,246,573,595,210,234,wench has tail
+new739,beak,duck,600,800,478,497,476,497,478,554,476,529,beak on duck's egg
+new740,fence,water,600,800,3,797,378,413,3,796,416,596,fence above piddle
+new741,window,building,600,800,541,555,248,299,285,798,1,419,window on construction
+new744,man,skis,600,800,125,196,332,595,23,117,431,491,mankind holding skis
+new745,flag,snow,600,800,438,456,441,453,1,799,347,597,flag in the coke
+new747,skylight,roof,600,800,713,747,171,187,604,797,154,264,fanlight is on top of roof
+new748,lines,road,600,800,367,551,348,445,81,399,448,597,lines on route
+new749,sign,pole,600,800,271,297,283,319,262,295,316,453,signal on pole
+new750,Grass,pool edge,600,800,18,799,0,120,1,793,2,333,Grass on pool boundary
+new751,roll,plate,800,600,356,596,394,625,326,593,374,670,roll on plate
+new752,window,building,600,800,229,297,257,427,112,292,20,513,windowpane on building
+new754,man,plaza,600,800,93,131,456,552,1,800,473,599,man in a plaza
+new755,window,building,600,800,558,585,190,212,280,705,7,331,window on edifice
+new756,walkway,grass,600,800,432,794,300,594,2,796,264,598,walkway on sens
+new757,white cars,alley,600,800,226,382,361,491,7,796,373,593,white cars on back street
+new758,wiring,buildings,800,600,105,489,26,105,3,597,2,794,wire between the buildings
+new759,number,building,600,800,32,62,168,187,3,359,2,478,number on construction
+new760,tree,leaves,600,800,310,419,218,299,356,421,190,236,tree has leave
+new761,car,parking space,600,800,304,696,400,586,352,652,501,594,machine parked in parking space
+new762,number,column,600,800,529,546,328,341,508,561,310,413,number on the editorial
+new763,house,gate,600,800,192,798,10,453,306,357,413,504,mansion with gate
+new764,person,bicycle,600,800,477,566,313,453,477,574,363,495,mortal riding bicycle
+new765,car,road,600,800,345,380,388,422,316,793,384,596,car in route
+new766,window,building,600,800,664,703,155,184,442,764,98,296,window in construction
+new768,man,backpack,600,800,117,218,372,561,138,204,414,539,gentleman's gentleman wearing a backpack
+new770,crosswalk,crosswalk,600,800,44,777,450,598,44,777,450,598,crosswalk walk on crosswalk
+new771,car,road,600,800,403,694,327,467,152,764,382,582,car on top of the route
+new772,woman,street,600,800,310,371,340,487,29,789,344,594,woman cross street
+new773,tree,long branch,600,800,4,702,1,323,5,625,9,122,tree with recollective branch
+new774,Window,building,600,800,549,594,98,176,65,798,1,379,Window on building
+new776,window,building,600,800,104,124,330,357,3,296,189,429,window on a construction
+new777,building,sky,800,600,85,239,173,332,121,335,31,141,construction below sky
+new778,window,building,600,800,408,424,72,98,370,448,50,276,windowpane on building
+new779,wall,building,600,800,630,798,1,527,636,798,1,520,rampart on building
+new780,leaves,tree,600,800,347,485,188,315,314,492,193,371,leaves on sir herbert beerbohm tree
+new781,head ,person,600,800,96,126,234,271,93,126,240,357,head of somebody
+new782,car,snow,600,800,507,682,332,450,0,800,320,599,car comprise in snow
+new783,window ,building,600,800,676,695,282,316,670,779,21,447,windowpane on building
+new784,snow,ground,600,800,1,800,305,600,2,800,323,598,snow be on the ground
+new785,SUV ,snow,600,800,152,270,427,505,181,313,490,561,SUV covered in snow
+new786,crosswalk sign,Pole,600,800,212,278,185,251,209,249,253,472,crossing sign on Pole
+new787,snow,car,600,800,530,594,486,563,24,176,391,590,charles percy snow on car
+new788,window,building,600,800,164,197,149,207,3,451,89,439,window in building
+new789,light,top,600,800,286,318,277,378,291,317,265,301,light has top
+new790,window,building,600,800,453,479,97,117,445,567,98,384,window on edifice
+new791,man,shirt,600,800,134,186,182,283,267,316,210,249,man wearing shirt
+new792,car,street,600,800,463,716,427,594,61,799,452,598,car on the street
+new795,trash ,pole,600,800,379,431,383,545,402,432,376,549,trash on rod
+new797,arm,woman,600,800,279,312,308,331,269,314,265,366,arm around woman
+new798,chair,leg,600,800,182,323,346,590,188,222,490,577,chair has leg
+new799,table and chairs,building,600,800,76,410,311,534,277,475,14,532,table and chairs in battlefront of building
+new800,building,arch,600,800,5,801,20,436,646,667,151,197,building take arch
+new801,car,road,600,800,156,322,462,596,309,760,481,597,car on road
+new802,building,windows,600,800,230,396,1,495,261,292,97,227,construction has windows
+new803,chain,walkway,600,800,143,325,426,542,29,448,381,557,chain on walkway
+new804,window,building,600,800,210,231,271,349,1,259,0,524,window on the building
+new805,water,ripples,600,800,4,797,214,599,81,289,359,439,water has rippling
+new806,boat,water,600,800,421,437,323,334,182,797,307,356,boat in water
+new807,man,sidewalk,600,800,444,485,299,440,136,799,301,600,man walking on sidewalk
+new808,boat,boat,600,800,392,576,83,192,392,576,83,192,sauceboat on the boat
+new809,man,parking lot,600,800,398,420,421,465,5,800,435,590,man walking across parking peck
+new810,boat,the water,600,800,19,103,422,502,8,136,488,539,boat is on the pee
+new811,sail pole,boat,600,800,23,47,92,399,2,101,83,437,sail pole on boat
+new812,cloud,sky,600,800,336,474,50,130,11,793,5,310,cloud in sky
+new813,yacht,mast,600,800,173,459,63,493,259,314,79,439,yacht take mast
+new814,boats,bay,600,800,10,790,69,598,25,787,150,415,boat docked in bay
+new815,boat,water,600,800,196,771,233,506,7,799,95,597,boat on top of water
+new816,window,building,600,800,589,666,201,309,477,773,54,379,window on building
+new820,window,building,600,800,637,647,37,59,559,788,11,210,windowpane on building
+new821,shadow,road,600,800,446,683,399,491,95,730,357,592,shadow on road
+new822,Building,bridge,600,800,162,382,316,402,42,455,286,545,Building behind a bridge
+new823,trash can,sidewalk,600,800,605,663,396,483,164,600,400,571,rubbish can on sidewalk
+new824,window,building,600,800,64,86,443,462,7,203,365,513,window on building
+new825,people,yach,600,800,264,392,253,330,73,797,8,473,people on yach
+new826,palm ,tree,600,800,554,606,123,180,519,696,109,312,laurel wreath on tree
+new827,sign,street,600,800,198,283,217,281,2,798,281,598,sign nigh street
+new828,car,street,600,800,331,637,285,496,305,570,458,587,railroad car on street
+new829,wheel,car,600,800,294,353,426,487,97,451,326,485,wheel cost on a car
+new830,license plate,car,600,800,387,442,461,478,291,487,368,510,license plate on car
+new831,bus,street,600,800,317,745,177,382,55,635,359,568,busbar on street
+new832,fence,wall,600,800,459,638,294,390,381,624,364,464,fence on paries
+new833,blue,plate,600,800,458,570,441,456,262,316,452,469,blue car home
+new834,van,curb,600,800,250,421,268,384,3,298,352,476,van on curb bit
+new835,sidewalk,street,600,800,3,464,412,567,2,610,420,592,sidewalk next to street
+new836,bus,road,600,800,484,781,160,474,257,446,391,550,double decker on the road
+new837,shadow ,street,600,800,690,797,441,497,58,796,373,597,shadow On the street
+new838,car,ground,600,800,292,611,323,509,549,683,460,564,car on ground
+new839,car,parking lot,600,800,153,489,333,583,1,796,323,593,car in parking lot
+new840,building,door,600,800,581,799,4,600,689,731,151,584,building has a doorway
+new842,trash can,bench,600,800,375,474,312,467,459,567,297,419,trash can next to bench
+new843,squirrel,tree,600,800,333,497,227,351,66,764,0,598,squirrel on side of tree
+new844,window,building,600,800,65,74,60,73,1,161,14,187,window on the edifice
+new845,trees,building,600,800,419,789,120,302,138,798,2,315,trees by building
+new846,stem,park,600,800,525,569,64,212,18,768,31,535,stem turn inside park
+new847,baby,stroller,600,800,539,545,346,359,525,549,339,411,baby is inner stroller
+new850,tree,street,600,800,511,579,10,427,1,793,404,598,tree on side of street
+new851,lights,truck,600,800,527,571,293,314,518,590,256,323,lights on the motortruck
+new852,tile,floor,600,800,513,652,514,599,146,799,333,597,tile on floor
+new853,picture,frame,600,800,0,123,19,140,0,141,6,157,picture in chassis
+new854,red tray,meal,600,800,96,714,108,545,130,667,188,461,red tray containing meal
+new855,fork, table,600,800,381,429,283,444,7,796,113,598,crotch on table
+new856,plate,table,600,800,229,619,265,523,6,799,1,595,plate on table
+new857,plant,street light,600,800,34,60,530,560,54,219,1,555,plant at the base of street brightness
+new858,tree,sidewalk,600,800,140,728,4,544,1,371,367,599,tree On the pavement
+new859,grass,ground,600,800,2,516,446,597,1,798,403,598,grass is on the solid ground
+new860,door,building,600,800,281,346,281,570,194,526,170,559,door on building
+new861,person,tiles,600,800,388,426,275,422,106,624,315,599,person standing on tiles
+new862,sign,stand,600,800,185,385,218,270,92,417,229,540,signaling on stand
+new863,car,road,600,800,414,462,443,488,288,526,402,592,cable car on road
+new864,person,path,600,800,73,112,408,490,0,371,442,509,person is walking on path
+new866,car,parking lot,800,600,561,600,566,587,486,597,549,664,motorcar in a parking lot
+new867,window,building,600,800,1,131,198,427,2,231,1,454,window on a building
+new870,1831,sign,600,800,12,49,262,315,1,70,223,489,1831 written on signal
+new871,car,road,600,800,359,693,351,488,99,801,358,597,car is on the road
+new872,bus,street,600,800,4,255,335,422,1,796,400,593,passenger vehicle on street
+new873,window,building,600,800,636,671,128,150,470,692,81,286,window on edifice
+new874,person,jeans,800,600,363,394,700,756,363,394,724,756,person in dungaree
+new875,tree,building,600,800,640,744,249,425,563,692,210,389,tree sequester to building
+new876,window,building,600,800,304,333,309,361,253,510,133,504,window on building
+new878,bike,pole,600,800,113,332,329,479,233,256,1,473,bike slant on pole
+new879,sticker,door,600,800,700,730,277,303,661,773,187,506,spikelet on door
+new880,person,street,480,640,397,438,312,439,2,640,357,478,mortal is crossing street
+new881,woman,hair,453,604,67,362,37,449,73,354,37,417,woman has fuzz
+new882,tower,desk,480,640,154,272,183,336,0,637,0,139,tower is under desk
+new883,man,bridge,500,282,198,211,142,165,3,282,37,191,man on bridge circuit
+new884,door knob,door,600,800,789,799,142,169,615,800,0,345,door knob on door
+new885,monitor,desk,600,800,497,794,76,404,209,793,252,595,monitor on top of desk
+new886,Boat,water,600,800,591,668,53,128,344,783,119,441,Boat be on water
+new887,man,coat,480,640,1,48,192,356,1,76,293,432,man wearing coating
+new890,sail,boat,480,640,326,347,294,316,326,350,294,328,sail on gravy holder
+new891,man,trees,600,800,409,438,283,352,544,676,156,305,man near tree
+new893,boy,cone,534,800,413,575,122,325,529,574,281,323,boy running next to cone
+new894,people,ship,480,640,276,566,243,291,183,621,261,346,the great unwashed in ship
+new895,stapler,shelf,600,800,327,544,214,316,237,798,111,599,stapler on the shelf
+new897,mitt,hand,427,640,329,361,187,235,336,364,186,251,mitt on hand
+new898,cord ,lamp,600,800,57,324,189,502,205,404,52,286,cord for lamp
+new899,pen,desk,600,800,358,408,319,371,220,556,413,594,pen on desk
+new900,clowds,sky,600,800,5,739,75,165,1,798,4,286,clowds in sky
+new901,window,building,800,536,205,363,50,158,5,500,16,215,windowpane on building
+new902,plane,runway,400,601,86,471,151,321,368,512,299,370,aeroplane on runway
+new903,shadow,ground,480,640,252,639,108,162,1,640,100,477,phantasma on ground
+new904,woman ,woman ,480,640,287,435,261,435,287,435,261,435,charwoman holding woman
+new905,label,toaster,480,640,82,144,398,478,2,188,343,479,label is on wassailer
+new906,light,ceiling,600,800,571,757,55,108,2,795,2,159,brightness on ceiling
+new907,group,people,379,580,2,577,8,331,2,574,4,329,group of people
+new908,person,surfboard,600,800,447,503,298,450,361,686,411,446,person carry surfboard
+new909,line,pole,513,797,495,559,101,124,472,567,1,373,line around a pole
+new910,man,shirt,600,800,200,551,0,360,203,548,44,361,man fall apart shirt
+new911,basket,bicycle,335,512,22,104,72,148,3,504,24,331,basket on bicycle
+new912,woman,badminton,500,333,61,241,48,398,1,333,61,496,woman play badminton
+new913,light,car,480,640,383,423,282,321,155,420,188,408,light attached to car
+new914,speaker,monitors,480,640,310,416,383,479,88,640,223,469,utterer between monitors
+new916,toys,table,480,640,85,353,260,299,2,638,267,335,toys on tabular array
+new917,cereal box,table,600,800,532,740,4,491,69,797,338,507,cereal corner cost on top of table
+new919,window,car,323,486,137,170,156,183,18,241,147,240,windowpane on a car
+new920,stair,room,451,600,366,408,167,194,111,574,63,449,step inside of room
+new922,chin,girl,534,800,449,577,336,403,407,799,82,530,kuki chin of girl
+new923,stripes,road,480,640,148,416,138,352,519,614,133,286,stripe on road
+new924,door,house,600,800,266,334,497,575,163,423,104,576,door on house
+new925,number,equipment,480,640,287,325,288,312,191,606,153,456,number on equipment
+new926,stapler,table,600,800,321,436,355,420,2,800,268,564,stapler on board
+new927,man,spray bottle,480,640,324,562,0,476,295,383,89,222,man is holding a spray bottleful
+new928,man,backpack,480,640,417,488,21,110,442,476,39,64,military personnel has backpack
+new929,brick ,ground,600,800,632,659,507,526,6,800,145,595,brick on ground
+new930,eyes,face,529,800,176,335,230,276,145,353,138,434,eyes on face
+new933,window,building,480,640,156,229,70,103,14,94,28,99,window on edifice
+new936,table,person,480,640,483,640,254,438,318,580,1,451,table be behind person
+new937,panel,ceiling,480,640,214,281,22,47,28,541,0,86,panel on ceiling
+new938,rock,lake,480,640,551,602,377,413,73,188,256,362,rock near lake
+new939,bird,tail,375,500,253,409,96,260,254,306,181,229,shuttle has tail
+new940,foam,water,375,500,318,423,203,297,260,349,129,197,froth on water
+new941,top,building,333,500,272,332,81,148,232,351,78,142,top of building
+new943,branches,Leaves,600,800,15,116,9,75,10,117,10,84,branches with Leave
+new944,building,window,600,800,135,794,0,401,514,538,139,188,construction has window
+new945,Window,Building ,600,800,322,349,317,385,208,798,2,450,Window on Construction
+new947,woman,hair,800,534,330,478,524,797,376,458,523,593,adult female has hair
+new950,Man,Pink shirt,534,800,732,775,486,531,753,766,502,531,Man wears Pinko shirt
+new951,trees,lawn,800,534,234,532,230,525,234,532,422,526,trees in lawn
+new952,Branch,Plant,426,568,484,506,301,390,475,509,296,380,Branch on Industrial plant
+new953,man ,bike,426,568,341,418,299,398,341,406,364,407,homo is on bike
+new954,cats,chair,426,568,131,467,134,406,2,565,5,424,cats on chair
+new955,cat,tongue,426,568,4,568,49,424,203,260,366,410,cat hold tongue
+new956,cat,ear,426,568,2,456,110,389,334,394,110,169,quat has ear
+new957,brown kitty,cat,426,568,31,467,87,339,1,463,214,412,brown kitty on top of cat
+new958,ear,ear,426,568,268,341,101,197,268,341,101,197,ear of ear
+new959,water,mountains,384,512,3,509,212,382,5,511,0,100,piss near mountains
+new960,headlight,car,384,512,199,247,168,222,40,457,44,374,headlamp on car
+new961,sunglasses,head,601,800,145,330,93,184,122,331,102,356,dark glasses on head
+new962,girl,eyes,601,800,186,504,116,525,339,447,275,312,girl have eyes
+new963,woman,man,601,800,391,559,160,549,136,387,68,542,charwoman next ot man
+new964,person,sidewalk,601,800,39,277,5,597,5,800,421,592,person on pavement
+new965,person,bridge,601,800,752,779,497,533,1,796,332,487,person walking on bridge
+new966,papers,board,240,320,113,159,59,77,101,180,55,118,papers on board
+new967,brick,ground,800,600,2,382,428,449,1,596,420,795,brick is on undercoat
+new968,step,sidewalk,800,600,197,594,546,588,3,599,448,799,step on pavement
+new969,window,building,800,600,297,340,198,235,7,78,106,210,window attach to building
+new970,window,building,800,600,361,406,245,291,168,599,3,437,windowpane on the face of the building
+new971,branch,tree,800,600,1,213,143,307,19,232,2,329,branch on sir herbert beerbohm tree
+new972,ground,leaves,800,600,3,595,409,790,13,595,405,798,ground is filled with leaves
+new973,needles,ground,800,600,0,572,454,760,58,396,493,764,needles lie in on ground
+new974,wall,building,800,600,1,433,3,458,2,596,0,477,wall on construction
+new977,pathway,building,800,600,139,598,464,517,1,599,8,469,pathway exist in front of building
+new978,light,street,800,600,2,347,463,673,2,598,469,798,light headed shining street
+new979,red flower,tree,800,600,151,168,359,376,25,203,202,423,red flower part of tree
+new980,greenleaves,tree,800,600,404,448,233,277,288,454,168,381,greenleaves visible on tree
+new982,row,hedges,534,800,582,796,192,315,571,800,186,311,row of hedge
+new983,wall,sidewalk,534,800,12,86,179,301,24,422,273,396,wall walking on pavement
+new984,carving,wall,534,800,132,159,37,79,122,157,45,71,carving on bulwark
+new985,woman,sidewalk,534,800,434,502,245,481,200,734,288,527,woman on pavement
+new986,banana,plate,480,640,192,390,178,312,193,339,77,193,banana on home plate
+new987,rocks,stairs,480,640,221,274,274,327,4,603,297,476,rocks on the stairs
+new988,people,plane,508,800,580,673,295,370,28,361,24,242,people look out plane
+new989,flag,spacesuit,435,639,435,497,138,208,247,627,104,423,flag on spacesuit
+new990,logo,box,600,800,290,381,181,330,114,756,110,517,logo on the box seat
+new991,wheel,luggage cart,600,800,185,221,530,566,155,400,399,584,wheel bond to luggage cart
+new992,pickup,stairs,600,800,555,686,334,409,644,721,264,378,pickup by stair
+new993,truck,plane,600,800,371,495,334,482,181,704,212,334,truck skinny plane
+new994,person,t shirt,600,800,620,698,372,540,635,683,403,458,person wears t shirt
+new995,wall,building,500,309,1,309,0,286,1,309,1,498,wall on side of building
+new996,sign,people,600,800,233,257,207,225,414,574,227,282,sign for people
+new997,head,lady,483,500,101,161,103,159,45,197,101,395,head of madam
+new998,woman,pillow,413,620,209,287,208,397,255,287,210,294,woman holding pillow
+new1000,worker,vest,600,800,522,560,279,324,526,550,295,322,proletarian wearing vest
+new1001,grass,field,600,800,2,95,388,434,6,311,413,599,grass on the field
+new1002,machine,leg,413,550,2,195,99,406,66,103,339,409,machine has a a leg
+new1003,man,machine,404,606,293,371,125,316,367,439,89,227,man playing the machine
+new1004,boy,shirt,600,800,263,319,282,450,263,315,315,382,boy wearing a shirt
+new1006,head,post,353,300,50,87,105,156,58,67,162,338,head is on post
+new1007,curtains,window,600,800,49,178,94,155,36,125,176,337,curtains is on window
+new1008,frame,artwork,336,450,48,109,127,166,46,110,127,172,frame is around artwork
+new1009,urn,right,568,672,154,176,260,305,17,181,6,553,urn on are right
+new1010,parking lot,lines,563,750,4,750,335,562,85,492,420,519,parking lot has a a lines
+new1011,wall,building,346,500,0,499,0,285,1,498,0,344,wall is on side of building
+new1012,sandy area,beach,600,800,1,798,260,598,1,798,254,597,sandy area on the beach
+new1013,man,shirt,600,800,401,436,264,330,399,436,264,323,man wearing a a shirt
+new1014,white label,shelf,600,800,257,292,292,313,118,482,132,589,white label on are shelf
+new1017,man,pictures,541,800,527,788,42,540,1,458,4,394,man looking  pictures
+new1019,letters,word,800,600,298,533,112,197,295,540,109,194,letters spell the word
+new1020,girl,ponytail,648,486,116,223,216,406,184,203,216,278,girl are with a ponytail
+new1021,man,eye glass,300,270,8,128,137,300,63,78,161,173,man are in an eye glass
+new1022,girl,room,336,448,330,372,58,141,1,445,3,331,girl standing in back of a room
+new1023,man,easel,600,800,470,737,141,474,394,548,169,344,man are with a easel
+new1024,ceiling,lights,480,640,48,630,18,89,537,558,59,69,ceiling is covered in lights
+new1025,door,house,249,407,61,392,22,242,81,107,144,199,door on are house
+new1026,podium,chairs,360,541,409,511,174,294,165,308,181,253,podium are near the chairs
+new1027,seats,row,300,560,302,370,165,233,262,342,153,209,seats are in an row
+new1028,structure,supports,600,800,245,381,471,536,336,464,481,541,structure on are supports
+new1029,car,seat,565,800,3,797,3,563,3,168,47,562,car has luxury  seat
+new1030,step,wall,800,600,206,511,383,483,266,597,3,527,step are next to the wall
+new1031,shack,boat,533,800,163,319,169,245,208,314,230,264,shack is near the boat
+new1032,cart,luggage,600,800,52,239,402,600,97,213,515,589,cart is for luggage
+new1033,puffs,bakery,486,650,51,106,203,242,19,529,40,464,puffs are in an bakery
+new1035,box,candies,375,500,32,181,3,91,60,167,4,74,box are with a candies
+new1036,bread,bread,336,500,298,363,71,101,298,363,71,101,bread is on top of bread
+new1037,man,white,379,500,375,464,102,278,30,58,156,170,man are in an white
+new1038,goods,basket,403,575,312,485,195,238,314,546,237,262,goods are in an basket
+new1039,woman,bread,375,500,226,291,141,209,55,435,218,255,woman are in front of a bread
+new1040,sign,window,600,800,649,696,0,74,572,800,2,194,sign on are window
+new1041,girl,skirt,600,800,697,798,72,373,715,796,221,281,girl is wearing skirt
+new1042,man,jeans,426,568,76,201,117,415,94,179,255,393,man is wearing jeans
+new1043,woman,shirt,343,500,266,406,92,229,285,396,136,211,woman wearing a a shirt
+new1044,table,wall,515,800,65,129,146,186,4,271,2,192,table are sitting near wall
+new1045,metal chair,table,530,800,421,542,251,335,189,776,297,525,metal chair at a table
+new1046,wine bottle,table,480,640,574,602,306,409,501,635,207,446,wine bottle on a table
+new1047,man,woman,594,754,139,473,5,287,207,467,240,503,man is baptizing woman
+new1050,shelf,bar,512,768,613,709,396,476,18,758,4,491,shelf is at bar
+new1051,flowers,table,300,400,2,100,0,234,3,375,57,299,flowers on are table
+new1052,wine,glass,300,445,252,281,187,263,269,290,200,260,wine on are glass
+new1053,chair,table,300,350,206,290,171,266,125,213,175,275,chair is at table
+new1054,boats,water,265,362,45,91,79,95,0,348,76,101,boats in the water
+new1055,man,head,237,316,31,257,73,236,133,197,74,138,man has a head
+new1056,person,tank top,532,720,507,669,194,371,558,609,215,283,person wearing a a tank top
+new1058,comforter,bed,547,674,1,489,355,545,0,501,335,544,comforter are covering a bed
+new1060,armoire,television,558,622,16,134,380,530,4,96,185,354,armoire are with a television
+new1061,pillow,headboard,582,801,236,361,276,367,46,311,244,387,pillow is against headboard
+new1062,ottoman,floor,800,717,155,426,525,696,2,717,470,799,ottoman is on top of floor
+new1063,tv,dresser,480,640,127,318,119,243,9,348,253,423,tv on are dresser
+new1064,window,blind ,471,512,247,309,72,248,248,310,70,111,window are with a blind 
+new1065,sheet,bed,566,800,155,786,285,565,150,787,272,562,sheet on are bed
+new1066,drapes,window,480,640,92,215,4,303,2,193,7,234,drapes on are window
+new1067,picture,wall,399,600,154,205,77,162,50,136,44,122,picture on are wall
+new1068,bed,floor,480,640,310,549,172,355,166,311,353,439,bed on are floor
+new1070,boat,dock,599,800,471,636,380,528,325,568,404,552,boat on are dock
+new1071,bikes,ground,534,800,16,560,265,494,13,772,227,532,bikes on are ground
+new1072,Window,building,435,320,50,73,1,16,0,237,0,45,Window are in an building
+new1073,light,ceiling,600,800,264,346,147,197,195,551,1,36,light are suspended from ceiling
+new1074,car,car,600,800,26,368,457,597,449,776,462,590,car parked by a car
+new1075,cups ,table,555,801,320,561,362,434,2,800,266,536,cups  on are table
+new1076,light,ceiling,378,504,229,374,3,57,11,503,3,16,light is in ceiling
+new1077,hand,man,267,400,248,305,218,243,151,300,60,252,hand are of a man
+new1078,chair,bookshelf,375,500,48,289,191,363,104,419,17,204,chair are near the bookshelf
+new1079,chair,carpet,400,600,228,309,234,342,232,403,303,367,chair on a  carpet
+new1080,wires,panel,608,800,588,646,317,388,541,679,288,471,wires on are panel
+new1081,mirror,wall,600,800,315,392,22,350,76,791,5,600,mirror is on the wall
+new1082,basket,shoes,402,600,170,273,326,400,180,369,257,338,basket is filled with shoes
+new1083,pillow,window seat,412,550,258,353,218,317,151,464,279,410,pillow are in an window seat
+new1084,man,pants,479,640,170,379,43,383,211,353,218,401,man has a a pants
+new1085,pins,lane,317,350,16,27,8,15,1,41,16,89,pins are in an lane
+new1086,man,lane,480,640,153,286,148,359,211,311,214,343,man are in front of a lane
+new1087,man,shirt,360,587,251,315,219,338,248,293,225,279,man are in an shirt
+new1088,player ,ball,800,600,154,430,387,654,359,374,407,423,player  is throwing ball
+new1089,lettering,tower,600,800,704,734,123,267,693,739,107,306,lettering are running down tower
+new1090,windshield,bus,450,600,164,204,111,145,139,340,57,177,windshield are of a bus
+new1091,people,people,400,533,105,528,64,392,105,528,64,392,people sitting in a bus people
+new1092,guy,green shirt,427,640,376,431,171,218,342,379,225,286,guy are in an green shirt
+new1093,people ,bus,536,800,364,542,173,359,146,506,149,413,people  entering a bus
+new1094,rack,meat,480,640,1,640,3,100,14,636,41,381,rack has a a meat
+new1095,man,candy store,600,800,384,544,157,591,3,799,6,588,man is at candy store
+new1096,chair,electronic game,301,400,301,373,210,299,250,323,62,266,chair are in front electronic game
+new1097,chair,casino,300,400,43,88,202,296,1,397,0,293,chair are in an casino
+new1101,person ,robe,512,640,365,400,156,210,362,396,190,214,person  wearing a a robe
+new1102,chair,desk,600,800,260,477,426,568,410,541,393,485,chair are next to the desk
+new1104,chalkboard,wall,600,800,238,726,94,259,246,737,5,107,chalkboard on the wall
+new1105,cake,picture,545,800,541,578,228,274,535,585,209,278,cake are in an picture
+new1106,desk,room,601,800,2,319,342,511,2,800,5,597,desk inside the room
+new1107,basket,shelf,627,800,346,461,378,461,346,463,99,488,basket on are shelf
+new1108,screen,computer,533,800,250,319,169,225,228,346,152,282,screen of a computer
+new1110,window,wall,600,800,48,365,0,215,3,398,1,276,window on are wall
+new1111,desk,office,534,800,0,418,472,521,3,798,1,532,desk in the office
+new1112,seats,rails,497,624,213,407,367,393,217,513,354,374,seats on are rails
+new1113,man,toolbox,800,600,145,290,460,799,309,519,547,799,man standing next to an toolbox
+new1114,bush,building,385,480,99,124,320,350,90,479,5,360,bush is beside building
+new1115,cows,grass,532,800,327,543,430,505,77,186,441,523,cows are in an grass
+new1116,man,snow,801,542,287,400,287,332,361,535,323,494,man lies on a snow
+new1119,man,blue sweater,335,500,3,93,28,147,3,141,112,264,man wearing a a blue sweater
+new1120,man,beans,500,375,20,180,1,341,178,241,413,431,man are in front of a beans
+new1121,stripe,shirt,375,500,123,168,149,164,90,205,111,280,stripe on are shirt
+new1122,window pane,door,256,256,153,191,19,113,144,197,9,115,window pane on are door
+new1124,license plate,truck,384,725,407,423,270,286,381,482,211,294,license plate on the truck
+new1125,flower,bouquet,691,800,348,361,457,467,312,365,437,479,flower is on bouquet
+new1126,man,gurney,336,500,381,490,73,334,2,395,226,334,man standing next to a gurney
+new1127,leaf,plant,600,800,290,334,214,227,222,326,165,328,leaf on the plant
+new1128,beam,ground,800,600,142,226,250,263,2,599,148,797,beam on are ground
+new1129,structure,field,480,640,133,212,203,234,195,386,217,243,structure on are field
+new1130,tomatoes,tomatoes,375,500,70,200,220,281,70,200,220,281,tomatoes are of a tomatoes
+new1131,house,windows,443,800,5,780,92,315,230,247,141,167,house has a a windows
+new1132,window,restaurant,239,686,2,78,29,102,6,663,4,234,window are in an restaurant
+new1133,wall,building,536,800,691,791,3,534,12,777,36,513,wall is on building
+new1134,window,building,800,404,281,334,210,358,6,394,3,782,window is on building
+new1135,ladder,stairway,290,500,162,303,102,289,163,420,103,288,ladder on are stairway
+new1138,lily,bouquet,335,500,23,58,144,197,7,223,56,332,lily are in an bouquet
+new1139,smile,girl,312,250,78,106,79,91,9,184,18,143,smile on are girl
+new1140,blue chair,white table,480,640,347,414,272,367,60,401,268,293,blue chair pulled up to the white table
+new1141,manicured shrub,garden,534,800,439,473,186,205,0,797,21,529,manicured shrub are in an garden
+new1142,red light,wall,427,640,597,621,84,120,612,633,116,382,red light on are wall
+new1143,room,pool table,450,675,0,673,1,450,328,547,187,363,room has a pool table
+new1144,table,paddle,360,480,286,348,330,353,286,348,330,353,table on are paddle
+new1145,tools,wall,525,700,303,480,161,286,284,659,39,386,tools on are wall
+new1146,Rock,Ground,600,800,0,656,361,515,0,796,260,593,Rock on are Ground
+new1147,woman,stroller,412,610,96,149,86,167,116,163,138,166,woman are pushing stroller
+new1148,number,sign,600,800,449,497,38,152,436,629,16,211,number on are sign
+new1149,package,bin,402,600,383,395,284,292,369,450,266,360,package are in an bin
+new1152,bale,field,256,257,158,200,204,240,1,255,117,253,bale are in an field
+new1153,window,building,480,640,353,396,267,337,88,594,73,386,window is on building
+new1154,boy,jeans,371,484,438,475,285,370,456,475,338,363,boy are in an jeans
+new1155,heart,picture,400,631,239,265,110,156,230,311,65,221,heart on are picture
+new1156,bed,floor,256,256,51,228,85,144,0,253,130,256,bed above the floor
+new1158,couple,base,514,800,137,204,305,388,109,546,312,416,couple sitting at the base
+new1159,man,water,442,286,44,123,283,402,22,284,203,442,man relaxes in water
+new1160,man,water,600,398,167,247,274,328,83,262,253,396,man in the water
+new1162,Man,cap,343,460,178,225,153,306,189,216,156,171,Man wearing  a cap
+new1163,wall,building,448,625,57,420,168,313,43,556,135,318,wall on are building
+new1164,person,shadow,600,800,549,570,352,381,526,595,374,598,person casting  shadow
+new1165,bed,cell,467,625,75,501,216,324,2,623,1,464,bed are in an cell
+new1167,lock,door,600,800,449,551,358,388,470,603,179,557,lock on are door
+new1168,shelf,books,603,801,144,659,170,356,360,416,220,262,shelf holds an books
+new1169,window,building,467,700,37,100,79,170,27,699,19,449,window On the  building
+new1170,yellow slide,the room,450,700,17,192,124,397,5,698,5,446,yellow slide to the left of the room
+new1171,pink shirt,girl,370,475,94,144,170,219,80,170,138,297,pink shirt is on girl
+new1176,cabinet,glass,600,800,732,798,0,262,752,796,5,238,cabinet has  an glass
+new1177,cereals,shelf,384,512,424,491,1,79,429,511,67,86,cereals on are shelf
+new1178,steel sink,countertop,600,800,560,782,409,493,278,794,328,544,steel sink set  countertop
+new1179,refrigerator,magnet,480,640,473,604,119,361,563,582,231,248,refrigerator is covered in magnet
+new1180,kitchen,wall,512,768,7,762,17,471,8,282,143,403,kitchen has a a wall
+new1181,blender,counter,431,512,60,94,187,248,38,232,240,279,blender on are counter
+new1182,white drawer,counter,443,512,123,264,196,231,127,262,233,367,white drawer is under the counter
+new1183,drawer,knob,364,512,189,287,279,363,229,250,320,341,drawer has a a knob
+new1184,vintage poster,wall,533,800,666,784,1,180,498,787,15,401,vintage poster on are wall
+new1185,lock,door,576,432,315,328,444,460,293,430,1,574,lock on the door
+new1186,chair,cushion,600,800,309,387,262,432,323,384,314,344,chair has a a cushion
+new1188,cat,tail,600,800,319,724,15,365,439,727,317,364,cat has a a tail
+new1189,picture,shelf,576,383,216,253,332,381,96,379,363,421,picture on are shelf
+new1190,handles,fridge,600,800,631,685,280,446,585,798,141,596,handles on the fridge
+new1192,bottle,shelf,640,480,289,323,292,366,262,475,349,447,bottle on are shelf
+new1193,child,rocks,402,600,406,427,243,292,369,599,253,402,child is standing on the rocks
+new1194,clothes,cart,375,500,158,223,190,235,155,226,215,246,clothes are in an cart
+new1195,pipes,ceiling,375,500,281,499,0,60,1,499,0,71,pipes on are ceiling
+new1196,boy,pool,480,723,234,323,379,438,5,693,313,477,boy in swimming pool
+new1198,person,hat,576,368,1,46,364,458,13,27,368,376,person wearing a a hat
+new1199,blanket,couch,428,640,300,504,175,250,129,611,161,393,blanket on are couch
+new1200,lights,ceiling,537,800,370,406,87,139,201,780,12,53,lights are in an ceiling
+new1201,step,stairway,600,479,126,145,336,348,45,450,225,476,step on are stairway
+new1202,coffee,coffee pot,600,800,657,684,264,276,642,690,248,280,coffee are in an coffee pot
+new1203,art,wall,600,800,314,370,60,116,69,533,35,197,art on are wall
+new1204,logo,shirt,266,400,196,208,172,185,152,230,138,223,logo on the shirt
+new1205,window,wall,300,400,195,312,0,116,179,399,0,176,window on the wall
+new1206,girl,shorts,375,500,106,151,217,359,108,137,275,299,girl wears an shorts
+new1207,dinosaur,floor,648,451,70,331,112,524,165,307,570,630,dinosaur on are floor
+new1208,rug,teddy bear,438,576,345,413,316,400,133,190,328,389,rug are in an teddy bear
+new1209,mobile,crib,600,800,486,580,13,157,560,658,325,526,mobile are hanging over crib
+new1210,woman,wheelchair,480,640,389,466,228,382,366,407,256,372,woman is sitting on the wheelchair
+new1211,patch ,hair,600,800,222,246,178,208,218,255,174,213,patch  are of a hair
+new1212,woman,hair net,400,604,294,422,93,374,344,398,95,140,woman is wearing hair net
+new1214,person,pants,600,800,173,270,56,482,169,260,244,484,person is wearing pants
+new1215,man,shirt,479,640,397,571,158,477,415,573,197,329,man wearing a a shirt
+new1216,lemons,table,384,512,215,285,213,265,203,234,291,322,lemons on are table
+new1219,child,shirt,410,614,365,407,193,289,367,397,217,243,child wearing a a shirt
+new1220,people , podiums,640,800,236,252,159,178,157,683,460,593,people   standing on    podiums
+new1221,driver,suit,498,700,44,172,119,476,47,181,172,482,driver in a suit
+new1222,bird,wall,266,400,221,244,39,55,193,399,1,226,bird on are wall
+new1223,video screen,camera,300,535,301,318,142,156,251,343,136,250,video screen on are camera
+new1224,green leaves,plate,598,549,381,544,197,298,473,497,309,328,green leaves on are plate
+new1226,glass,table,420,630,318,336,270,319,226,431,281,413,glass on are table
+new1227,person,arm,600,800,293,512,265,589,298,376,283,368,person is holding out arm
+new1228,truck,street,600,800,659,798,459,543,16,792,538,597,truck are in an street
+new1229,car,tire,328,500,169,434,154,317,299,339,260,309,car has a a tire
+new1230,elephant,trunk,231,404,105,391,2,208,347,393,56,146,elephant on are trunk
+new1231,girl,tank top,534,800,590,757,43,532,624,722,211,376,girl is wearing tank top
+new1234,microwave,counter,540,720,414,533,263,345,235,574,315,362,microwave on are counter
+new1235,snow,plant,567,800,43,219,362,564,42,206,365,566,snow on are plant
+new1236,sky,land,483,800,138,357,13,67,19,416,330,475,sky is over land
+new1237,head,girl,340,443,358,410,27,83,343,425,24,318,head of a girl
+new1238,Smilingwoman,shirt,500,375,156,373,4,406,175,371,85,280,Smilingwoman wearing a a shirt
+new1239,man,bag,800,601,160,188,713,795,155,183,772,795,man carries an bag
+new1241,cloud,sky,600,800,720,799,4,29,1,799,3,318,cloud is in the sky
+new1242,home,water,551,800,19,114,260,365,13,798,349,549,home are in front of a water
+new1243,roof,window,600,800,345,563,6,136,413,477,75,124,roof has a a window
+new1244,red line,wall,480,640,97,486,150,200,102,544,79,314,red line on are wall
+new1245,letter,sign,559,800,397,421,28,70,350,580,1,204,letter on are sign
+new1246,coffee cup,table,473,569,279,310,320,373,278,379,272,384,coffee cup on are table
+new1247,woman,dark hair,281,425,65,137,107,279,83,122,108,168,woman has a a dark hair
+new1248,woman ,black shirt,333,500,114,203,110,232,117,157,137,186,woman  wears an black shirt
+new1249,bark,tree,599,582,499,563,134,574,198,293,93,283,bark are of a tree
+new1250,girl,water,600,800,216,298,321,380,1,704,260,599,girl is inside of water
+new1251,rope,pool,480,674,95,382,221,418,30,628,215,454,rope are in an pool
+new1252,lounge chair,pool,296,478,52,179,123,194,45,464,135,281,lounge chair is by pool
+new1253,umbrella,pool,525,700,188,336,187,296,8,692,249,520,umbrella are swimming in pool
+new1256,lights,auditorium,601,800,5,209,266,342,12,797,0,593,lights are in an auditorium
+new1258,sand,ground,540,720,413,713,308,539,13,718,303,536,sand on are ground
+new1260,girl ,hair,375,500,178,253,180,231,190,235,181,235,girl  has a a hair
+new1261,lines,track,600,400,13,317,488,596,11,308,481,599,lines on are track
+new1262,man ,computers,425,561,147,273,232,375,209,402,222,322,man  working at the computers
+new1264,handle,handle bars,394,576,106,126,287,302,84,130,286,313,handle are in an handle bars
+new1265,train,station,394,500,0,317,169,219,2,500,2,388,train is at station
+new1266,truck,grass,599,800,173,445,305,492,4,798,397,589,truck is by grass
+new1267,TREE,BUILDING,600,800,14,78,142,251,79,730,112,280,TREE beside the BUILDING
+new1268,slat,railing,383,576,385,396,176,256,22,554,169,266,slat on are railing
+new1269,person,van,534,800,236,399,128,355,5,798,7,530,person are in an van
+new1270,man,yellow shirt,426,600,330,411,118,282,362,411,142,213,man is wearing yellow shirt
+new1271,flowers,table,375,500,411,445,196,221,354,478,198,305,flowers on are table
+new1272,light,ceiling lamp,450,600,360,375,56,67,330,399,1,114,light on are ceiling lamp
+new1273,girl,dress,404,594,97,263,170,401,96,263,238,402,girl has a a dress
+new1274,net,court,600,800,145,557,258,381,59,790,312,500,net is above court
+new1275,33,shirt,400,600,147,174,224,246,134,188,229,281,33  on the back of his shirt
+new1276,picture,frame,300,400,202,246,65,98,202,242,67,70,picture are in an frame
+new1277,chair,cushion,520,693,132,269,237,402,137,247,300,333,chair has a a cushion
+new1278,painting,wall,602,800,429,507,145,241,2,686,9,421,painting is hanging on wall
+new1279,person,person,375,500,123,151,157,242,123,151,157,242,person has a person
+new1281,tree,building,672,504,426,498,548,667,360,502,521,670,tree in front of  building
+new1282,racks,room,640,508,4,507,5,616,0,507,0,639,racks in the room
+new1284,locker,lock,480,640,13,85,201,297,192,209,267,288,locker on are lock
+new1285,ship,ceiling,480,640,295,378,128,167,2,636,2,176,ship is on ceiling
+new1286,orangatang ,face,600,801,187,606,67,478,423,551,121,315,orangatang  has a a face
+new1287,car,street,600,800,6,145,321,417,8,799,374,663,car driving on a street
+new1288,people,coat,600,800,155,219,328,416,184,211,351,385,people wearing a a coat
+new1289,person,trail,600,800,319,346,276,354,201,678,326,599,person is on trail
+new1290,person,tree,600,800,557,581,53,105,565,601,4,169,person standing behind an tree
+new1291,saddle,saddle pad,600,800,206,287,302,380,190,303,298,392,saddle is above saddle pad
+new1292,woman,scarf,600,800,218,380,289,585,200,366,401,523,woman wearing a a scarf
+new1293,paper,monitor,600,800,460,749,165,262,489,799,213,445,paper is on top of monitor
+new1294,sheep,field,600,800,320,472,370,491,1,798,1,598,sheep in the field
+new1295,wood frame,window,600,800,689,770,363,491,478,543,363,486,wood frame on are window
+new1296,bird,sidewalk,600,800,165,175,467,478,18,798,423,596,bird is on sidewalk
+new1297,window,building,600,800,68,140,7,51,3,779,0,330,window is on building
+new1298,purse,shoulder,600,800,659,695,304,348,645,683,286,313,purse is on shoulder
+new1299,flowers,vase,390,512,153,199,160,203,173,186,199,222,flowers are in an vase
+new1300,diamond,Rug,351,512,310,379,265,303,122,448,236,338,diamond is on Rug
+new1301,plant,stool,340,512,293,366,183,233,314,357,239,292,plant on are stool
+new1305,flowers ,vase,600,800,269,485,273,409,359,415,416,490,flowers  in  a vase
+new1306,chair,desk,428,640,229,482,214,339,229,411,185,338,chair In front of the  desk
+new1307,mirror,wall,640,480,189,382,16,232,20,180,39,202,mirror on are wall
+new1308,bowl,food,598,798,109,221,353,405,131,195,348,385,bowl are of a food
+new1310,wall,building,480,640,3,639,7,476,4,638,8,478,wall is on side of building
+new1311,painting,wall,480,640,180,265,52,280,149,276,37,413,painting on are wall
+new1313,design ,wall,486,640,322,340,229,253,2,445,0,315,design  is in wall
+new1314,table,hand,576,432,34,402,98,501,362,413,175,239,table are next to the hand
+new1315,fruit,bowl,448,600,318,341,294,312,288,358,303,350,fruit are in an bowl
+new1316,chair,table,367,550,186,401,186,366,128,299,138,338,chair is in front of table
+new1317,picture,shelf,427,640,257,290,177,194,249,351,193,333,picture is on top of shelf
+new1318,flowers,table,427,640,214,333,110,307,71,438,248,427,flowers on are table
+new1319,person ,street,600,400,211,236,480,530,1,399,510,598,person  is sitting on the street
+new1320,tower,stars,500,375,55,323,16,477,176,187,291,301,tower has a a stars
+new1321,flag,pole,500,375,267,280,329,354,260,278,304,418,flag is hanging on pole
+new1323,tree,field,332,500,13,48,241,288,0,500,260,299,tree are in an field
+new1324,castle,triangle,432,640,339,638,158,313,99,369,1,337,castle standing behind an triangle
+new1325,woman,shirt,500,333,62,201,311,499,80,196,393,499,woman wearing a a shirt
+new1326,girl,statue,500,375,94,302,225,499,114,214,10,361,girl in front of the statue
+new1327,person,staircase,375,500,5,48,168,213,20,458,10,350,person on are staircase
+new1328,person,stair,500,333,136,163,246,269,115,152,231,263,person on the stair
+new1329,man,stairs,375,500,151,193,63,120,2,497,2,372,man on are stairs
+new1330,scroll,railing ,375,500,1,181,11,113,2,447,10,325,scroll on the railing 
+new1332,window,dwelling,300,400,225,243,135,173,24,398,11,221,window on are dwelling
+new1333,window,house,300,400,158,217,81,110,75,319,29,208,window are in an house
+new1334,wall,building,256,400,1,126,103,188,2,398,1,177,wall is on side of building
+new1335,tree,water,267,400,124,198,4,189,2,399,168,254,tree on are water
+new1336,drinking glasses,designs,333,500,101,169,51,83,151,168,72,103,drinking glasses have an designs
+new1337,shaker,table,500,375,162,193,217,268,2,375,140,499,shaker is on top of table
+new1338,knife,plate,500,375,161,250,304,392,176,300,239,324,knife on are plate
+new1339,utensil,plate,375,500,76,116,101,295,138,386,91,283,utensil left of the plate
+new1342,shirt,woman,500,333,268,308,104,142,253,303,85,178,shirt on are woman
+new1343,wine ,wine glass,375,500,171,261,14,84,159,269,2,182,wine  are in an wine glass
+new1344,rose,vase,500,375,38,93,23,124,80,130,156,245,rose are in an vase
+new1347,liquid,cup,405,500,356,396,76,170,335,410,17,194,liquid are in an cup
+new1349,cup,coffee,223,500,40,202,11,126,66,192,17,71,cup full of a coffee
+new1350,cut banana,bowl,333,500,111,142,160,184,52,199,54,199,cut banana are in an bowl
+new1351,setting,silverware,371,500,0,499,28,332,362,499,124,313,setting including silverware
+new1353,lettuce,bowl,375,500,64,108,103,135,18,231,76,192,lettuce are in an bowl
+new1354,wineglass, table,375,500,309,351,148,272,1,496,138,373,wineglass on are  table
+new1355,knife,side,375,500,387,442,231,357,358,484,222,335,knife on are side
+new1356,shoe,plate,334,500,203,323,210,274,163,333,218,315,shoe on are plate
+new1357,food,plate,404,500,57,347,128,293,13,355,120,320,food on are plate
+new1359,place setting,table ,375,500,20,350,88,355,7,495,17,369,place setting on are table 
+new1362,decorative plate,counter,256,380,356,376,125,158,285,378,152,254,decorative plate on are counter
+new1364,magnet,refrigerator ,480,640,131,139,106,119,60,164,87,288,magnet stuck on a refrigerator 
+new1365,globe,table,480,640,469,543,260,338,402,622,352,471,globe is sitting on the table
+new1368,glass,table,450,627,60,88,348,388,11,170,370,447,glass is on table
+new1369,fireplace,living room,454,654,211,450,153,390,1,653,1,451,fireplace are in an living room
+new1371,pot,ceiling,318,380,93,113,48,78,0,379,1,53,pot hanging off of  ceiling
+new1372,lady,hand,348,400,236,395,48,348,244,339,189,274,lady has a a hand
+new1373,lab student,goggles,228,300,0,172,17,227,115,154,78,94,lab student wearing a a goggles
+new1375,woman,picture,465,700,304,359,123,205,247,423,63,211,woman in a picture
+new1376,holster,gun,480,360,230,260,358,460,194,224,262,294,holster is for a gun
+new1377,helmet,ground,500,312,55,100,415,457,55,100,415,457,helmet on are ground
+new1378,woman,baby,400,600,242,498,28,345,101,221,244,376,woman is holding baby
+new1379,snow,mountain top,333,500,90,497,60,166,79,498,60,175,snow on are mountain top
+new1381,person,stroller,600,800,218,248,316,404,180,258,308,415,person are pushing stroller
+new1382,car,street,600,800,2,295,361,598,7,399,381,599,car is on the street
+new1384,arrow,street,600,800,240,312,383,423,240,312,383,423,arrow painted on the street
+new1385,car,street,600,800,618,733,322,376,609,782,359,474,car on are street
+new1386,dog,chair,180,240,73,160,28,166,1,218,0,180,dog in the chair
+new1387,desk,shelf,427,640,182,540,255,424,181,466,59,136,desk has a a shelf
+new1388,trunk,screen,432,576,125,512,275,431,331,453,175,296,trunk with a screen
+new1389,handles,file cabinet,512,640,235,280,204,232,215,289,185,302,handles on are file cabinet
+new1390,chair ,cushion,640,480,6,344,324,630,126,333,516,577,chair  with a cushion
+new1391,office ,maps,416,550,209,224,295,318,13,185,49,337,office  has a a maps
+new1392,chair ,table,535,504,128,251,348,507,40,268,311,521,chair  is under the table
+new1393,desk,label,480,640,11,639,255,466,237,304,400,425,desk has a a label
+new1394,monitor,desk,463,800,60,242,147,286,60,352,147,459,monitor on are desk
+new1395,man,blue jeans,480,640,416,634,171,475,304,370,429,476,man wearing a a blue jeans
+new1396,paper,monitor,480,640,346,440,241,288,139,373,113,299,paper are next to the monitor
+new1397,dots,screen,711,400,178,187,397,406,266,383,357,471,dots on a  screen
+new1398,man,shirt,266,386,0,260,51,266,3,201,134,264,man wearing a a shirt
+new1399,vent,wall,378,675,518,547,36,61,71,652,39,179,vent in a wall
+new1400,branches,windows,486,640,32,54,388,478,1,123,350,483,branches are in an windows
+new1401,light,ceiling,600,800,548,696,284,361,457,557,11,82,light is on ceiling
+new1402,poster,numbers,600,800,82,457,113,376,366,449,295,338,poster has a a numbers
+new1403,side mirror,car,600,800,539,558,446,459,388,562,419,552,side mirror on are car
+new1404,car,street,600,800,6,235,314,414,0,795,391,593,car parked on the street
+new1405,tire,car,600,800,550,597,391,439,408,697,325,447,tire of a car
+new1406,door,building,600,800,637,704,248,345,294,784,86,365,door on are building
+new1407,tail light,car,600,800,247,266,395,411,245,382,365,452,tail light on the car
+new1413,window,building,600,800,537,569,228,246,361,614,213,278,window a part of a building
+new1414,doors,building,600,800,283,367,271,412,138,799,2,439,doors on are building
+new1415,shirt,shirt,600,800,585,606,335,361,585,606,335,361,shirt is wearing shirt
+new1417,concrete steps,building,600,800,462,799,324,580,547,798,0,326,concrete steps is by building
+new1420,stairs,garbage can,600,800,420,492,329,401,361,422,345,409,stairs are next to the garbage can
+new1421,cars,street,600,800,134,800,344,484,2,799,415,599,cars on are street
+new1422,manhole cover,street,600,800,622,698,474,492,1,776,417,595,manhole cover are built in the street
+new1423,window ,building,600,800,302,319,82,133,249,371,6,188,window  is on building
+new1424,cars,road,600,800,372,798,319,431,369,800,347,599,cars on are road
+new1425,car,sidewalk,600,800,261,662,348,503,3,797,438,595,car parked beside a sidewalk
+new1426,tree,car,600,800,292,572,1,307,68,248,326,407,tree is behind the car
+new1427,window,building,600,800,463,497,184,321,9,770,8,326,window on  a building
+new1428,window,building,600,800,706,740,143,165,592,797,33,398,window on are building
+new1429,tire,car,600,800,433,461,326,358,321,529,288,359,tire on back of an car
+new1430,sailboat,sea,600,800,621,646,351,399,14,792,334,599,sailboat on the sea
+new1431,man,motorcycle,600,800,0,91,366,554,5,216,413,585,man is on motorcycle
+new1432,car ,street,600,800,390,658,357,458,9,797,406,598,car  on are street
+new1433,cars,street,600,800,22,785,399,455,360,482,528,579,cars is on top of street
+new1434,grass,fence,600,800,3,597,375,444,3,597,395,445,grass is by fence
+new1436,person,bridge,600,800,307,331,278,311,269,626,202,355,person walks on bridge
+new1437,trees' shadows,water,600,800,291,405,344,534,17,764,340,562,trees' shadows are in an water
+new1438,people walking,sidewalk,600,800,454,496,353,404,434,592,433,588,people walking on are sidewalk
+new1439,lamp month,car,600,800,213,246,224,374,63,341,370,472,lamp month are next to the car
+new1440,light fixture,doorway,600,800,534,547,249,271,505,534,250,310,light fixture on are doorway
+new1441,writing,road,600,800,4,772,427,598,11,799,322,598,writing are in an road
+new1442,car,door,600,800,184,450,361,449,277,330,368,430,car are with a door
+new1443,car,road,600,800,490,758,328,512,96,334,401,557,car on are road
+new1444,people,street,600,800,532,670,344,430,692,770,425,466,people on are street
+new1446,car,street,600,800,431,592,408,467,0,706,468,597,car parked on the street
+new1447,car,street,600,800,97,302,388,466,29,783,470,594,car on are street
+new1448,shadow,tree,600,800,563,725,462,503,452,693,74,432,shadow are of a tree
+new1449,window,house,600,800,250,274,212,264,51,331,52,462,window on are house
+new1450,window,house,600,800,23,57,300,364,2,150,63,417,window are in front of a house
+new1451,fence,porch,600,800,494,586,332,358,498,688,284,365,fence on a porch
+new1452,woman,pants,600,800,576,640,329,495,585,626,420,479,woman wearing a a pants
+new1453,window,building,600,800,154,166,307,319,0,515,2,416,window on a building
+new1454,window,building,600,800,250,261,163,181,206,796,50,469,window on a building
+new1455,car,curb,600,800,740,798,367,424,85,528,419,465,car parked by a curb
+new1458,pole,parking spot,600,800,145,171,113,186,127,487,161,309,pole are in front of a parking spot
+new1459,snow,pole,600,800,403,799,315,598,723,798,202,481,snow is underneath the pole
+new1460,snow,ground,600,800,495,692,450,557,16,795,337,598,snow on are ground
+new1461,car,building,600,800,107,479,341,493,1,199,181,366,car is parked in front of building
+new1462,snow,Pavement,600,800,14,220,159,265,6,796,77,594,snow on are Pavement
+new1464,rack,car,600,800,149,418,86,108,65,728,81,373,rack on are car
+new1465,water,pavement,600,800,33,338,402,537,22,780,382,593,water is on pavement
+new1466,car,road,600,800,286,599,250,424,83,317,333,563,car on are road
+new1467,suv,tire,600,800,122,624,337,577,131,200,464,541,suv has a a tire
+new1468,sign,fence,600,800,144,213,193,222,117,261,170,241,sign on are fence
+new1469,man,suv,600,800,363,432,210,327,132,363,207,343,man are near the suv
+new1470,car,yellow line,600,800,107,769,172,439,108,232,483,576,car are parked next to yellow line
+new1472,white car,back wheel,600,800,14,647,260,566,61,120,386,487,white car has a a back wheel
+new1473,floor,garage,600,800,336,594,437,564,3,797,0,598,floor of the garage
+new1474,emblem,mercedes benz,600,800,735,765,198,239,104,783,32,359,emblem on are mercedes benz
+new1475,plywood,k rails,600,800,727,755,342,527,695,799,333,599,plywood is against k rails
+new1477,window,building,600,800,88,112,196,218,52,201,152,324,window are in an building
+new1478,snow,trail of water,600,800,21,292,332,443,6,291,456,598,snow has a a trail of water
+new1479,back window,car,600,800,398,559,427,487,331,591,420,582,back window on are car
+new1480,sign,sidewalk,600,800,446,459,315,339,0,788,404,445,sign on are sidewalk
+new1481,car,curb,600,800,345,527,306,397,62,793,347,419,car are next to the curb
+new1483,crosswalk,street,600,800,109,197,490,524,100,214,478,531,crosswalk on are street
+new1484,person,tree,600,800,559,583,333,372,460,605,213,389,person is standing under tree
+new1485,car,street,600,800,553,652,337,409,425,652,337,526,car is parked on street
+new1488,leaves ,tree,600,800,210,236,145,181,153,377,39,385,leaves  are on tree
+new1489,leaves ,tree,600,800,644,661,297,321,637,695,254,336,leaves  are on tree
+new1490,address,building,600,800,694,727,132,151,472,787,1,396,address on the building
+new1492,car,road,600,800,310,547,269,382,0,775,352,593,car is on side of road
+new1493,window,building,600,800,753,796,97,158,474,787,4,536,window is on building
+new1495,headlight,car,600,800,608,618,317,328,550,625,293,342,headlight on front of an car
+new1496,woman,luggage,600,800,184,307,244,527,276,357,381,507,woman is holding luggage
+new1497,person,street,600,800,468,495,248,289,128,797,256,541,person on are street
+new1498,man ,backpack,600,800,168,197,265,307,174,197,279,311,man  has a a backpack
+new1499,hydrant,sidewalk,600,800,177,219,293,339,15,737,327,599,hydrant on are sidewalk
+new1500,clock, sidewalk,600,800,739,771,154,196,745,770,158,246,clock on are  sidewalk
+new1501,window,building,600,800,94,171,32,132,6,443,18,191,windowpane in building
+new1502,man,cap,600,800,404,532,158,466,460,508,163,220,gentleman is wearing cap
+new1503,street light,globe,600,800,688,759,63,402,690,742,62,134,street light have globe
+new1504,nozzle,wall,600,800,129,164,322,383,7,192,239,520,nozzle on paries
+new1505,tire,bike,600,800,353,387,279,311,349,455,245,318,tyre on bike
+new1506,Truck,road,600,800,212,298,219,318,25,249,234,373,Truck on side of road
+new1507,truck,street,600,800,184,372,263,431,6,193,304,591,truck on street
+new1508,white van,street,600,800,72,206,344,459,3,439,387,597,white van on street
+new1509,windows,building,600,800,142,159,56,84,2,190,1,269,windows on a building
+new1511,Woman,Blue Jeans,600,800,494,540,328,491,495,535,405,482,Woman wearing Blue Denim
+new1512,woman,jeans,600,800,317,391,225,350,332,376,279,349,charwoman is wearing jeans
+new1513,dumpster,lot,600,800,94,234,233,295,9,443,277,411,dumpster in lot
+new1514,folders,shelf,600,800,547,672,532,565,484,799,1,598,folders on ledge
+new1515,chair,computer,480,640,303,382,331,414,335,498,166,292,chair by computer
+new1516,tack board,wall,480,640,342,407,2,117,342,407,2,117,saddlery board is on wall
+new1517,papers,on desk,480,640,98,248,254,359,98,248,254,359,papers on on desk
+new1519,pen,blue top,480,640,138,163,280,322,133,155,305,323,playpen has blue top
+new1520,papers,desk,480,640,278,380,267,319,5,593,281,451,papers are on top of desk
+new1521,computer,desk,480,640,226,441,82,349,1,640,271,479,computer be on desk
+new1522,ceramic mug,on desk,480,640,183,226,262,304,183,226,262,304,ceramic mug on on desk
+new1523,screen,room,480,640,238,455,63,270,2,638,1,476,screen in the way
+new1524,coffee machine,counter,600,800,500,776,202,515,2,800,226,598,coffee machine on counter
+new1525,napkin,cofee mug,600,800,83,205,326,382,115,165,294,368,napkin is under cofee smiler
+new1526,mouse,desk,600,800,123,182,241,300,122,793,179,364,mouse on the desk
+new1527,computer,table,600,800,1,103,36,385,417,581,415,516,computer is on table
+new1528,motorcycle ,sidewalk,600,800,207,321,329,419,32,504,347,598,motorcycle parked on pavement
+new1529,street,grass,600,800,269,596,376,617,568,646,339,410,street light on the plot of land of grass
+new1530,woman,sidewalk,600,800,523,566,353,463,386,798,377,599,woman is on pavement
+new1531,women ,street,600,800,671,788,407,587,3,796,392,595,women looking street
+new1532,woman,backpack,600,800,625,747,298,600,705,795,361,576,char carrying backpack
+new1536,man,sweater ,600,800,303,339,331,456,298,339,352,403,man wearing perspirer
+new1537,car,street,600,800,409,606,343,412,6,787,391,597,cable car on street
+new1539,Windows,building,600,800,387,500,216,290,281,791,4,377,Windows on a building
+new1540,man,shirt,600,800,109,127,344,449,105,130,356,386,man with shirt
+new1541,man,street,600,800,280,296,351,407,362,421,408,434,man crossing street
+new1542,shirt,person,600,800,89,118,357,392,78,118,335,472,shirt be on person
+new1543,paperclip,sign,600,800,47,99,73,89,24,109,6,127,paperclip on star sign
+new1544,bowl,toilet tank,256,256,174,203,81,94,151,212,88,127,pipe bowl on toilet tank
+new1545,houseplant,floor,256,256,31,94,83,180,1,256,182,256,houseplant resting on floor
+new1546,hallway,carpet,480,640,5,311,33,473,1,303,286,475,hallway on rug
+new1547,mug,table,480,640,271,511,66,332,211,500,308,440,kisser on table
+new1548,phone,shelf,480,640,80,183,359,392,68,296,368,405,phone sits on shelf
+new1552,barrier,tree,600,800,341,399,456,580,90,605,100,577,barrier around tree
+new1553,light,door,600,800,29,44,299,310,19,30,320,396,light above doorway
+new1555,red car,street,480,640,127,219,268,318,1,417,278,478,red car follow on street
+new1556,yellow line,fire lane,480,640,2,639,289,478,4,638,288,479,yellow line marking flaming lane
+new1557,van,parking space,480,640,527,623,235,317,531,631,292,324,vanguard in parking space
+new1558,people,tent,480,640,86,203,257,363,86,201,247,363,people nether tent
+new1559,sign,window,480,640,570,602,321,368,526,609,0,449,sign on window
+new1560,wall,building,480,640,533,604,0,246,397,638,0,273,rampart on side building
+new1561,car,parking lot,480,640,125,278,177,281,5,640,160,420,car is park in a parking peck
+new1562,traffic sign,pole,480,640,58,96,78,200,28,102,57,458,traffic sign on perch
+new1563,person ,shirt,480,640,574,612,174,331,566,614,193,239,person wearing shirt
+new1565,Car,street,480,640,14,49,307,328,14,112,326,352,Car stopped on street
+new1566,cars,light,480,640,7,635,283,475,473,484,236,292,cars wait at light
+new1567,bike,post,480,640,558,635,204,290,573,617,173,288,bike by a post
+new1568,brick building,sidewalk,480,640,517,618,0,453,174,588,268,477,brick building next to the sidewalk
+new1569,window,building,480,640,388,418,16,64,144,465,0,181,windowpane is on a building
+new1571,tree,side walk,480,640,589,639,215,400,490,634,376,405,tree on side paseo
+new1572,man,store,480,640,38,54,313,338,32,412,255,361,man in memory board
+new1573,man,shirt,480,640,13,54,347,434,18,51,363,407,man wearing shirt
+new1574,pole,sign,480,640,54,93,149,305,53,107,102,159,pole has polarity
+new1575,building,river,480,640,262,420,118,234,1,637,252,479,building beside river
+new1578,vehicle,curb,480,640,2,166,244,425,191,214,329,363,vehicle parked on a curb
+new1579,paint,road,480,640,222,252,328,344,1,640,284,479,paint applied to road
+new1580,car,building,480,640,373,393,306,344,175,510,75,355,car parked approximate building
+new1582,man,street,480,640,391,471,271,422,358,487,350,453,man in street
+new1583,building ,window,480,640,2,411,8,417,122,170,103,348,building has windowpane
+new1584,car,street,480,640,132,189,267,303,10,633,282,478,car parked on street
+new1585,CAR,STREET,480,640,64,132,240,304,478,633,295,379,CAR is park alongside STREET
+new1586,ROAD,lane division,480,640,87,375,336,423,352,473,402,425,route showing lane division
+new1587,post,sidewalk,480,640,31,76,274,479,5,446,222,479,post on pavement
+new1588,bench,leg,480,640,74,511,240,421,422,452,356,421,bench let leg
+new1589,atm,building,480,640,534,607,162,288,2,638,0,479,atm inside building
+new1590,picture,wall,534,800,435,506,84,153,162,700,56,255,picture on wall
+new1593,house,grass,600,800,101,620,155,331,202,342,378,522,home on grass
+new1594,pumpkin,step,600,800,324,401,260,378,353,799,227,420,pumpkin sit on step
+new1595,pumpkin,porch,600,800,361,441,276,351,230,799,213,598,pumpkin on porch
+new1596,leaves ,woods,600,800,21,766,22,593,4,793,7,594,leaves in sir henry wood
+new1597,leaves,ground,600,800,46,786,86,598,11,774,11,592,leaves brood ground
+new1599,window ,building,600,800,320,352,301,350,64,442,188,404,windowpane on building
+new1600,window ,building,600,800,703,749,12,110,638,798,0,395,window in front of building
+new1601,line,street,600,800,2,350,421,445,2,358,364,592,line on street
+new1603,wall,building,600,800,213,422,146,358,2,425,124,387,paries on building
+new1604,line,street,600,800,340,626,427,441,1,795,397,597,line in street
+new1605,orange,pants,600,800,364,474,236,388,31,273,193,528,orange on pants
+new1606,sandwich,dish,600,800,2,98,214,294,1,328,120,458,sandwich on dish
+new1607,fruit,bowl,600,800,387,455,241,312,206,530,198,387,fruit is inside of sports stadium
+new1608,window,building,600,800,79,169,3,407,25,409,11,592,windowpane is on building
+new1609,woman,pants,600,800,380,437,308,395,402,432,360,389,woman get into pants
+new1610,window,building,600,800,620,641,85,111,575,670,59,355,windowpane of building
+new1611,window,building,600,800,699,769,245,281,680,778,231,373,window on building
+new1612,yellow sign,building,600,800,212,297,113,154,180,342,0,300,xanthous sign on building
+new1613,woman,white skirt,600,800,654,703,339,462,650,699,390,448,char wearing white skirt
+new1614,woman,blond hair,600,800,662,800,285,585,726,791,288,381,woman with blonde hair
+new1615,front,car,600,800,59,153,363,435,132,158,329,412,front of a motorcar
+new1616,building,window ,600,800,16,325,197,390,65,97,257,286,building get window
+new1617,motorcycle ,sidewalk,600,800,296,347,341,387,223,567,364,391,motorcycle park on sidewalk
+new1618,speaker,monitor,600,800,233,322,215,342,315,589,134,383,verbalizer next to a monitor
+new1619,modem,floor,600,800,135,207,462,486,2,671,208,596,modem on floor
+new1620,headphones,desk,600,800,667,742,191,231,42,800,319,488,phone on desk
+new1621,shelves,wall,600,800,384,530,9,222,321,538,7,226,shelves on paries
+new1622,truck,road,600,800,549,634,322,407,3,640,333,660,truck onside of the road
+new1623,house,balcony,600,800,657,781,138,364,653,699,261,286,house deliver balcony
+new1624,clouds,sky ,600,800,152,701,19,145,2,792,6,236,clouds are in sky
+new1627,parked car,street,600,800,294,352,317,358,28,167,397,593,parked gondola on street
+new1628,trash can,car,600,800,741,797,482,599,437,797,289,599,trash rear is behind car
+new1631,cars ,road,600,800,96,321,302,507,69,767,373,595,cars driving aboard road
+new1632,tree,sky,600,800,280,413,25,177,140,457,2,128,tree below sky
+new1634,person,jacket,600,800,527,591,312,445,527,586,320,381,person is wearing jacket crown
+new1635,woman,cup,600,800,653,677,358,412,656,682,370,402,cleaning woman Is holding a cup
+new1636,sign,pole,600,800,76,636,101,553,356,466,5,34,planetary house on pole
+new1637,building,window,600,800,1,800,2,448,719,775,117,195,building have window
+new1638,sign , pole,600,800,168,264,197,270,209,249,15,474,sign on magnetic pole
+new1639,car ,street,600,800,190,368,349,483,37,794,379,597,railroad car on street
+new1640,Pedestrian ,street,600,800,9,599,365,418,25,794,267,591,Earthbound across street
+new1641,sign,pole,600,800,71,177,134,238,117,138,234,482,sign on pole
+new1647,chimney,white house,600,800,128,160,70,106,3,272,22,364,lamp chimney on white house
+new1648,sign,building,600,800,22,191,407,466,5,166,293,458,sign on construction
+new1651,light,light post,600,800,390,419,117,133,339,407,112,333,light on idle post
+new1652,window,van,600,800,275,340,346,415,16,642,330,573,windowpane on van
+new1654, line,road,600,800,363,413,461,493,8,798,253,599,line on route
+new1655,boy,street,600,800,337,373,363,456,2,795,363,597,boy crossing street
+new1656,light,car,600,800,223,247,396,408,223,293,372,432,light on motorcar
+new1657,greenlight,pole,600,800,278,300,229,243,259,343,74,444,greenlight be on pole
+new1658,pants,man,600,800,535,630,366,476,528,639,247,498,pants on man
+new1659,car,parking spot,600,800,340,479,298,408,295,596,364,437,car is sitting on parking spot
+new1660, car,lot,600,800,341,525,277,442,25,800,375,593,car in a lot
+new1661,book ,shelf,600,800,340,356,361,422,210,418,158,566,quran on a shelf
+new1662,poster,small pictures,600,800,726,800,277,391,735,800,296,372,card filled with small pictures
+new1663,shelf,spaces,600,800,306,540,175,598,322,533,190,594,shelf has space
+new1664,cup,pencils,600,800,647,725,347,421,660,722,325,366,loving cup full of pencils
+new1665,mouse,desk,480,640,259,275,280,299,100,470,193,473,mouse on top of desk
+new1667,speaker,monitor,600,800,23,89,337,525,178,630,102,518,utterer on side of monitor
+new1676,sofa,papers,600,800,578,796,376,596,633,716,475,502,couch with stack papers
+new1677,mouse,a pad,600,800,245,289,400,440,223,294,384,466,black eye is on a pad
+new1678,keyboard,desk,600,800,301,662,350,524,5,799,212,597,keyboard on desk
+new1679,battery pack,table,600,800,224,345,486,579,133,800,286,596,battery large number on table
+new1680,light,computer,600,800,435,467,136,165,319,625,59,369,light on computer
+new1681,computer,stickers,600,800,69,798,1,250,131,357,21,72,computer throw stickers
+new1682,soap,sink,600,800,592,626,270,334,536,743,316,407,soap next to go down
+new1683,box,desk,600,800,202,347,388,524,148,522,360,524,boxful sitting under desk
+new1686,paper,desk,600,800,209,363,335,415,3,799,284,597,newspaper publisher on desk
+new1687,paper,desk,600,800,245,377,186,234,50,720,138,547,theme on desk
+new1688,computer mouse,mouse pad,600,800,409,493,245,280,390,495,245,285,computer mouse on mouse pad
+new1689,a,a,600,800,131,204,5,57,131,204,5,57,a livid a
+new1690,wheel,chair,600,800,178,200,506,540,157,379,266,558,rack on chair
+new1691,book,book,600,800,477,499,3,25,477,499,3,25,word on book
+new1692,building,window,600,800,3,800,1,254,447,537,34,83,construction has window
+new1694,Car,Street,600,800,41,795,166,412,2,795,379,595,Car is parked on the Street
+new1695,car,windshield,600,800,661,800,196,514,744,796,212,284,cable car has windshield
+new1696,woman,suv,600,800,463,521,190,257,140,566,174,355,woman beside suv
+new1697,cone,ground,600,800,69,147,232,371,11,161,372,433,cone on primer
+new1699,photographs,wall,600,800,295,335,361,489,157,392,132,598,photographs ON wall
+new1700,book,shelf,600,800,184,259,368,408,175,373,365,412,book on shelf
+new1701,lights,ceiling,800,600,1,462,2,47,1,597,0,84,light on ceiling
+new1702,monitor,platform,289,400,98,153,130,182,101,154,176,194,monitor lizard is on the platform
+new1703,can,bag,600,800,276,373,410,548,281,371,413,473,nates with bag
+new1704,keyboard,desk,480,640,421,479,308,344,175,583,249,439,keyboard on the desk
+new1705,air vent,wooden floor,606,800,540,658,388,431,380,701,382,602,air vent on wooden story
+new1706,vehicles,road,610,800,425,497,565,597,694,791,259,276,vehicles parked route
+new1711,circle,sign,480,640,434,467,180,199,432,508,181,287,rope on sign
+new1712,car,window,600,800,454,641,341,534,497,642,361,411,railcar has window
+new1713,person,jacket,600,800,533,577,327,437,543,573,342,388,person wear jacket
+new1714,bicycle,sidewalk,600,800,625,743,421,533,525,798,372,576,wheel on the sidewalk
+new1715,WINDOW,BUILDING,600,800,541,562,228,263,311,727,0,454,WINDOW on a BUILDING
+new1716,trees,sidewalk,600,800,348,589,66,285,338,606,372,538,trees on pavement
+new1718,grate,window,600,800,678,760,204,464,522,548,9,86,grate over windowpane
+new1719,sedan,road,600,800,572,799,347,593,642,797,307,355,sedan chair parked on the position of road
+new1720,scooter,road,600,800,481,681,323,455,28,800,351,596,iceboat is on road
+new1723,large rock,hill,256,256,124,160,68,109,6,255,76,254,large stone is on hill
+new1725,car,road,256,256,138,162,126,148,1,255,138,255,car middle of route
+new1727,snow,mountain,256,256,1,256,72,101,1,256,72,162,snow on peck
+new1729,car,street,256,256,136,191,204,251,66,148,207,255,car be on street
+new1730,wall,building,256,256,231,256,0,81,165,256,0,139,wall is on the english of a building
+new1731,pants,man,256,256,98,122,143,172,83,128,98,190,pants on the man
+new1732,staircase,building,256,256,135,153,72,121,1,158,0,254,staircase on building
+new1733, computermonitor,desk,600,800,543,605,265,315,374,711,305,444,computermonitor on desk
+new1734,cords,floor,600,800,321,411,416,523,32,799,345,599,cords on floor
+new1735,shelf,book,600,800,1,271,20,188,240,251,145,181,ledge for book
+new1740,windshield,car,256,256,187,256,12,146,52,247,30,255,windshield is on car
+new1741,papers,cup,256,256,67,150,202,229,30,71,194,235,paper near cup
+new1742,dark car,traffic,256,256,1,147,147,254,19,241,117,238,moody car stopped in traffic
+new1743,pictures,wall,600,800,12,34,92,117,2,474,2,218,pictures hanging on bulwark
+new1744,man,glasses,565,800,634,750,260,526,680,716,256,276,man with glass
+new1745,tag,shirt,600,800,148,176,467,497,112,234,442,531,tag end on shirt
+new1746,glass,table,600,800,342,362,306,339,164,501,274,478,glass upside down on table
+new1747,people,chairs,600,800,96,782,170,528,5,790,251,591,people sitting in chairs
+new1749, legs,elephant,256,256,117,256,166,254,68,216,80,225,legs are on elephant
+new1750,car,road,600,800,223,480,303,421,17,798,319,598,elevator car is on top of road
+new1753,cars, road,600,800,2,630,303,473,5,800,274,516,cars drive alongside road road
+new1754,sign,post,600,800,88,123,133,199,58,88,217,471,sign on post
+new1756,man,blue shirt,600,800,109,167,255,384,112,171,273,329,adult male in blue shirt
+new1757,curb,sidewalk,600,800,603,755,368,413,596,768,345,461,check of sidewalk
+new1758,man,black shirt,600,800,688,766,308,418,688,756,325,376,man wear black shirt
+new1759,woman,bag,600,800,515,595,406,598,506,596,457,579,woman retain bag
+new1760,window,car,600,800,152,227,267,312,1,253,267,391,window of auto
+new1761,car,doors,600,800,364,571,325,401,398,486,329,390,car sustain doors
+new1762,window,building,600,800,342,391,211,273,140,503,124,315,window on construction
+new1765,woman,shorts,600,800,497,549,248,411,504,538,300,349,cleaning lady on shorts
+new1766,boy,shirt,600,800,694,741,275,404,699,736,293,350,son is wearing shirt
+new1767,window,building,600,800,524,552,135,186,1,722,6,433,window on construction
+new1769,man,sunglasses,600,800,274,323,257,459,294,307,259,280,humankind has sunglasses
+new1770,bicycle,Sidewalk,600,800,397,426,300,340,20,800,311,389,bicycle parked along Sidewalk
+new1771,cars,road,600,800,62,686,256,409,25,704,350,488,cars parked on road
+new1772,window,van,600,800,209,257,296,341,81,358,271,412,window on the avant garde
+new1773,umbrella,pole,600,800,29,798,1,92,442,483,2,598,umbrella mount on pole
+new1774,man,chair,600,800,65,173,317,438,58,131,352,434,man sitting on the electric chair
+new1775,cars,road,600,800,2,797,287,367,25,785,350,591,railcar parked on side of road
+new1776,window,building,600,800,305,355,1,82,232,799,1,377,window on construction
+new1777,wall,building,600,800,2,794,4,305,2,799,4,357,wall on side of meat of building
+new1780,bench,woman,800,600,473,544,428,470,476,516,410,479,bench in front of fair sex
+new1781,people ,stairs,800,600,35,115,467,573,2,598,457,796,people walking on stairs
+new1782,man,shirt,600,800,82,124,284,446,84,143,307,368,man wearing shirt
+new1783,window,building,600,800,478,537,186,269,1,796,3,501,window on building
+new1784,bench,people,600,800,248,402,432,476,249,407,414,480,bench close people
+new1785,light ,building,600,800,66,109,496,556,2,678,2,551,visible light on building
+new1786,dress,Woman,534,800,301,385,288,494,306,392,244,518,dress on Cleaning lady
+new1787,couple,paper,534,800,333,533,233,381,479,521,238,264,couple looking at paper
+new1788,vehicles,street,534,800,109,801,212,367,79,801,196,458,vehicles are in the street
+new1790,cars,building,534,800,32,651,199,336,118,624,78,232,cars parked in front of building
+new1791,hydrant,sidewalk,534,800,160,222,258,327,41,315,290,496,tap on sidewalk
+new1792,window,car,534,800,386,486,75,167,276,796,23,395,window on the gondola
+new1797,woman,dress,600,800,67,105,169,247,71,100,192,269,woman is wearing apparel
+new1798,road,lines,600,800,5,777,224,599,277,336,360,422,road has line
+new1799,girl,woman,600,800,675,763,191,431,595,675,193,431,miss with woman
+new1800,sidewalk,sidewalk,600,800,149,200,239,313,149,200,239,313,pavement on sidewalk
+new1801,bike,ground,600,800,564,672,369,421,2,787,431,601,bike on ground
+new1803,cloud,sky,600,800,446,587,39,91,6,795,3,134,cloud in sky
+new1806,lady,shoe,600,800,149,258,221,480,198,239,461,479,peeress in shoe
+new1807,city,mountains,600,800,2,798,262,486,11,799,196,365,metropolis next to mountains
+new1809,cross,church,800,600,444,474,106,143,6,600,106,674,cross on top of church
+new1811,bench,rails,600,800,41,187,310,547,66,182,378,522,bench have rails
+new1812,round window,store front,800,600,283,326,566,617,47,590,46,797,round windowpane on store front
+new1813,man,jacket,600,800,488,552,471,592,497,547,488,547,man have jacket
+new1814,building,window,600,800,90,649,1,189,468,519,80,119,edifice has a window
+new1815,people,park,600,800,603,691,469,598,3,798,0,547,citizenry sitting park
+new1816,people,street ,600,800,19,166,315,569,88,221,549,597,the great unwashed walking street
+new1817,cars,ROAD,600,800,1,54,158,208,3,775,206,595,car ALONGSIDE ROAD
+new1818,person,shirt,600,800,434,474,342,374,431,467,328,367,mortal with a shirt
+new1820,monster,mural,600,800,181,344,68,394,17,745,43,372,monster drawn wall painting
+new1821,yellow hat,man,600,800,764,792,285,318,758,798,266,480,yellow hat on man
+new1822,wall,building,600,800,374,623,411,437,9,791,12,598,wall on building
+new1826,entry way,blueletters,600,800,39,136,414,595,58,128,447,472,entry way with blueletters
+new1827,archway,statue,800,600,115,541,84,790,233,407,159,760,archway has statue
+new1830,Trees,grass,600,800,153,790,6,364,293,610,309,407,Trees in sess
+new1831,man,shirt,600,800,133,196,19,236,131,198,52,114,man is wearing shirt
+new1832,light ,Sign,600,800,667,720,211,267,626,663,152,201,light on Preindication
+new1833,Brick building,Brick building,600,800,504,553,363,423,504,553,363,423,Brick building clothing Brick building
+new1834,stairs,entrance,600,800,0,675,389,599,374,596,118,399,steps to entrance
+new1835,chime,porch,600,800,305,383,63,219,1,508,5,598,chime hanging on porch
+new1836,vehicles,road,600,800,250,698,78,230,158,798,110,591,vehicles park alongside road
+new1837,window,house,600,800,494,512,325,371,386,597,149,405,windowpane in front of house
+new1838,taxi,advertisement,600,800,2,218,316,531,26,137,401,436,cab has advertisement
+new1839,wall,building,600,800,591,741,218,412,458,749,212,440,wall on building
+new1840,truck,street,600,800,522,727,365,438,74,794,371,493,motortruck on the street
+new1841,person,sidewalk,600,800,476,489,368,393,442,516,387,425,someone on sidewalk
+new1842,car,street,600,800,138,207,361,397,3,492,347,598,car on street
+new1843,end,car,600,800,355,404,396,458,351,434,368,509,end of car
+new1844,window,building,600,800,34,74,53,102,1,123,9,221,window on edifice
+new1846,window,building,600,800,226,251,258,307,177,619,51,371,window on edifice
+new1847,car,road,600,800,304,475,370,438,2,800,410,591,auto on road
+new1848,road,lines,600,800,3,741,376,598,215,698,416,561,road has tune
+new1850,vehicles,road,600,800,701,739,354,370,128,688,430,599,vehicle on road
+new1851,cones,road,600,800,459,533,344,438,260,609,339,478,cones by route
+new1852,car,street,600,800,360,429,365,405,74,796,370,596,car park on street
+new1853,car,road,600,800,297,450,336,403,301,799,387,471,car on road
+new1854,white window,building,600,800,132,164,285,310,32,301,71,322,white window on building
+new1855,car,building,600,800,194,346,385,441,3,507,6,449,car next to make
+new1856,clouds,sky,600,800,330,590,39,147,330,590,39,147,clouds in sky
+new1857,car,road,600,800,506,676,391,465,4,800,386,597,car on route
+new1858,wall,building,600,800,508,767,301,487,508,767,301,487,wall is attached to construction
+new1859,person,shirt,600,800,354,411,390,451,354,411,390,451,person wearing shirt
+new1863,banner,building,600,800,687,761,40,257,38,794,5,426,banner on building
+new1865,white line,street,600,800,11,798,529,562,2,797,418,598,white line in the street
+new1866,vehicle,road,600,800,5,200,342,441,3,789,334,596,fomite alongside the road
+new1867,line,street,600,800,771,800,497,519,143,800,366,594,line on street
+new1869,car,road,600,800,178,458,365,538,1,579,331,593,car along route
+new1870,cars ,cars ,600,800,4,724,356,501,4,724,356,501,gondola parked cars
+new1871,building,window,600,800,2,453,1,406,419,443,149,222,building make window
+new1872,window,building,600,800,525,546,145,195,523,609,1,317,windowpane on building
+new1873,sign,post,600,800,373,408,125,194,353,416,0,489,sign on post
+new1874,wall,building,600,800,265,409,162,405,260,660,55,418,rampart on building
+new1875,vehicle,road,600,800,144,486,258,486,274,776,454,596,vehicle parked alongside of road
+new1876,doorway,house,600,800,625,794,193,388,85,153,167,364,doorway on house
+new1877,building,windows,600,800,27,703,21,459,24,686,53,359,construction has windows
+new1878,frame,window,600,800,617,631,0,234,630,660,1,227,physique on window
+new1879,meter,street,600,800,321,416,287,553,3,640,241,599,metre on street
+new1883,sign,boat,600,800,110,198,119,155,2,606,94,596,sign on gravy boat
+new1884,house,mountain,600,800,664,742,89,141,461,797,147,584,house on mountain
+new1890,pot,stairs,600,800,426,492,189,262,11,641,168,599,deal is on stairs
+new1892,patch,ground,600,800,378,424,561,586,233,800,482,596,patch on the ground
+new1893,building,hill,600,800,317,413,159,219,328,423,232,297,construction on hill
+new1894,rocks,water,600,800,160,637,501,598,166,800,312,597,rocks sticking body of water
+new1899,step,stairway,800,600,3,484,708,798,4,597,464,798,step on stairway
+new1900,mall,marine,600,800,302,648,161,318,3,205,278,596,mall adjacent marine
+new1904,number,boat,600,800,173,186,363,374,28,790,156,447,number spainted on boat
+new1905,tire,car,600,800,502,558,428,505,399,701,325,501,tire be on car
+new1906,brown wheel,structure,399,594,72,301,108,340,73,592,107,358,browned wheel on structure
+new1907,clock,tower,600,800,381,429,295,350,348,450,60,465,clock on tower
+new1908,shadow,tree,600,800,413,800,366,487,532,800,1,389,shadow of a tree
+new1909,silver car,building,600,800,37,98,366,388,4,169,236,396,silver car park building
+new1910,vehicles,road.,600,800,408,640,321,390,680,730,411,434,vehicle parked road.
+new1911,sidewalk,Building,600,800,149,799,429,596,3,800,2,522,pavement in front Building
+new1913,brick,building,600,800,176,206,176,202,24,771,16,445,brick holding upwardly building
+new1914,window,building,600,800,416,476,279,322,101,646,106,394,window belong to building
+new1915,window,building,600,800,422,432,257,287,20,721,182,344,window be on building
+new1916,lines,street,600,800,83,334,372,597,3,795,322,595,lines on the street
+new1917,picture,wall,600,800,685,719,164,225,6,798,10,298,photo on the wall
+new1918,forrest ,buildings ,600,800,2,799,43,230,11,799,157,595,forrest behind buildings
+new1919,chair,grass,600,800,226,253,523,563,2,796,484,594,chair on grass
+new1920,person,hand,600,800,272,664,138,486,181,737,6,516,someone diplaying hand
+new1921,female,face,600,800,659,793,21,466,742,798,57,228,female have face
+new1922,wall,wood,600,800,560,796,17,475,566,799,443,485,wall have wood
+new1923,rail,wall,600,800,488,532,323,340,475,533,171,392,runway on the wall
+new1924,stairs,lights,600,800,701,779,429,515,720,795,379,509,steps by the lights
+new1925,window,building,600,800,371,410,86,110,266,530,37,352,window on construction
+new1926,man,street,600,800,655,707,108,208,3,798,198,599,gentleman crossing street
+new1927,white truck, street,600,800,374,440,257,303,9,425,299,598,white truck in street
+new1929,pillar,building,600,800,424,472,284,406,52,792,6,590,pillar of edifice
+new1930,jeep,curb,600,800,68,413,245,481,150,337,488,595,jeep at the curb
+new1932,wall,building,600,800,365,735,7,341,481,610,4,247,wall on side of building
+new1933,tree,parking lot,600,800,3,795,95,437,3,792,340,590,tree on parking band
+new1934,dirt,road,600,800,508,730,470,593,27,777,263,597,soil on road
+new1935,line,pedestrian crossing,600,800,4,42,387,412,1,292,395,453,strain for pedestrian crossing
+new1936,birds,birds,600,800,99,760,324,573,99,760,324,573,doll near birds
+new1942,do not enter,do not enter,600,800,298,341,176,285,298,341,176,285,do not enter roadway suffice non enter
+new1947,shed,beach,600,800,119,753,311,464,1,799,321,597,shake off on beach
+new1951,pile,rocks,600,800,2,466,338,599,11,461,360,598,batch of rocks
+new1953,fixture,building,600,800,702,776,283,328,669,795,4,519,reparation on the building
+new1954,person,shorts,600,800,148,158,420,450,146,158,434,450,person wear out shorts
+new1955,benches,sidewalk,600,800,400,585,334,352,2,734,368,430,bench are beside the sidewalk
+new1958,window,window,600,800,131,232,175,382,131,232,175,382,window with windowpane
+new1959,bricks,building,600,800,437,525,32,74,11,699,0,270,bricks on construction
+new1960,step,stairway,600,800,557,723,501,526,460,793,353,598,stone's throw on stairway
+new1961,person,jacket,600,800,278,326,398,475,288,321,399,442,mortal is wearing jacket
+new1962,wall,building,600,800,132,253,280,483,25,377,2,532,wall corroborate building
+new1963,arrow,sign,600,800,219,254,160,264,180,298,137,281,arrow paint on sign
+new1964,window,building,600,800,420,460,137,238,16,654,0,389,window on construction
+new1966,wall,building,600,800,503,791,21,393,512,798,3,399,wall on the building
+new1967,vehicle,road,600,800,505,535,356,404,304,589,405,591,fomite alongside road
+new1970,bush,house,600,800,198,288,453,514,8,747,62,498,dubya next to house
+new1971,red sign,tree,600,800,318,377,226,363,317,463,234,437,red sign on tree
+new1972,wall,building,600,800,532,552,386,424,8,737,212,461,rampart on side of building
+new1973,tent,building,600,800,137,545,335,392,8,436,191,411,collapsible shelter in front of building
+new1975,window,brick building,600,800,330,364,224,307,2,585,2,413,window on brick building
+new1976,light switch,wall,600,800,351,402,292,325,1,799,2,578,light switch is on wall
+new1977,seat ,room,600,800,373,662,282,597,12,791,2,595,seat in a way
+new1979,button,pot,800,600,220,240,612,637,119,376,264,586,button on throne
+new1980,cord,bed,600,800,299,364,423,461,4,798,157,597,electric cord on bed
+new1981,shoes,floor,800,600,355,461,715,798,10,472,541,798,shoes on floor
+new1984,paper,counter,600,800,390,438,408,466,60,727,411,564,paper be on the counter
+new1985,magazine,end table,600,800,67,161,324,389,44,268,289,581,magazine on end mesa
+new1987,curtain,design,600,800,697,791,13,184,733,786,4,107,pall with design
+new1988,bed,wall,600,800,116,782,153,593,126,799,3,398,layer in wall
+new1989,seat,table,600,800,365,774,205,437,263,578,299,555,seat standing behind table
+new1990,bag,trash can,600,800,386,429,454,505,383,431,453,539,bag inside of trash arse
+new1991,tissues,tissue box,800,600,194,252,250,293,182,249,281,365,tissues on tissue paper box
+new1992,wall,floor,600,800,314,794,0,593,1,369,205,598,wall on storey
+new1993,candy,table,800,600,182,219,488,502,124,483,398,783,candy in table
+new1994,AC unit,wall,600,800,463,791,310,558,416,800,238,598,AC unit in rampart
+new1995,blade,fan,600,800,396,640,65,297,14,770,64,493,blade of buff
+new1996,pillow,bed,600,800,507,638,121,231,2,696,114,591,pillow in bed
+new1997,game controller,TV,600,800,286,340,158,193,104,346,187,487,game accountant on TV
+new1998,counter,counter,600,800,478,515,179,239,478,515,179,239,counter on the counter
+new2001,mirror,gold frame,600,800,62,295,1,292,62,295,1,292,mirror  with gold frame
+new2002,black writing,paper ,600,800,387,469,237,286,358,490,222,314,black writing On the  paper 
+new2003,pillow,bed,600,800,22,244,158,300,5,585,145,597,pillow on the bed
+new2004,trash can,desk,600,800,284,333,374,492,203,604,229,598,trash can is under desk
+new2005,pillow,bed,600,800,422,730,252,447,221,797,244,596,pillow on the bed
+new2007,towel,chair,600,800,217,270,268,393,217,334,268,417,towel on are chair
+new2009,wall,wall,600,800,2,602,3,520,2,602,3,520,wall on the wall
+new2010,light,light,600,800,452,567,50,198,452,567,50,198,light on the light
+new2011,WOODEN CHAIR,curtain,600,800,616,793,355,597,581,685,43,437,WOODEN CHAIR are in front of a curtain
+new2014,rail,wall,600,800,124,160,131,196,2,192,2,598,rail are in an wall
+new2015,pillow,bed,600,800,257,485,288,457,2,518,382,598,pillow on are bed
+new2018,pillows,bedspread,600,800,295,629,90,152,40,665,95,597,pillows under a bedspread
+new2019,lamp,table,600,800,483,657,51,281,289,643,406,595,lamp on are table
+new2020,wooden dresser,drawers,600,800,1,342,50,594,62,336,335,562,wooden dresser has a a drawers
+new2023,soapdish.,countertop,600,800,191,664,404,557,2,643,392,569,soapdish. on the countertop
+new2028,wheel ,chair,600,800,406,478,508,568,164,520,223,593,wheel  on are chair
+new2029,floor lamp,chair,600,800,93,214,136,420,73,227,237,434,floor lamp is behind chair
+new2032,lamp,lamp shade,600,800,320,585,53,452,318,586,52,248,lamp has a a lamp shade
+new2034,rail,door,600,800,28,381,170,510,441,797,9,455,rail are next to the door
+new2037,photograph,wall,600,800,537,594,86,164,48,622,3,373,photograph are hanging on a wall
+new2038,girl,girl,600,800,365,550,124,518,365,550,124,518,girl is standing on girl
+new2039,vase,flowers,600,800,460,554,258,356,454,547,269,334,vase are with a flowers
+new2041,vent,roof,600,800,401,564,37,134,257,681,2,155,vent is on roof
+new2042,curtain,window,600,800,489,596,137,306,480,595,119,315,curtain is on window
+new2043,grass,yard,600,800,4,522,274,582,51,327,280,400,grass neatly trimmed is in the yard
+new2044,arms,chair,600,800,396,496,318,343,391,526,257,430,arms are of a chair
+new2045,steps,house,600,800,493,801,0,598,1,800,1,510,steps is beside house
+new2046,woman,jacket,600,800,329,364,399,490,336,372,399,464,woman wearing a a jacket
+new2047,window,building,600,800,164,197,197,254,24,230,6,356,window on are building
+new2048,2,2,600,800,1,419,373,577,1,419,373,577,2 are parked 2
+new2053,curtain,window,600,800,681,738,141,451,578,735,110,418,curtain on are window
+new2056,television,screen,600,800,725,800,270,431,739,800,286,396,television set with screen
+new2059,picture,wall,600,800,384,464,142,230,373,518,89,394,picture on the wall
+new2060,faucet,sink,600,800,439,594,274,392,435,573,353,380,faucet on are sink
+new2061,Window,room,600,800,221,362,91,373,222,367,80,368,Window is inside room
+new2062,Poster,wall,600,800,650,759,114,309,564,799,1,456,Poster are hanging on a wall
+new2063,ground,Brick,600,800,29,655,381,593,73,689,364,596,ground has a a Brick
+new2064,towels,towel rack,800,600,202,300,323,447,211,325,320,342,towels on are towel rack
+new2065,blanket,divider,600,800,134,779,389,595,413,538,43,223,blanket are on top divider
+new2066,vehicles,road,600,800,121,238,309,381,124,238,280,376,vehicles are parked road
+new2067,handle,oven,600,800,548,593,368,468,532,794,254,591,handle on are oven
+new2068,lamp,table ,600,800,348,406,185,292,347,471,287,317,lamp on the table 
+new2072,wood grain,bathroom,800,600,36,597,506,798,19,598,1,797,wood grain in the bathroom
+new2074,handle ,door,600,800,293,317,283,316,136,485,35,587,handle  on the door
+new2075,landing,steps,800,600,272,596,672,798,163,596,391,798,landing is at top of steps
+new2076,window,house,600,800,617,655,217,295,575,800,3,369,window belonging to a house
+new2078,plug,wall,600,800,179,209,429,472,77,253,10,498,plug on the wall
+new2079,hallway,light,600,800,248,724,137,598,668,751,0,76,hallway has a a light
+new2083,window,oven,600,800,452,624,85,162,431,663,390,584,window is on oven
+new2084,siding,window,600,800,390,511,191,208,399,503,204,298,siding are near the window
+new2085,awning,door,600,800,346,471,314,349,414,460,347,437,awning Above the  door
+new2086,house,balcony,600,800,9,442,41,446,213,405,177,261,house has a a balcony
+new2087,snow,road,600,800,602,644,457,475,13,772,411,597,snow On the  road
+new2090,laptop,computer desk,600,800,390,484,304,342,300,559,300,521,laptop is on top of computer desk
+new2091,wooden rack,closet,600,800,658,732,197,319,650,748,43,335,wooden rack are in an closet
+new2092,sofa,wall,600,800,70,583,285,571,1,508,8,485,sofa are next wall
+new2093,car,town home,600,800,452,552,287,415,115,696,21,357,car front a town home
+new2094,sign,wall,600,800,342,395,474,520,327,401,334,527,sign is against wall
+new2095,building,siding,600,800,143,671,5,497,358,671,180,314,building has a a siding
+new2096,door,cabinet,600,800,622,695,2,124,370,716,3,155,door on are cabinet
+new2097,wall,building,600,800,318,799,2,598,3,800,3,597,wall is on side of building
+new2098,window,building,600,800,232,285,312,394,114,680,52,532,window on a building
+new2099,building,building,600,800,3,798,160,596,3,798,160,596,building on the building
+new2100,an outlet,wall,600,800,532,595,319,363,502,800,42,443,an outlet on are wall
+new2101,light,dome,600,800,219,320,3,153,219,323,108,151,light has a a dome
+new2102,tree,window,600,800,534,618,169,372,504,633,145,383,tree outside an window
+new2103,tile,floor,600,800,360,450,513,554,27,793,501,597,tile are in an floor
+new2104,dot,cover,600,800,23,39,561,578,4,353,377,597,dot on are cover
+new2105,shelf,wall,600,800,3,240,277,567,3,376,0,570,shelf is in wall
+new2106,lamp base,floor,600,800,283,352,475,511,2,801,453,598,lamp base is on the floor
+new2108,tree,Sidewalk,600,800,438,688,91,477,120,797,357,597,tree on are Sidewalk
+new2109,red pavement,street,600,800,147,584,454,595,3,254,561,598,red pavement are next to the street
+new2110,window,building,600,800,251,284,197,259,1,401,45,413,window on are building
+new2111,window,building ,600,800,424,459,229,294,357,797,38,516,window on are building 
+new2116,flowers ,table ,600,800,48,165,233,401,26,184,389,549,flowers  on are table 
+new2117,porch,yard,600,800,2,170,54,289,2,797,150,598,porch is inside yard
+new2118,rug,floor,600,800,2,744,374,598,2,780,292,590,rug on are floor
+new2119,window,building,600,800,452,488,194,293,2,605,0,586,window on are building
+new2120,jeans,woman,600,800,559,605,306,384,550,614,194,389,jeans on are woman
+new2121,building,window,600,800,8,800,0,595,303,456,107,326,building has a a window
+new2122,building,window,600,800,686,796,27,502,721,799,28,416,building has a a window
+new2123,design,rug,600,800,59,524,447,586,179,485,441,596,design On the  rug
+new2124,statue,ledge,600,800,129,195,282,350,69,254,330,372,statue on are ledge
+new2126,car,fence,600,800,1,157,278,423,2,799,238,430,car is behind the fence
+new2127,house,window,600,800,0,745,7,598,486,574,49,177,house has a a window
+new2131,picture,wall,600,800,1,68,89,229,1,404,1,442,picture hanging on the wall
+new2132,wall,bedroom,600,800,1,442,3,449,1,798,3,599,wall is in bedroom
+new2133,painting,wall,600,800,300,367,165,267,272,396,87,420,painting on are wall
+new2134,picture,frame,600,800,171,373,147,268,161,375,113,290,picture are in an frame
+new2136,glass window,building,800,600,87,154,611,647,42,539,120,685,glass window on the building
+new2137,glass window,building,600,800,322,398,337,498,92,724,52,548,glass window on the building
+new2138,sign,pole,600,800,146,160,273,295,149,160,316,424,sign on a pole
+new2139,floral arrangement,trunk,600,800,68,149,274,366,36,270,311,462,floral arrangement on are trunk
+new2142,woman,framed art,600,800,317,427,70,216,449,625,66,216,woman on are framed art
+new2146,toilet,water,600,800,239,484,299,513,325,441,395,461,toilet is holding water
+new2147,wall,building,800,600,2,550,0,208,18,597,1,797,wall supporting  building
+new2148,towel,rack,708,800,550,711,419,464,526,736,469,509,towel is lying on rack
+new2149,tile,tub,600,800,457,745,393,524,233,745,227,524,tile on the tub
+new2150,paint,wall,800,604,10,62,12,154,236,374,32,100,paint on the wall
+new2152,painting,wall,600,800,337,421,63,187,288,497,2,338,painting are hanging on a wall
+new2153,tv,stand,600,800,504,659,192,338,399,732,137,596,tv in the stand
+new2154,lamp,end table,600,800,55,194,179,380,51,239,363,566,lamp is sitting on the end table
+new2157,lights,ceiling,600,800,199,293,6,137,2,494,4,149,lights on are ceiling
+new2158,flowers,vase,600,800,314,448,201,288,326,429,277,355,flowers are in an vase
+new2163,handle,fridge,600,800,267,278,195,359,178,280,124,461,handle are of a fridge
+new2164,lamp,ceiling,600,800,647,775,18,179,3,797,4,117,lamp hangs below a ceiling
+new2169,rug,couch,600,800,636,788,460,596,391,660,352,589,rug laying by a couch
+new2170,flowers,room,600,800,147,333,222,384,3,790,21,586,flowers Inside the room
+new2173,wall,building,600,800,78,219,133,398,15,780,38,580,wall of the building
+new2174,dining room,wooden partition,600,800,16,797,11,569,4,85,209,367,dining room are in an wooden partition
+new2180, pillow,chair,800,776,349,627,305,457,352,621,289,490, pillow are in an chair
+new2181,pillow,chair,780,800,105,221,398,481,5,270,391,577,pillow is on the chair
+new2182,rug ,ground,694,800,162,244,599,629,97,795,556,690,rug  on are ground
+new2189,flowers ,vase,800,712,52,171,401,507,75,130,458,498,flowers  are in an vase
+new2190,rug,floor,735,800,259,505,438,553,118,795,320,728,rug on are floor
+new2191,plate,cabinet,625,800,654,687,147,176,419,718,172,304,plate  on top  cabinet
+new2192,bottles,shelf,622,800,418,452,225,251,418,464,223,253,bottles on are shelf
+new2193,apple,bowl,628,800,629,713,326,382,625,707,339,373,apple on are bowl
+new2194,cabinets,kitchen,669,800,29,207,470,665,3,797,0,668,cabinets are in kitchen
+new2195,silver handle,blue pot,604,800,669,719,359,399,625,729,324,422,silver handle on are blue pot
+new2196,hood, stove,655,800,402,655,160,325,446,646,171,470,hood is over  stove
+new2198,light,ceiling,714,800,355,383,118,185,3,798,2,124,light hanging from  ceiling
+new2199,table,couch,600,800,247,748,262,554,111,504,136,334,table beside the couch
+new2200,sculpture,table,600,800,316,433,304,421,244,790,360,547,sculpture is on top of table
+new2201,wall,building,600,800,109,595,69,370,2,799,6,596,wall on are building
+new2202,worker,line,600,800,495,524,234,263,508,522,210,274,worker on are line
+new2203, picture,wall,600,800,61,264,3,192,12,478,12,308, picture are hanging on a wall
+new2204,wall,books,600,800,662,800,49,315,682,800,101,142,wall has a a books
+new2205,plate,table,600,800,61,766,180,509,6,798,5,597,plate on a table
+new2206,support fixture,enclosure,600,800,566,603,3,249,10,795,1,435,support fixture is for enclosure
+new2207,pretty,pretty,600,800,402,518,10,171,402,518,10,171,pretty crystal pretty
+new2208,tv,fridge,600,800,4,181,16,169,10,198,161,594,tv on are fridge
+new2209,wall,Building,600,800,402,796,405,597,17,787,8,597,wall is on the side of Building
+new2210,curtain,window,600,800,651,781,18,506,386,575,62,352,curtain On the  window
+new2212,urn,shelf,600,800,524,582,78,147,165,592,144,181,urn on a shelf
+new2213,goldknob,door,800,658,208,226,400,410,191,313,270,526,goldknob on are door
+new2214,coffee mug,desk,732,800,695,739,348,401,44,783,2,616,coffee mug Sitting on the desk
+new2215,chair,room,600,800,335,491,300,518,7,785,38,577,chair in corner of  room
+new2216,ornament,roof,800,600,264,285,81,102,211,344,78,200,ornament on top  roof
+new2217,boat,canal,600,800,282,442,265,339,10,766,303,587,boat on are canal
+new2218,steps,water,600,800,531,656,432,473,481,666,440,553,steps are next to the water
+new2219,rock,water,570,539,157,269,473,566,9,285,26,240,rock are in front of a water
+new2220,tail feathers,bird,400,308,10,50,214,279,8,279,110,342,tail feathers on are bird
+new2221,grass,water,492,361,14,344,104,329,60,341,41,95,grass are next to the water
+new2222,beak,bird,368,521,355,387,128,165,152,422,67,277,beak connected to an bird
+new2223,snow,bird,500,330,1,328,274,497,1,303,43,475,snow is around bird
+new2224,wheel,van,600,800,565,601,281,319,460,753,193,313,wheel on are van
+new2225,cars ,street ,600,800,85,783,254,430,13,794,400,597,cars  parked on the street 
+new2226,sedan,tire,600,800,71,494,270,427,378,452,357,426,sedan has a a tire
+new2227,vehicle,road,600,800,621,790,311,421,3,798,331,598,vehicle are parked alongside road
+new2228,back tire,car,600,800,508,584,427,509,101,600,317,560,back tire on are car
+new2229,number,plate,600,800,372,434,476,497,369,453,468,508,number on the plate
+new2230,vehicle,road,600,800,393,761,214,530,348,793,200,598,vehicle on are road
+new2231,wall,building,600,800,358,715,45,249,330,797,38,255,wall is on building
+new2232,vehicle,road,600,800,561,755,255,348,24,800,286,599,vehicle is on road
+new2234,car,parking lot,600,800,522,629,238,289,68,801,244,599,car in a parking lot
+new2235,LICENSE,CAR,600,800,312,348,302,327,93,371,246,375,LICENSE on are CAR
+new2236,van,curb,600,800,7,136,310,483,137,214,364,440,van is by curb
+new2239,car,street,600,800,44,335,308,524,4,42,474,508,car on are street
+new2240,van,street,600,800,114,472,252,462,537,671,267,401,van on are street
+new2241,hyrdrant,sidewalk,600,800,547,591,386,445,425,581,354,486,hyrdrant on are sidewalk
+new2242,vehicles,road,600,800,89,647,266,421,25,793,382,587,vehicles are parked alongside of road
+new2243,tan rocks,median,600,800,220,298,136,187,237,484,178,229,tan rocks are on median
+new2244,building,red roof,600,800,260,420,83,168,267,392,84,111,building has a a red roof
+new2245,window,building,600,800,328,396,172,221,3,626,22,327,window on are building
+new2246,Car,curb,600,800,103,562,232,577,29,135,420,598,Car are next curb
+new2250,Madison,sign,600,800,660,798,210,271,438,799,212,304,Madison is mounted on sign
+new2251,man,suit,800,600,178,304,495,759,197,293,530,743,man wearing a a suit
+new2252,pedestrian,street,600,800,453,483,340,369,87,783,371,584,pedestrian is walking on street
+new2253,cars ,street,600,800,38,666,435,597,430,594,530,597,cars  on are street
+new2255,red car,traffic,600,800,655,797,261,366,456,801,261,361,red car in the traffic
+new2256,person,building,600,800,430,444,337,409,40,738,3,400,person leaning on an building
+new2257,man,arm,600,800,570,701,284,506,575,647,310,357,man has a a arm
+new2258,traffic signal,street,600,800,90,322,303,514,6,801,468,596,traffic signal is above street
+new2259,sidewalk,building,600,800,74,350,270,452,45,183,11,326,sidewalk is near building
+new2260,spire,building,600,800,381,414,41,127,378,458,18,427,spire on are building
+new2261,sign,doorway,600,800,388,489,226,289,358,515,267,376,sign on are doorway
+new2262,sunlight,ground,600,800,1,797,485,595,1,800,366,597,sunlight on the ground
+new2264,vehicles,road,600,800,2,316,256,522,3,345,245,534,vehicles parked on the road
+new2269,woman,jacket,600,800,610,674,120,226,632,677,136,178,woman wears an jacket
+new2270,vehicle,road,600,800,455,588,417,509,220,530,525,585,vehicle on are road
+new2273,woman ,backpack,600,800,658,695,282,351,673,694,291,312,woman  wearing a a backpack
+new2274,people , canopy,600,800,510,547,262,307,479,589,205,328,people  near  a  canopy
+new2275,trees,people,600,800,14,798,176,357,75,645,358,453,trees is behind the people
+new2276,boy,stroller,600,800,104,192,342,436,89,247,346,554,boy are near the stroller
+new2277,woman,hair,600,800,687,723,276,397,696,712,280,295,woman has a a hair
+new2280,wall,building,600,800,632,684,106,303,625,795,59,345,wall on are building
+new2281,person,pants,600,800,323,355,46,119,336,359,73,110,person is wearing pants
+new2282,board,fence,600,800,55,160,198,386,1,283,202,392,board is by fence
+new2283,grass,grass,600,800,73,302,213,420,260,600,220,418,grass is in grass
+new2284,woman,pink jacket,800,600,22,64,586,634,575,594,586,612,woman wearing a a pink jacket
+new2287,rearview mirror,van,600,800,37,96,216,235,62,250,211,452,rearview mirror on are van
+new2288,building,window,600,800,653,800,0,362,738,779,15,95,building has a a window
+new2290,awning,building,600,800,372,556,136,213,390,550,0,268,awning on are building
+new2291,lights,street,800,600,366,402,408,456,3,598,567,794,lights is over street
+new2292,person,bag,600,800,447,522,277,463,442,491,371,447,person is carrying bag
+new2294,building,city,600,800,393,477,8,139,2,795,8,586,building are in an city
+new2295,headlights,suv,600,800,475,532,242,252,435,534,210,279,headlights are of a suv
+new2298,entrance,building,600,800,41,188,76,225,19,668,1,222,entrance  of building
+new2299,wall,building,600,800,19,54,3,236,19,71,4,241,wall on are building
+new2300,pot,street,600,800,361,481,376,473,5,595,279,596,pot on are street
+new2301,woman,umbrella,600,800,445,469,396,430,433,469,356,397,woman are with a umbrella
+new2302,car,street,600,800,114,254,304,369,3,491,304,596,car are in an street
+new2303,back,van,600,800,340,372,328,370,289,378,321,377,back are of a van
+new2306,taxi,wind shield,600,800,656,768,370,443,678,738,386,410,taxi has a a wind shield
+new2307,man,umbrella,311,415,119,151,152,229,108,152,145,168,man has an umbrella
+new2312,vehicle,road,600,800,29,344,357,477,32,792,423,597,vehicle along an road
+new2313,truck,street,600,800,437,683,323,454,2,794,442,594,truck are in an street
+new2314,person,backpack,600,800,499,533,291,375,503,520,308,334,person holding a backpack
+new2315,hand,sign,600,800,278,321,53,106,246,326,40,109,hand on are sign
+new2316,van, writing,600,800,8,195,284,438,43,182,306,370,van  has  writing
+new2317,lights,bus,600,800,24,165,210,239,24,321,196,401,lights are inside of a bus
+new2318,lines,street,600,800,56,761,335,599,1,779,329,600,lines on the street
+new2319,lights,pole,600,800,406,427,278,324,403,424,276,429,lights on a pole
+new2321,window,building,600,800,644,662,240,267,605,801,0,304,window is on building
+new2322,wall, building,600,800,223,321,311,400,30,798,3,517,wall is on  building
+new2323,vehicles,road,600,800,442,792,212,336,505,800,300,596,vehicles is parking alongside road
+new2324,woman ,umbrella,600,800,471,632,202,590,463,643,198,317,woman  is standing next to umbrella
+new2325,green leaves,tree,600,800,654,800,52,143,651,798,47,133,green leaves on are tree
+new2337,clouds,sky,600,800,213,373,74,169,96,429,3,281,clouds are in sky
+new2338,stairs,building,600,800,389,509,294,336,6,798,4,325,stairs are in front of a building
+new2339,window,building,600,800,30,86,4,72,6,578,2,391,window on are building
+new2340,window,building,600,800,334,407,198,479,3,798,4,593,window on are building
+new2341,woman,coat,600,800,509,548,231,375,509,542,250,298,woman wears an coat
+new2342,taillight,car,600,800,525,571,320,344,499,801,278,385,taillight on are car
+new2343,flag,building,600,800,418,473,144,214,362,463,10,409,flag on are building
+new2347,window,building,800,600,520,537,562,585,169,437,4,762,window is in front of building
+new2348,bus,road,600,800,2,186,288,583,6,799,492,599,bus is travelling on road
+new2349,tree,leaves,600,800,677,797,0,107,744,776,18,50,tree are with a leaves
+new2350,trash can,walkway,389,518,294,325,270,318,172,517,225,388,trash can is on top of walkway
+new2351,leaves,tree,600,800,358,647,282,424,329,681,179,445,leaves on are tree
+new2352,window,building,600,800,397,406,294,304,395,485,229,320,window on are building
+new2362,Path,Path,600,800,265,782,243,598,265,782,243,598,Path are near the Path
+new2363,girl,camera,600,800,422,515,179,364,447,533,188,221,girl is holding camera
+new2364,taxi,road,600,800,572,621,312,344,9,788,356,597,taxi on are road
+new2365,emblem,road,600,800,195,393,445,510,44,797,326,598,emblem on are road
+new2366,light,building,600,800,358,424,6,168,2,543,1,515,light on  a building
+new2367,logo,car,600,800,233,255,414,439,183,669,254,526,logo on  a car
+new2368,vehicles,road,384,512,17,511,185,226,7,505,223,382,vehicles along an road
+new2369,person,crosswalk,600,800,637,686,275,388,328,794,342,536,person are in an crosswalk
+new2370,bag,curb,600,800,227,331,494,579,335,514,491,529,bag by the curb
+new2371,man,jacket,600,800,176,427,155,598,187,417,228,559,man are in an jacket
+new2372,bikes,car,600,800,310,534,319,571,307,707,245,471,bikes are next to the car
+new2373,vehicles,road,600,800,65,799,249,497,619,694,455,508,vehicles parked  road
+new2374,vehicles,road,600,800,593,619,267,289,281,593,356,406,vehicles parked  road
+new2375,meter,sidewalk,600,800,736,786,378,572,1,800,367,599,meter on the sidewalk
+new2376,cone,sidewalk,600,800,4,71,414,595,27,76,446,583,cone on are sidewalk
+new2377,bicycle,gray seat,600,800,318,495,302,484,361,398,313,327,bicycle are with a gray seat
+new2380,building,windows,600,800,649,798,3,238,746,770,35,64,building has a windows
+new2381,bike,sidewalk,600,800,296,420,301,406,0,798,346,598,bike on the sidewalk
+new2382,shirt,design,600,800,486,534,385,425,502,518,395,412,shirt are with a design
+new2383,trash can,bench,600,800,649,705,399,482,661,800,404,549,trash can next to the bench
+new2384,light,wall,600,800,442,477,156,266,53,801,18,492,light on are wall
+new2387,vehicles,road,600,800,405,530,172,223,563,795,239,321,vehicles  parked alongside of  road
+new2388,red car,black car,600,800,457,799,337,486,180,465,321,435,red car  BEHIND  black car
+new2390,number,canopy,600,800,265,278,133,154,175,348,32,174,number printed on a canopy
+new2391,line,street,600,800,168,277,480,516,24,796,369,597,line painted on a street
+new2392,handle,door,600,800,647,695,431,449,647,798,353,540,handle on are door
+new2393,sign,window,600,800,644,716,139,180,639,740,147,208,sign is on window
+new2394,traffic light,pole,600,800,436,492,71,147,71,492,66,372,traffic light is holding from pole
+new2395,branch,tree,384,512,258,333,83,99,322,385,0,159,branch on the tree
+new2396,man,sweatshirt,600,800,389,482,189,476,392,478,223,329,man is wearing a sweatshirt
+new2397,line,street,600,800,16,437,296,345,31,793,168,592,line on are street
+new2399,wall,building,600,800,666,715,238,290,620,760,89,362,wall on are building
+new2400,wall,building,600,800,190,282,80,211,153,619,66,252,wall are  on building
+new2401,window,building,600,800,369,406,30,97,295,426,12,312,window on are building
+new2404, pole,flag,600,800,773,798,7,73,732,777,2,115, pole are of a flag
+new2405,sign,building,600,800,227,312,340,382,268,791,7,433,sign near a building
+new2406,hydrant,sidewalk,600,800,433,474,217,286,1,791,177,595,hydrant on the sidewalk
+new2407,person,person,600,800,217,322,248,486,217,322,248,486,person are standing up person
+new2408,person,shopping bag,600,800,496,627,111,445,484,535,282,381,person is carrying shopping bag
+new2409,person,sidewalk,600,800,444,525,208,416,2,799,265,598,person are walking on a sidewalk
+new2410,car,street,600,800,294,658,369,524,4,801,396,596,car are driving down street
+new2413,window,building,600,800,646,666,150,194,414,798,4,373,window belonging to a building
+new2414,wall,building,600,800,527,787,3,288,1,158,118,446,wall on are building
+new2415,manhole,sidewalk,800,600,170,249,649,672,2,600,530,796,manhole are in an sidewalk
+new2416,man,coat,600,800,129,185,265,445,123,198,302,374,man wearing a a coat
+new2417,advertisement,building,600,800,2,556,0,270,4,608,12,429,advertisement on are building
+new2418,man,umbrella,600,800,620,702,383,568,641,671,469,568,man are walking with umbrella
+new2419,windshield,van,600,800,312,520,501,597,124,609,480,597,windshield on are van
+new2420,fencing,curb,600,800,2,723,400,500,3,756,426,498,fencing along the curb
+new2421,Photo,Photo,800,600,4,599,1,797,4,599,1,797,Photo taken during the day Photo
+new2422,man,kid,600,800,276,310,402,492,252,282,430,491,man holds hands with kid
+new2423,sign ,building,600,800,254,288,351,439,150,800,5,487,sign  are  on building
+new2425,green cross,building,600,800,127,153,444,524,72,726,510,594,green cross is on top of building
+new2427,car ,road,600,800,379,536,341,417,209,798,354,592,car  on are road
+new2428,vehicles,road,600,800,167,466,292,377,4,798,335,595,vehicles are along side road
+new2430,guy,shorts,600,800,474,519,238,399,482,509,315,371,guy wearing a a shorts
+new2431,clouds,sky,600,800,332,479,23,100,688,744,35,67,clouds are inside of a sky
+new2432,barrels,tops,600,800,630,800,364,526,626,796,367,433,barrels are with a tops
+new2433,beam,bridge,600,800,113,162,36,462,5,799,309,550,beam on are bridge
+new2434,cups,table,600,800,746,799,325,568,3,799,134,595,cups  on   table
+new2435,needle,needle,600,800,259,272,91,132,259,272,91,132,needle top of a building needle
+new2436,windows,building,600,800,517,619,213,367,484,631,22,336,windows on are building
+new2437,door,city,600,800,135,295,345,418,1,798,6,590,door are in an city
+new2438,man,khakis,600,800,256,390,111,596,260,373,395,597,man wearing a a khakis
+new2441,wall,building,533,800,5,597,2,284,3,598,4,274,wall on are building
+new2442,flag,building,533,800,309,400,104,266,327,796,7,530,flag is hanging from  building
+new2445,cab,street,533,800,548,705,368,446,1,799,366,532,cab on are street
+new2448,Painting,wall,533,800,200,682,26,499,9,800,0,526,Painting is on the wall
+new2449,painting,wall,533,800,94,386,120,376,9,800,0,528,painting is hanging on the wall
+new2452,photograph,wall,533,800,475,499,257,287,470,591,115,310,photograph on are wall
+new2453,chair,surface,533,800,152,525,38,512,19,789,77,513,chair on are surface
+new2459,vehicle,lot,600,800,387,421,472,499,93,746,462,595,vehicle on are lot
+new2462,building,street,600,800,522,797,0,395,226,797,377,598,building is next to street
+new2464,person,water,600,800,393,475,340,400,491,694,369,435,person standing by an water
+new2466,blue flag,building,600,800,391,423,270,328,404,517,51,374,blue flag on are building
+new2467,van,road,600,800,324,598,332,470,2,799,399,598,van on are road
+new2468,house,window,600,800,16,331,148,436,234,266,303,384,house has a a window
+new2469,bushes, shrubs,600,800,84,250,371,433,136,235,386,419,bushes and an  shrubs
+new2470,sign,walkway,600,800,340,374,361,445,50,795,408,594,sign on are walkway
+new2471,pole,sidewalk,600,800,142,200,3,267,8,538,228,590,pole is on sidewalk
+new2472,flowers,bush,600,800,354,496,180,301,319,590,158,439,flowers on are bush
+new2473,license plate,bus,600,800,664,704,374,399,513,790,190,464,license plate on are bus
+new2476,window,house,600,800,429,447,306,330,412,602,260,356,window of a house
+new2477,leaves,tree,600,800,655,746,66,294,578,800,1,542,leaves on are tree
+new2478,rocks,water,600,800,404,469,345,449,567,725,298,385,rocks are near the water
+new2479,trees,mountain,600,800,10,259,198,534,5,326,100,387,trees on are mountain
+new2480,evergreens,evergreens,600,800,3,280,260,426,3,280,260,426,evergreens growing on mountain evergreens
+new2481,man,pants,600,800,304,394,315,564,318,382,431,556,man in khaki pants
+new2482,road,water,600,800,246,383,427,596,327,405,342,427,road are near the water
+new2484,hair ,Man,600,800,384,416,310,334,366,438,303,503,hair  on the Man
+new2485,man,shirt,600,800,77,217,242,543,84,200,296,431,man wearing a a shirt
+new2486,boulder,corner,600,800,3,148,515,598,11,43,522,539,boulder are with a corner
+new2487,rocks,rocks,600,800,0,799,2,596,0,799,2,596,rocks on the rocks
+new2489,snow,soil,600,800,2,799,329,598,595,769,462,558,snow on the soil
+new2490,woman,shirt,600,800,233,258,468,525,237,248,485,511,woman with a shirt
+new2491,WALL,BUILDING,600,800,656,669,353,370,635,671,352,370,WALL on are BUILDING
+new2492,shadow,trees,600,800,80,136,297,357,5,191,329,389,shadow are next to the trees
+new2493,vehicles,road,600,800,200,416,421,458,3,440,417,466,vehicles on are road
+new2494,man,pants,600,800,279,330,330,546,280,326,420,493,man  wearing pants
+new2497,building,roof,600,800,533,800,423,594,528,778,413,509,building are with a roof
+new2499,man,hat,800,600,408,442,570,626,411,434,579,599,man wearing a a hat
+new2500,sun,horizon,600,800,414,436,236,256,183,619,184,543,sun beyond the horizon
+new2502,trees,water,600,800,670,785,188,356,9,799,360,597,trees is by water
+new2504,sail boat,water,600,800,701,727,294,356,490,566,372,406,sail boat is on top of water
+new2506,structure,bridge,600,800,637,738,86,588,14,791,70,590,structure is on bridge
+new2507,cross,train,600,800,521,563,370,423,4,794,333,493,cross is on train
+new2508,STAKE,grass,600,800,466,486,547,595,6,780,508,588,STAKE is on grass
+new2509,window,HOUSE,600,800,366,389,358,377,357,406,358,395,window is on HOUSE
+new2510,clouds,sky,600,800,9,793,1,294,16,798,1,246,clouds are in an sky
+new2511,clouds,sky,600,800,1,706,4,216,2,800,4,369,clouds are in sky
+new2512,vehicle,road,600,800,88,628,267,505,3,800,443,599,vehicle parked on the road
+new2516,grass,hill,600,800,300,794,479,592,147,796,267,590,grass on are hill
+new2517,hill,vegetation,600,800,470,796,286,386,13,475,493,591,hill are with a vegetation
+new2518,trees,hill,600,800,194,251,305,348,268,324,301,347,trees on are hill
+new2519,tree,field,600,800,667,756,290,366,399,579,456,537,tree are in an field
+new2520,tree,field,600,800,280,427,300,437,5,779,437,597,tree are in an field
+new2521,tree,field,600,800,405,478,144,242,2,800,67,598,tree in a field
+new2522,tire,rim,600,800,26,65,444,492,38,57,458,484,tire with the rim
+new2524,shadow,shadow,600,800,1,378,497,565,1,378,497,565,shadow on are shadow
+new2525,tree,car,600,800,137,623,14,527,308,426,424,481,tree near a car
+new2527,hills,horizon,600,800,369,563,285,345,26,788,288,385,hills are in an horizon
+new2528,blue sky,highway,600,800,5,799,4,311,349,766,451,595,blue sky is above highway
+new2529,digital sign,road,600,800,264,300,441,476,4,782,464,596,digital sign on are road
+new2535,tree,woods,600,800,174,233,72,296,334,799,14,596,tree are in an woods
+new2536,field,field,600,800,2,660,102,281,2,660,102,281,field are in an field
+new2537,spots,bench,600,800,62,122,376,417,71,319,287,439,spots on are bench
+new2539,antenna,roof,600,800,656,701,261,301,336,769,269,358,antenna on are roof
+new2540,leaves,tree,600,800,195,237,315,368,263,348,310,394,leaves on are tree
+new2541,leaves,tree,600,800,229,283,156,385,202,306,121,405,leaves a part of a tree
+new2543,car,street,600,800,183,247,365,392,4,416,396,585,car are parked on side of street
+new2544,sign,pole,600,800,167,183,390,411,170,177,408,450,sign on are pole
+new2546,can,grass,600,800,501,549,365,432,403,800,387,512,can left on the grass
+new2547,shadow,side walk,600,800,486,611,531,555,272,793,370,598,shadow is on side walk
+new2548,car,lot,600,800,758,798,451,513,3,798,451,597,car is in lot
+new2549,grass,ground,600,800,2,354,362,432,10,363,334,489,grass on are ground
+new2550,car,road,600,800,630,682,314,336,358,766,304,334,car are driving on road
+new2551,hay,truck,600,800,618,653,457,497,535,675,430,535,hay on  a truck
+new2553,bridge,water,600,800,369,761,16,363,450,767,363,534,bridge are reflecting on water
+new2554,wall,sidewalk,600,800,3,488,556,586,6,796,526,588,wall is under the sidewalk
+new2555,wine,glass,600,800,508,589,208,285,471,602,145,399,wine are in an glass
+new2556,building,lantern,800,600,1,600,2,798,148,496,223,509,building on are lantern
+new2557,tree,house,600,800,85,715,200,597,79,799,153,597,tree is by house
+new2558,vehicle,road,600,800,413,679,217,359,5,800,290,595,vehicle is parked alongside road
+new2559,vehicles,road,600,800,668,714,305,332,533,767,386,582,vehicles are parked alongside road
+new2560,lamp,rail,431,323,137,160,39,77,160,184,72,96,lamp on are rail
+new2563,trees,mountain,420,560,229,335,133,167,84,316,101,168,trees on are mountain
+new2564,tree,trunk,420,560,485,559,168,419,509,534,359,418,tree has a a trunk
+new2566,window,building,420,560,72,84,208,220,3,391,1,417,window on are building
+new2567,clock,roof,420,560,276,309,58,94,20,531,92,147,clock is on the roof
+new2576,vehicles,road,600,800,198,283,436,456,110,800,442,468,vehicles are parked along road
+new2577,dome,building,600,800,457,626,86,260,444,640,89,438,dome on are building
+new2578,city,water,600,800,2,784,271,463,25,797,450,586,city on front of an water
+new2580,building,rock,600,800,517,554,189,246,472,602,218,287,building at edge of a rock
+new2581,woman,stairs,800,600,451,487,512,623,378,521,569,646,woman are walking down stairs
+new2582,window,building,800,600,422,586,667,784,80,549,446,763,window on are building
+new2583,window,building,600,800,361,402,338,381,2,448,108,524,window on are building
+new2584,leafs,tree,600,800,628,650,258,284,613,760,225,346,leafs on are tree
+new2585,bokes,balls,600,800,305,387,482,540,274,373,408,528,bokes is full of balls
+new2586,window,building,600,800,648,669,299,324,138,708,137,429,window is on building
+new2587,green leaves,tree,600,800,67,125,352,416,6,163,140,448,green leaves on are tree
+new2588,lady,pet,600,800,25,105,309,487,4,40,395,476,lady is walking a pet
+new2589,man ,shirt,800,600,278,352,572,689,282,337,595,648,man  is wearing shirt
+new2591,wheel ,van,600,800,180,204,491,531,82,306,352,539,wheel  are of a van
+new2595,door,truck,600,800,656,702,164,225,525,753,140,254,door are of a truck
+new2596,light pole,tree,600,800,602,664,69,560,496,786,43,507,light pole are next to the tree
+new2597,front,car,600,800,204,276,337,377,203,345,306,383,front on are car
+new2598,log,cabin,600,800,37,98,292,309,5,102,288,366,log are of a cabin
+new2599,sign,grass,600,800,342,361,306,365,107,784,390,561,sign on are grass
+new2609,marker,road,600,800,284,348,487,503,32,507,521,597,marker dividing road
+new2610,window ,building,600,800,46,54,274,290,25,262,210,339,window  on are building
+new2611,nest,tree,533,800,312,752,443,527,353,614,437,507,nest in the tree
+new2612,feathers,bird,533,800,474,583,130,296,155,790,54,523,feathers on are bird
+new2613,bird,beak,600,400,21,253,22,596,177,249,28,97,bird has a a beak
+new2615,leaves ,tree,533,800,417,493,127,224,417,493,127,224,leaves  are in an tree
+new2617,boy,grass,533,800,162,546,41,493,3,800,2,531,boy is sitting on the grass
+new2618,grey seal,rocks,533,800,526,790,162,304,4,789,72,525,grey seal on are rocks
+new2619,eye,bird,533,800,188,222,128,166,107,716,49,497,eye on are bird
+new2625,bird,water,377,800,432,452,234,254,4,797,194,371,bird are flying over water
+new2626,rock,algae,600,600,355,599,2,482,453,493,155,194,rock has a a algae
+new2629,bird,beak ,533,800,445,609,124,430,435,476,115,158,bird has a a beak 
+new2630,bud,plant,533,800,305,367,329,391,102,372,232,530,bud growing on from the plant
+new2631,leaf,alligator,534,800,454,487,257,357,2,597,1,346,leaf is by alligator
+new2632,leaves,tree,600,800,632,651,121,142,338,628,1,133,leaves on are tree
+new2633,moss,trunk,600,800,546,589,149,185,531,679,8,476,moss on are trunk
+new2635,brown sign,ground,600,800,494,686,402,531,3,795,223,592,brown sign on the ground
+new2636,leaf,tree,600,800,215,220,251,259,199,280,221,295,leaf on are tree
+new2637,squirrel,whiskers,533,800,244,799,10,529,185,273,264,398,squirrel has a a whiskers
+new2639,spot,giraffe,534,800,490,516,311,364,171,799,32,532,spot on are giraffe
+new2640,Trees,Trees,534,801,588,796,135,218,588,796,135,218,Trees beyond a Trees
+new2641,elephant,leg,534,800,164,798,86,532,380,593,308,532,elephant has a a leg
+new2642,grass,zebra,534,800,139,335,316,488,70,600,109,452,grass is around zebra
+new2645,giraffe,open lands,533,800,659,718,279,373,4,799,302,530,giraffe standing in open lands
+new2656,stripe,balloon,801,534,173,283,199,499,165,486,187,535,stripe on are balloon
+new2657,goat,grass,800,534,99,439,44,472,16,535,8,799,goat is in grass
+new2658,dead plants,ground,534,800,406,800,227,415,0,800,0,532,dead plants is on the  ground
+new2659,two lions,field,534,800,47,565,25,515,6,791,8,515,two lions are laying in field
+new2664,zebras,grass,346,800,207,658,188,281,10,790,230,344,zebras standing in the grass
+new2666,lioness,cub,600,600,6,322,46,589,277,555,130,445,lioness licking a cub
+new2668,elephant,trunk,533,800,160,708,32,414,158,244,75,240,elephant has a a trunk
+new2669,body,water,533,800,4,793,357,487,11,792,384,485,body are of a water
+new2670,window,house,600,800,676,710,197,235,657,740,147,393,window on are house
+new2671,woman,sidewalk,600,800,171,206,426,540,2,686,469,569,woman on are sidewalk
+new2672,woman,sidewalk,600,800,41,68,435,519,5,111,499,598,woman are walking on a sidewalk
+new2673,flower,water,600,800,714,740,400,418,2,789,380,596,flower is by water
+new2674,scene,river,600,800,2,796,5,590,158,786,331,577,scene near the river
+new2680,person,water,600,800,105,111,347,363,1,796,363,598,person are near the water
+new2681,building,window,600,800,113,358,106,406,285,322,164,217,building has a a window
+new2687,steps,door,800,600,390,419,581,610,397,426,542,586,steps to an door
+new2689,window,girl,800,600,46,157,442,641,87,196,589,724,window behind the girl
+new2690,wall,building,600,800,144,242,509,549,141,261,477,551,wall on are building
+new2691,sign,pole,600,800,251,275,410,434,261,269,430,478,sign on a pole
+new2692,median,road,600,800,61,296,402,418,9,800,402,594,median are in an road
+new2693,white line,road,600,800,432,450,467,483,277,747,432,597,white line are painted in road
+new2694,wall,building,600,800,504,797,377,418,658,790,326,384,wall on the side of a building
+new2699,trees,road,600,800,308,445,232,454,470,564,483,573,trees is on side of road

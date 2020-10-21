@@ -1,0 +1,2002 @@
+ImageID,LabelName1,LabelName2,Height,Width,XMin1,XMax1,YMin1,YMax1,XMin2,XMax2,YMin2,YMax2,ReferringExpression
+1,lamp,lamp,600,800,533,596,53,490,357,380,189,367,Lamp post and lamp is on the sidewalk's edge
+18,computer,computer,600,800,322,477,238,390,741,798,261,443,Computer is the guy looking at
+50,blinds,blinds,600,800,1,84,0,263,183,725,0,271,Closed blinds are covering the windows
+2359545,bowl,pole,500,375,0,361,56,474,121,329,0,239,Pole in bowl is brown
+2359549,Horns,Horns,333,500,243,260,157,167,272,289,157,164,Horns is on the cow's head
+2359578,tracks,tracks,333,500,260,418,73,332,208,287,216,332,Tracks is the train on
+2359614,zebras,zebras,333,500,0,343,15,266,52,433,41,324,Zebras are these animals
+2359722,train tracks,train tracks,375,500,0,500,267,349,0,217,301,374,Two train tracks is parallel to each other
+2359783,Motorcycle riders,Motorcycle riders,332,500,255,320,117,262,230,257,147,185,Motorcycle riders is the focus
+2359898,wood,wood,500,375,0,103,285,428,97,244,81,144,Wood are the kitchen cabinets made from
+2359914,shorts,Man,375,500,37,95,128,189,21,107,6,285,Man's shorts is green
+2359931,suits,suits,357,500,76,234,156,355,234,426,118,355,Suits are they wearing
+2359936,zebra,zebra,352,500,98,406,76,226,190,447,77,225,Zebra is the name of this mammal
+2360006,bus,bus,500,500,97,427,66,436,411,499,251,335,Bus is red
+2360027,balls,balls,375,500,147,213,275,337,30,80,175,222,Kicking balls are the children doing
+2360052,guy,hair,333,500,233,342,112,332,224,315,113,196,A guy's hair is black
+2360158,Sign,Sign,331,500,23,297,77,152,140,256,204,310,Sign is on the pole
+2360238,Tartar sauce,Tartar sauce,375,500,273,383,243,358,354,437,204,314,Tartar sauce is in the container
+2360392,animals,animals,334,500,223,406,31,254,148,207,155,302,Animals is pictured
+2360417,giraffe,giraffe,500,375,180,316,183,365,332,374,194,277,Giraffes are the people looking at
+2360467,curb,curb,321,500,312,496,283,304,0,288,262,286,The curb is yellow
+2360508,birds,birds,333,500,213,345,154,319,45,152,121,248,Birds is in the air
+2360627,Zebras,Zebras,408,500,23,458,98,382,113,310,31,310,Zebras are they
+2360679,flowers,flowers,375,500,57,99,173,229,85,120,81,111,Flowers is on the desktop
+2360689,railings,railings,375,500,353,498,4,63,0,270,6,78,Railings are the bars on the wall called
+2360768,shirt,jean jacket,463,500,228,314,237,462,26,490,185,461,A shirt and a jean jacket is the woman wearing
+2360773,Necks,Necks,500,375,154,171,171,201,134,145,171,201,Necks is unusually big on these animals
+2360776,cars,cars,375,500,270,340,24,46,354,401,25,42,Cars is in the background
+2360907,trees,trees,375,500,303,453,120,342,83,496,0,147,Trees is green
+2360974,wood,wood,333,500,308,350,117,147,409,459,120,140,Wood is the stand made of
+2361081,stuffed animals,stuffed animals,375,500,92,246,144,303,188,404,72,289,Stuffed animals are the closest
+2361089,buildings,buildings,375,500,369,496,0,200,7,346,43,192,Buildings are the structures behind the street lights
+2361122,Mountains,Mountains,334,500,355,498,103,150,91,234,126,159,Mountains is in the background
+2361200,giraffes,giraffes,374,500,225,311,40,362,335,378,107,285,The giraffes is on the dirt
+2361430,window,fan,500,325,14,105,44,294,15,90,209,295,The fan and window is reflected in the mirror
+2361494,Utensils,Utensils,333,500,53,430,191,308,0,418,273,318,Utensils is beside the pizza
+2361586,surfboard,surfboard,333,500,266,490,181,237,131,234,256,298,Surfboard is blue
+2361792,grass,grass,339,500,214,500,117,285,0,96,114,185,Grass is the cow eating
+2361823,tusks,tusks,375,500,256,276,225,307,234,247,231,273,Tusks is white on the elephant
+2361898,tracks,tracks,334,500,0,55,234,284,19,134,255,334,Tracks is the train on
+2361904,stands,stands,333,500,75,486,73,153,0,497,4,156,The stands is in the background
+2361928,bears,bears,333,500,10,227,117,331,205,499,0,332,Bears is brown
+2361928,bear,bear,333,500,10,227,117,331,205,499,0,332,The bears is furry
+2361973,Umbrellas,Umbrellas,333,500,326,384,181,200,383,440,177,195,Umbrellas are two men holding above their heads
+2362024,ski poles,ski poles,333,500,68,177,133,227,300,336,177,220,Ski poles is she holding
+2362112,hats,hats,500,375,154,181,118,146,266,301,143,190,Hats are the people wearing on their heads
+2362200,windows,windows,357,500,245,259,167,178,233,245,166,180,Windows is on the front of the plane
+2362206,buildings,buildings,500,325,185,297,287,459,0,168,14,497,Buildings is present
+2362320,Windows,Windows,333,500,347,498,26,225,48,255,23,227,The windows is open
+2362412,posters,posters,500,379,193,330,252,372,1,58,282,368,Posters is on the fence
+2362436,pizza,pizza,375,500,35,266,54,157,43,267,63,161,Pizza is on the plate
+2362542,Cars,Cars,500,333,0,36,268,313,1,59,270,310,Cars is parked on the left
+2362558,horns,horns,375,500,263,271,89,106,273,279,90,103,Horns is on the giraffe's head
+2362588,bathrobes,bathrobes,332,500,170,222,91,277,205,249,89,265,Two bathrobes is hanging on the wall
+2362600,Curtains,Curtains,333,500,261,275,128,194,316,335,122,212,Curtains is hanging on the windows
+2362601,skis,skis,500,335,36,176,398,481,80,276,386,478,Skis are on the man's feet
+2362635,Candles,Candles,333,500,116,136,247,269,152,167,243,264,Candles is lit on the table
+2362641,Mountains,Mountains,334,500,183,499,72,229,0,183,71,241,Mountains is in the background
+2362806,cap,gown,280,500,241,268,97,107,226,291,124,226,A cap and gown are the people wearing
+2362826,Plates,Plates,500,500,1,269,187,457,257,499,152,390,Plates are they on
+2362878,Computers,Computers,334,500,43,304,108,283,192,408,58,239,Computers is on the desk
+2363009,rocks,rocks,500,375,190,312,337,394,302,372,342,393,Rocks is on the ground
+2363169,Ski poles,Ski poles,333,500,213,266,22,159,239,334,47,142,Ski poles is in the skiers hands
+2363532,brush,brush,375,500,236,286,232,271,221,289,277,323,Hair brushes are the children holding
+2363601,ski poles,ski poles,332,500,267,272,192,229,304,315,196,246,Ski poles is the woman holding
+2363692,man,skis,375,500,246,319,153,230,224,275,231,245,A man on skis are the people watching
+2363919,Horse,Horse,347,500,55,229,46,302,263,479,95,311,Horse is seen in the picture
+2363965,215,430,358,500,154,168,184,191,154,169,192,198,215 and 430 are the two times on the board
+2364117,plate,plate,333,500,0,238,85,308,259,452,88,282,Plate is below the food
+2364125,antlers,antlers,399,500,385,406,92,131,408,445,91,126,Antlers is growing from the animals head
+2364230,trains,trains,375,500,284,344,138,246,6,275,81,295,Looking at the trains is the man doing
+2364280,flower baskets,flower baskets,375,500,174,214,220,257,223,267,219,255,Flower baskets is hanging from the street light
+2364291,tires,tires,323,500,151,180,178,207,102,124,171,202,Tires is being used to protect the sides of the boats
+2364295,Skis,Skis,333,500,273,285,274,294,3,50,265,293,Skis are the people carrying
+2364370,sandwiches,sandwiches,281,500,174,298,56,171,291,380,31,95,Sandwiches is on the plates
+2364414,strawberries,strawberries,500,333,92,156,214,268,21,95,208,260,Strawberries are the berries on top of cake probably called
+2364417,alcohol,alcohol,334,500,115,187,255,328,254,320,282,333,Alcohol is in their hands
+2364443,Zebras,Zebras,332,500,60,416,43,312,306,440,40,290,Two Zebras is this photo of
+2364528,glasses,glasses,310,500,134,226,39,92,282,350,92,134,Glasses is the woman wearing
+2364594,mustard,mustard,500,375,39,186,85,327,256,375,99,223,Mustard is topping on hotdog
+2364650,curtains,curtains,332,500,183,497,14,260,53,178,0,259,Curtains is draped around the stage
+2364675,trees,trees,334,500,410,498,34,214,0,83,126,189,Trees is green
+2364680,shoes,shoes,500,357,72,151,395,462,169,251,413,460,Shoes is on her feet
+2364728,fence,tree,500,333,0,252,0,171,169,333,0,202,Fence and tree is in the background
+2364740,Controllers,Controllers,281,500,51,144,225,258,362,454,219,258,Controllers are the men holding
+2364770,people,people,378,500,113,156,233,315,150,190,256,348,People is present
+2365110,wheels,wheels,281,500,294,333,178,217,87,117,185,218,Wheels is it on
+2365246,wine,wine,345,500,164,183,202,213,161,173,170,176,Wine is in the table
+2365284,walls,walls,375,500,269,499,0,374,0,270,0,375,Walls is white
+2365323,umbrellas,umbrellas,333,500,195,335,175,319,341,425,56,170,Umbrellas is in the bananas
+2365326,balloon,balloon,342,500,128,194,62,339,391,475,62,301,Balloon and unidentifiable object is he holding
+2365429,feet,feet,500,335,123,139,362,382,81,107,393,409,Washing his feet is the man on the left doing
+2365498,gloves,gloves,500,421,140,216,239,290,184,198,227,254,Gloves is the maid wearing on her hands
+2365615,horses,horses,375,500,236,344,91,342,333,499,66,373,Horses is shown on this photo
+2365661,flags,flags,333,500,0,85,0,302,338,417,0,327,Two flags is behind the men
+2365677,trains,trains,500,360,188,357,240,357,0,167,221,376,Trains is on the tracks
+2365717,joysticks,joysticks,333,500,385,404,252,324,70,137,173,244,Joysticks are the people holding
+2365864,remotes,remotes,500,333,178,222,164,249,232,255,198,223,The remotes is the man holding
+2366137,bushes,bushes,400,500,0,269,214,376,187,313,209,317,Bushes are they eating
+2366191,blinds,blinds,375,500,310,377,54,224,381,499,41,225,Blinds is covering the windows
+2366352,helmets,helmets,235,500,307,325,70,93,322,346,58,87,Helmets are the motorcycle riders wearing on their heads
+2366454,chests,chests,374,500,105,214,134,198,97,211,187,289,Two chests is on the cart
+2366491,rear lights,rear lights,333,500,152,181,155,172,212,244,155,173,Car's rear lights is lit red
+2366568,Hot Dog,Hot Dog,333,500,123,190,141,314,255,345,155,332,Hot Dog is she having in her hand
+2366644,flower bud,water,500,375,265,314,182,274,234,314,381,498,Flower bud and water is in the smallest vase
+2366663,sneakers,sneakers,333,500,42,60,230,270,176,193,292,304,Sneakers is purple
+2366728,umbrellas,umbrellas,333,500,35,183,29,152,165,266,66,196,Umbrellas is she holding
+2366792,Laptops,Laptops,375,500,9,312,34,285,293,499,52,277,Laptops is on the table
+2366863,horses,horses,375,500,255,416,186,290,213,354,181,272,2 horses grazing is this a picture of
+2366879,lamps,lamps,333,500,262,291,157,191,459,500,163,231,Lamps is on either side of the bed on the wall
+2366947,hills,hills,333,500,45,498,8,121,0,117,47,117,Hills is in the background
+2367028,pizza,pizza,388,500,161,486,252,330,89,139,182,206,Pizza are in the tray
+2367103,wall,Wall,500,500,1,168,0,115,442,498,105,138,Wall is grey
+2367155,knee pads,knee pads,334,500,301,369,152,240,270,341,242,310,Knee pads is on the man's knees
+2367167,Bracelets,Bracelets,333,500,168,176,191,212,310,323,187,209,Bracelets is the woman wearing on her wrists
+2367240,woman,food,333,500,0,277,0,332,266,495,93,300,Woman and food is in the picture
+2367285,airplane,bird,332,500,32,99,120,149,435,495,136,162,Bird and airplane is flying in the sky
+2367333,necks,necks,342,500,260,395,113,341,243,401,40,264,Their long necks is special about these animals
+2367352,horns,horns,333,500,199,219,34,66,226,242,34,66,Horns are the bumps between the ears
+2367356,pizza slices,pizza slices,391,500,26,226,126,284,177,442,91,295,Pizza slices is there
+2367394,hills,hills,334,500,236,421,257,267,381,499,258,267,Hills is in the background
+2367452,tennis rackets,tennis rackets,500,400,199,383,160,259,95,156,230,270,Tennis rackets are they holding
+2367496,Jazz,Jazz,276,500,87,191,171,203,57,107,38,54,Jazz is the name written on the first and third planes
+2367567,grass,grass,333,500,182,499,104,330,0,467,91,243,Grass is on both sides of the tracks
+2367575,boots,boots,500,500,238,274,422,499,283,326,419,482,Boots is the man wearing on his feet
+2367614,Horns,Horns,375,500,270,275,165,174,264,269,165,173,Horns is on the giraffe's head
+2367754,Stars,Stars,500,375,51,59,392,398,60,67,391,397,Stars is painted on top of the hydrant
+2367826,goats,goats,296,500,20,201,124,250,88,258,103,235,Goats is white
+2367871,Arms,Arms,332,500,327,405,6,114,120,267,208,331,"Arms is longer, the bear's arms or legs"
+2367876,controllers,controllers,333,500,361,388,117,145,204,241,261,281,Controllers are the people holding
+2367900,flowers,flowers,357,500,191,208,105,140,355,393,57,126,Flowers is the subject of the paintings
+2367924,curtains,curtains,320,500,0,152,0,152,392,498,0,131,Curtains is the cloth
+2367943,knee pads,knee pads,333,500,236,285,211,246,252,291,243,271,Knee pads are on his knees
+2368084,Buildings,Buildings,375,500,0,181,211,260,295,481,194,264,Buildings are on each side of the street
+2368175,computers,computers,500,333,101,211,198,302,210,291,205,268,Computers is on the desk
+2368315,horses,horses,367,500,183,322,175,366,165,250,190,360,Horses are the men riding
+2368315,cowboy hats,cowboy hats,367,500,241,270,147,163,193,223,162,172,Cowboy hats are the men wearing on their heads
+2368324,Elephants,Elephants,332,500,165,274,173,242,201,389,107,231,Elephants are these animals called
+2368344,Blinds,Blinds,332,500,63,155,71,188,0,19,54,87,Blinds is on the windows
+2368441,hot dogs,hot dogs,375,500,181,299,239,281,186,312,261,315,Hot dogs is on the plate
+2368445,Controllers,Controllers,500,332,103,151,160,190,250,279,177,219,Controllers are the ladies holding
+2368446,legs,legs,333,500,0,343,0,331,359,498,75,332,Legs and feet is shown in the picture
+2368472,people,people,375,500,22,261,83,373,194,346,151,286,People is in the picture
+2368493,skis,skis,375,500,126,402,128,260,302,424,92,244,Skis are on his feet
+2368502,Bullseye,Bullseye,362,500,164,177,44,65,317,335,297,319,Bullseye is painted on the end of the wings
+2368510,purse,umbrella,373,500,347,387,124,168,282,390,50,98,A purse and an umbrella is the person holding
+2368565,graffiti,graffiti,500,375,136,261,73,232,202,290,265,411,Graffiti is written on the toilet
+2368577,lights,lights,333,500,301,330,41,58,330,353,43,62,Two lights is on a pole
+2368630,advertisement,advertisement,500,328,0,328,36,88,0,328,160,238,Advertisement is in the background
+2368676,child,mom,333,500,114,304,87,332,0,216,4,160,Looks like a mom and a child are the relationship of the two giraffes
+1159373,dogs,dogs,681,1024,161,392,282,668,481,665,263,494,Their dogs is with them
+2368741,shadows,shadows,281,500,206,340,242,249,299,498,263,279,Shadows are on the ground
+2368754,Zebras,Zebras,333,500,80,377,108,282,82,259,65,281,Zebras are the striped animals
+2368757,road,Line,375,500,12,498,269,374,407,427,317,374,Line on road is white
+2368772,canvas,canvas,500,375,42,207,33,308,222,375,0,497,Canvas are the walls made of
+2368905,Caps,Caps,375,500,318,351,93,113,441,484,85,107,Caps are the hats
+1159419,water,water,683,1024,812,1023,112,228,364,408,279,355,Water is in the gallon jugs
+2368998,flowers,flowers,500,363,162,226,255,347,246,301,249,346,Flowers is on the light pole
+2369067,Mountains,Mountains,369,500,0,193,75,154,151,498,36,158,Mountains is in the distance
+1159443,signs,signs,683,1024,571,597,1,43,629,640,105,129,Red lighted signs are there above the doors
+1159458,top,pants,768,1024,407,652,306,432,456,846,421,654,Light top and dark pants is girl on the bed wearing
+2369278,curtains,curtains,375,500,0,186,97,345,152,346,169,337,Curtains are located in front of the windows to keep out the light
+2369288,chairs,chairs,375,500,19,175,221,373,0,61,187,297,The chairs is made of wicker
+2369312,chairs,chairs,500,375,216,376,315,467,0,130,263,493,Chairs are people sitting on
+2339129,teeth,teeth,377,500,205,210,231,235,211,218,229,232,Brushing his teeth is this person doing
+2369396,desert,desert,375,500,209,354,219,356,41,398,26,323,Desert is on the plate
+2369474,shoes,shoes,500,332,105,128,276,321,196,238,300,326,Shoes is black
+2369613,mobility devices,mobility devices,375,500,167,380,207,366,224,434,169,339,Motorized mobility devices are the two women riding
+285750,airline vehicle,barrier,612,612,135,609,356,508,0,612,471,538,"An orange barrier is in front of the airline vehicle are the long, interlocking structures in the foreground"
+2369901,grass,grass,332,500,334,497,82,230,90,368,12,59,Grass is on either side of the path
+2369916,motorcycles,motorcycles,333,500,230,276,259,302,285,330,264,293,Motorcycles are the men riding
+2369920,teddy bear,egg,375,500,167,394,66,338,120,176,189,261,A teddy bear and an egg is in the picture
+2369931,Giraffes,Giraffes,500,500,24,234,149,499,157,354,49,499,Giraffes is in the photo
+2369999,lights,lights,335,500,118,131,208,219,97,107,209,217,The train's lights is turned on
+2370019,geese,geese,333,500,65,88,254,312,179,226,254,313,Geese is on the cement
+2370039,controllers,controllers,500,332,63,113,357,382,112,143,352,382,Controllers is she holding
+2370077,Flowers,Flowers,332,500,55,187,23,93,277,441,84,178,Flowers is in the pot
+2370150,Pillow,Pillow,375,500,169,427,91,202,0,178,135,254,Pillow is white
+2370206,Tracks,Tracks,375,500,170,338,221,305,335,362,140,162,Tracks is the train on
+2370218,Dogs,Dogs,333,500,146,228,130,233,111,181,138,232,Dogs are these
+2370320,horses,horses,379,500,37,185,104,325,119,197,109,173,Horses is dark brown
+2370334,giraffes,giraffes,333,500,268,500,202,333,345,500,63,294,Giraffes is being fed
+1159643,buildings,buildings,768,1024,497,613,52,286,608,910,13,289,Two buildings is white
+1159643,buildings,buildings,768,1024,497,613,52,286,608,910,13,289,Buildings is white
+2370378,computers,computers,333,500,0,208,0,155,220,381,0,206,Computers are on the desk
+2370403,sunglasses,sunglasses,375,500,166,196,147,158,391,403,142,150,Sunglasses is on his face
+2370477,bicycles,bicycles,333,500,0,291,0,331,379,387,138,163,Bicycles are being ridden
+1159679,sign,tooth,600,446,341,403,52,123,354,388,55,100,A sign with a tooth is hanging from a window
+2370642,buses,buses,392,500,77,217,159,291,53,79,208,250,Buses is in the picture
+2370643,horses,horses,329,500,3,101,53,269,149,375,9,321,Two horses is in the picture
+2370643,horses,horses,329,500,3,101,53,269,149,375,9,321,Leading horses are the people doing
+285887,industrial buildings,industrial buildings,683,1024,0,263,127,194,269,1015,116,207,Nature and industrial buildings is surrounding the train
+2370688,sunglasses,sunglasses,339,500,133,224,75,106,327,400,130,163,Sunglasses are both ladies wearing
+2370700,Pastries,Pastries,370,500,115,182,281,293,270,333,275,290,Pastries is the woman making in this picture
+1159709,gloves,gloves,1024,768,62,208,454,548,362,586,658,780,Plastic gloves is the chef wearing on his hands
+2370742,headboard,bed,375,500,140,392,64,226,0,500,63,375,The headboard of the bed is up against the wall
+2370756,umbrellas,umbrellas,458,500,169,233,207,252,105,174,214,247,Umbrellas are they carrying
+2370826,sandals,sandals,281,500,281,336,209,239,362,418,215,242,Sandals is on the woman's feet
+1159738,truck,license plate,683,1024,313,677,219,511,603,653,415,444,The license plate of the truck is clearly visible
+285930,tortillas,tortillas,612,612,411,520,301,410,422,517,248,339,Toasted tortillas is on plate
+2371003,handrails,handrails,500,373,275,374,193,255,0,230,176,219,Handrails are the metal poles for
+2371124,skateboard,skateboard,500,385,231,274,197,283,147,184,227,245,A skateboard is the kid riding
+1159779,Clothes,Clothes,1024,683,347,433,413,505,431,548,368,497,Clothes are they wearing
+2371411,screen,screen,357,500,113,436,31,264,0,73,86,279,Projection screen are the stars on
+2371443,Gloves,Gloves,273,500,253,269,44,61,255,281,152,170,Gloves are on his hands
+2371449,sandwich,sandwich,500,373,0,172,148,304,165,371,163,348,Sandwich is in the plate
+2371521,zebras,zebras,334,500,120,422,53,272,58,302,135,272,Two zebras is in the center of the picture
+2371539,windows,windows,332,500,0,184,0,207,185,498,0,180,The windows is behind the sink
+1159845,horn,please,850,567,204,265,499,535,362,437,503,531,"""horn"" and ""please"" is written on back of truck"""
+2371577,hands,hands,375,500,247,349,221,293,122,189,185,264,Wiping her hands is the woman doing
+2371625,doors,doors,333,500,40,122,97,301,286,349,97,301,The doors is made of wood
+2371643,grass,grass,500,375,0,375,157,332,0,375,402,497,Grass is green
+1159881,buildings,buildings,777,1024,240,659,374,563,284,1009,16,612,Buildings is in background
+2371871,Gloves,Gloves,346,500,268,307,51,120,189,234,57,83,Gloves is on the woman's hands
+2371978,tennis rackets,tennis rackets,500,333,182,236,109,133,75,129,256,276,Tennis rackets are they holding
+2371997,ball,ball,337,500,195,202,251,257,210,217,253,260,Getting ready to throw the ball is the boy in the black shirt doing
+2372004,Blinds,Blinds,375,500,407,440,0,58,173,242,0,58,Blinds is covering the windows
+2372053,papers,papers,375,500,337,405,243,261,407,444,259,273,Papers is on the countertop
+2372159,ski poles,ski poles,333,500,271,405,96,137,338,388,139,148,Ski poles is the woman holding in her hand
+2372160,shoe,shoe,375,500,51,316,167,285,413,499,209,365,A shoe is the cat sleeping on
+2372326,ski poles,ski poles,375,500,82,209,147,334,312,496,238,285,Ski poles is the person holding
+2372362,broccoli,broccoli,299,500,279,380,88,134,334,415,117,193,Broccoli is the vegetables that look like trees
+2372412,controllers,controllers,259,500,295,332,102,151,12,46,63,101,Controllers are the holding in their right hands
+2372433,chips,chips,500,333,77,128,36,86,51,81,36,81,Potato chips is on the basket
+2372458,shirt,shirt,335,500,236,298,130,176,83,144,159,205,A player's shirt is red
+2372458,cap,cap,335,500,259,287,113,132,97,128,138,164,A cap is on the red of the batter
+2372469,shades,shades,333,500,340,381,105,126,103,126,155,184,Shades are they wearing
+2372475,horns,horns,484,500,216,311,148,253,323,414,136,227,Horns is on it's head
+2372507,tags,tags,333,500,298,321,123,157,90,117,127,161,Tags is in the cow's ears
+2372509,palm trees,palm trees,375,500,235,421,0,185,469,498,2,82,Palm trees is green and on the right side of the truck
+2372519,polar bears,polar bears,500,387,0,386,0,459,121,385,184,499,Polar Bears are the animals in the picture
+2372548,bike,bike,333,500,78,152,182,262,97,175,188,263,A bike is behind him
+2372707,bicycles,bicycles,347,500,185,340,132,331,56,179,134,294,Bicycles are the two people in the foreground sitting on
+2372707,tents,tents,347,500,1,155,5,65,178,498,2,57,Tents are the white structures in the background
+2372765,grass,grass,400,500,0,391,279,309,0,401,337,368,Grass is green
+2372834,surfer,board,500,375,233,242,296,310,222,245,307,314,A surfer on his board is barely visible
+2372836,Line,road,333,500,153,498,239,331,117,498,233,332,Line on road is yellow
+2372915,Eme,Jack,500,331,150,223,134,154,120,153,300,389,Jack and Eme are the names on the cakes
+2372953,bottle,liquid,500,375,35,75,303,386,38,78,329,384,A bottle of liquid is beside the child on the bench
+2373055,Plant,Plant,500,335,11,42,414,432,79,129,344,397,Plant is in the pot near the bench
+2373120,trees,trees,387,500,0,357,0,305,421,499,161,242,Trees is behind the train
+2373149,shadows,shadows,375,500,45,176,129,265,269,344,176,332,Shadows are the dark images reflecting on the ground
+2373165,Feet,Feet,375,500,364,413,57,86,407,462,94,116,Feet is in the top right of the picture
+2373176,elephants,elephants,500,458,124,188,253,350,260,364,317,473,Elephants are the people riding
+2373206,hats,hats,333,500,28,83,39,69,176,236,0,17,Hats are the players wearing on their heads
+2339775,lights,lights,364,500,299,334,53,91,227,251,99,126,Lights is on the sides of the mirror
+2373253,clocks,clocks,500,366,171,192,161,196,210,240,158,195,Clocks are the circular shapes on the tower
+2373286,bears,bears,333,500,0,354,95,332,223,498,33,332,Two bears is this a photo of
+2373358,shorts,shorts,333,500,155,234,204,275,268,352,133,229,Shorts are the ladies wearing
+2373454,horses,horses,375,500,117,209,154,323,257,382,142,301,Horses are the police riding
+2373520,clock,clock,414,500,242,302,122,183,232,323,321,405,A clock is on the building
+1160174,Tables,Tables,683,1024,0,389,472,680,604,991,384,669,Tables are circular in shape
+2373526,clock,clock,500,308,190,202,166,185,222,233,168,181,Clock is giving time
+1160184,Bags,Bags,768,1024,749,834,207,317,58,216,196,498,Bags are the two girls wearing
+1160184,Flip flops,Flip flops,768,1024,758,823,568,601,753,790,548,577,Flip flops is the girl with the yellow tee shirt wearing on her feet
+2373691,wood,wood,375,500,318,498,0,232,352,499,0,210,Wood is the house on the right made of
+2373715,horses,horses,167,500,233,284,113,138,283,330,114,142,Horses are the men riding
+2373752,food,food,375,500,218,237,143,158,359,364,161,167,Food is in the boy's hands
+1160213,vehicles,vehicles,683,1024,227,606,463,595,106,807,240,484,Two vehicles are facing the same way
+1160220,Black flip flops,Black flip flops,1024,680,544,594,887,941,404,456,946,981,Black flip flops is woman wearing
+2373854,boats,boats,375,500,36,154,133,176,2,38,129,168,Boats is behind it
+1160244,Buildings,Buildings,683,1024,71,188,384,477,301,378,434,491,Buildings is in the picture
+1160247,sign,face,768,1024,280,419,322,433,325,358,298,317,Sign in front of face is child holding up
+2373987,Giraffes,Giraffes,334,500,169,264,71,266,266,401,71,269,Giraffes are the animals
+2374102,coffee,bread,500,333,179,271,267,360,48,172,178,230,Coffee and bread is the focus
+2374223,signs,signs,333,500,221,253,275,300,270,301,275,302,Two signs is the center
+2374303,phones,phones,375,500,206,253,138,223,196,260,233,354,Cell phones are the two black boxes
+2374373,trees,trees,335,500,3,142,266,334,430,499,282,334,Trees is in the background
+2374474,parking meters,parking meters,500,495,168,287,238,500,296,418,237,500,Parking meters are the two objects in the immediate foreground
+2374506,trucks,trucks,333,500,66,252,56,217,312,499,39,304,Trucks is present
+2374506,car,car,333,500,68,267,52,220,317,497,32,298,Repairing his car is he doing
+2374517,Cows,Cows,333,500,153,481,108,304,138,262,77,198,Cows is this a pic of
+2374600,vegetables,pizza,500,500,180,292,334,384,5,451,157,397,There is vegetables and seasoning on the pizza is on the pizza
+2374661,hands,hands,333,500,181,199,96,108,173,185,89,108,Shaking hands are the two surfers in the photo doing
+2374702,buildings,buildings,326,500,385,498,84,230,37,475,19,143,Buildings is in the background
+2374744,cup,cup,375,500,347,430,142,232,320,364,113,189,Cup is red on table
+2374831,lamps,lamps,500,375,0,22,155,223,308,334,159,237,Lamps is on either side of the bed
+2374843,buildings,buildings,375,500,287,497,9,253,0,288,0,247,Buildings is surrounding this area
+2374860,Juice,Juice,375,500,327,391,153,211,117,156,69,110,Juice is yellow
+2374983,tusks,tusks,375,500,243,278,195,234,255,305,177,237,Tusks are the white horns coming from the elephant
+2375035,helmets,helmets,333,500,241,268,56,81,352,383,197,230,Batting helmets are the two players in white wearing on their head
+2375296,plate,food,333,500,2,92,250,300,8,92,247,289,A plate with food is on the table
+2375345,parking meters,parking meters,500,333,74,124,113,246,133,184,116,248,Parking meters is on the pole
+2375358,people,people,375,500,195,237,142,189,288,326,132,171,People is in the water
+2375369,frisbee,frisbee,333,500,193,239,142,154,281,316,304,314,Frisbee is the man playing
+2375420,birds,birds,333,500,55,119,111,205,226,282,144,202,Birds is in the photo
+2375429,bridles,bridles,333,500,264,467,143,285,240,454,124,274,Bridles are the horses wearing
+2375473,knee pads,knee pads,335,500,360,390,86,115,387,416,117,140,Knee Pads is on his knees
+2375642,Hats,Hats,375,500,327,368,39,68,453,474,48,59,Hats are the women standing wearing on their heads
+2375718,candy,candy,333,500,261,276,93,108,275,289,93,105,Candy is in the case
+2375733,trucks,trucks,335,500,140,362,33,118,0,100,29,115,Trucks is in the background
+2375733,buildings,buildings,335,500,377,499,0,106,0,377,0,100,Buildings is around the parking lot
+2375748,wine,wine,334,500,211,320,127,201,330,412,109,167,Wine is in the glass
+2375799,airplane,airplane,333,500,235,355,123,163,14,139,215,245,An airplane is flying in the air
+2375881,lights,lights,375,500,75,96,152,175,229,248,162,183,Two traffic lights is lit red
+2375905,Stripes,Stripes,331,500,0,498,205,309,197,489,231,329,Stripes is on the road
+2376010,plate,spatula,332,500,405,498,238,285,393,487,223,260,A plate and spatula is sitting on top of the cans on the table
+2376218,sandwiches,sandwiches,337,500,121,162,216,301,239,294,239,286,Sandwiches are the boys eating
+2376267,shirt,Boy,375,500,263,363,193,342,258,379,117,373,Boy's shirt is red
+2376299,hats,hats,333,500,180,279,44,104,254,326,82,135,Hats are the policemen wearing on their heads
+2376451,walls,walls,500,375,184,297,16,271,0,191,18,309,Walls is red
+2376541,glass,porcelain,500,333,271,331,195,224,115,147,158,210,Glass and porcelain are the objects in the display made of
+2376557,flowers,flowers,500,375,320,364,179,223,350,374,196,231,Flowers is depicted on the blue couch
+2376589,Teddy bears,Teddy bears,476,500,104,339,7,338,189,476,2,453,Teddy bears is beige
+2376615,poles,poles,206,500,111,160,98,166,116,166,105,152,Ski poles is in the woman's hands
+2376620,kite,kite,339,500,72,171,12,289,324,419,11,288,A kite is the man holding
+2376646,surfboards,surfboards,333,500,151,256,143,201,126,193,172,205,Surfboards are the people holding
+2376676,people,people,399,500,119,433,74,398,17,289,61,398,Two people are dinner party is the focus
+2376789,boats,boats,333,500,77,85,98,110,14,23,104,111,Boats is in the background
+2376888,motorcycles,motorcycles,333,500,64,385,102,249,346,458,144,247,Motorcycles are the people riding
+2376904,bag,arm,332,500,174,330,183,332,169,292,187,301,The bag on her arm is black
+2376913,Tracks,Tracks,352,500,171,479,255,351,232,498,264,351,Tracks are the trains on
+2377028,wall,wall,375,500,0,296,0,242,273,498,0,247,Wall is red
+2377056,Motorcycles,Motorcycles,333,500,1,433,31,331,242,499,126,331,Motorcycles are the policemen driving
+2377063,egg,egg,500,334,128,314,159,277,3,91,1,45,An egg is on top of the rice
+2377063,plate,plate,500,334,0,332,146,498,0,224,0,172,Plate is the meal sitting on
+2377130,Ski sticks,Ski sticks,375,500,80,118,181,239,179,199,176,256,Ski sticks is the woman holding
+2377198,Trains,Trains,278,500,15,212,119,216,204,427,126,228,Trains is in this picture
+2377205,Pizza,Pizza,403,500,7,167,217,279,277,453,235,308,Pizza are the people eating
+2377273,Wine glasses,Wine glasses,500,333,210,243,102,188,67,110,109,199,Wine glasses are the ladies holding
+2377344,Bed,Bed,333,500,34,372,84,332,164,388,81,213,Bed is this a picture of
+2377411,Dog,water,334,500,153,268,46,139,13,498,0,290,Dog in water is brown
+2377421,picture,picture,308,500,109,191,50,166,268,365,32,94,Picture is on the computer screen
+2377482,pots,pots,332,500,183,240,213,255,203,253,186,226,Pots are the women cooking in
+2377632,suits,suits,500,334,200,317,160,497,36,197,189,499,Suits are they wearing
+2377632,ties,ties,500,334,100,127,203,326,261,294,182,292,Ties is around their necks
+2377663,Rifles,Rifles,331,500,207,242,115,151,184,216,111,152,Rifles are the men carrying on their backs
+2377752,phone,phone,500,326,73,104,323,350,73,104,323,350,A phone is the man holding
+2377755,food,food,374,500,239,362,8,64,37,479,88,320,Food is in the man
+2377771,4,3,500,375,154,176,183,229,268,286,184,226,4 and 3 is the number written
+2377785,kites,kites,332,500,166,216,72,127,307,339,130,192,Kites are the objects floating in the sky
+2377808,trains,trains,375,500,66,239,118,179,222,500,98,185,Trains is there
+2377835,Kites,Kites,375,500,74,96,70,80,96,209,8,56,Kites is being flown
+2378017,frisbee,she,500,333,110,145,130,146,108,234,130,420,She is catching a frisbee is the lady jumping doing
+2378057,tennis shoes,tennis shoes,333,500,105,139,235,306,107,128,289,330,Tennis shoes is the wearing on his feet
+2378139,Surfboards,Surfboards,500,500,234,351,213,322,181,208,222,293,Surfboards are the two people in the foreground carrying
+2378139,Wetsuits,Wetsuits,500,500,234,299,216,354,151,190,206,296,Wetsuits are the two people in the foreground wearing
+1591774,goggles,goggles,683,1024,340,394,28,84,648,706,164,206,Goggles is the snowboarder wearing
+1591774,thermos,thermos,683,1024,276,300,427,483,295,323,438,492,Thermos is next to backpack on ground
+1591830,mountains,mountains,1024,683,6,298,89,541,296,679,89,530,Mountains is in the background
+1591848,sink,shower,532,710,4,363,259,506,417,709,0,532,An interesting looking sink and a modernish shower is in the bathroom
+1591849,Tea kettles,Tea kettles,768,1024,748,798,314,399,813,864,334,387,Tea kettles are on the stove
+1591849,mixers,mixers,768,1024,488,623,313,489,296,497,236,535,The mixers are the two machines next to the meat slicer
+1591863,briefcases,briefcases,1024,683,102,153,654,773,203,243,591,668,Briefcases are the men carrying
+1591873,notebook,pen,553,1024,432,533,252,300,545,574,260,279,A notebook and pen is on the bed without sheets
+1591873,books,books,553,1024,227,322,180,212,228,334,188,223,Books is stack on the table next to the bed
+1591891,shorts,shorts,682,1024,213,355,199,259,312,421,174,228,Shorts are both men wearing
+2378331,shadow,shadow,486,348,177,281,452,479,29,89,426,443,Shadow is cast
+1591918,books,books,683,1024,0,70,604,662,0,80,613,673,Books is sitting on the entertainment center
+1591925,cables,cables,687,1024,363,844,14,348,2,709,0,340,Several cables are above the train tracks
+1591936,walls,door,768,1024,220,1013,0,765,53,492,16,548,An office with white walls and a wooden door is in the picture
+1591940,buildings,buildings,1024,744,208,255,152,234,513,593,376,437,Buildings is beyond train station
+1591940,signs,signs,1024,744,636,683,286,335,699,742,309,368,Signs is overhead
+1591945,cake,cake,685,1024,452,689,512,598,566,763,484,554,Cutting cake is the man with the sword doing
+1591962,stickers,stickers,600,900,305,443,406,449,435,475,403,485,Stickers is on the windows
+1591982,couches,couches,600,900,640,890,329,448,419,620,331,415,Two couches is on the other side of the room
+1591996,arm,cast,768,1024,949,962,552,590,945,963,563,590,A cast on his arm is the pedestrian wearing
+1592022,Cones,Cones,681,1024,97,124,263,308,167,189,246,293,Cones is on the ground near the white truck
+1592036,Glasses,Glasses,685,1024,755,794,342,363,209,238,317,332,Glasses is the man with a striped shirt wearing on his face
+1592038,computers,computer,768,1024,107,393,135,373,389,726,77,306,Two computers is on the table in addition to a laptop and a desktop
+150263,fence,post,768,1024,0,1023,85,765,298,340,82,681,A wooden post and the fence is guarding the animals
+1592077,satellite antennas,satellite antennas,683,1024,28,86,193,236,215,260,216,249,Satellite antennas are on some of the buildings
+150287,shoes,shoes,1024,683,504,567,594,654,450,510,556,601,Shoes is on the man's feet
+150287,posters,posters,1024,683,184,335,0,111,440,612,0,94,Posters is hanging on the wall
+1592089,platforms,platforms,683,1024,13,1022,417,626,186,844,298,448,Some platforms is on ground
+1592096,shirt,shorts,683,1024,629,668,387,431,623,667,430,458,A white shirt and dark shorts is the second player wearing
+150324,wristbands,wristbands,768,1024,392,491,485,686,865,888,571,623,Wristbands are the women wearing
+150327,plate,plate,768,1024,789,1018,555,661,56,154,455,502,Plate is white
+1592120,Flowers,Flowers,682,1024,95,199,94,172,92,206,28,100,Flowers is lavender
+1592120,Tomatoes,Tomatoes,682,1024,575,629,342,402,586,640,368,440,Tomatoes are the red slices on top of the lettuce
+1592121,plane,runway,533,800,67,805,165,360,10,797,349,454,A plane on the runway are the people watching
+150330,vehicle,vehicle,709,1024,820,1019,138,486,22,902,14,605,Another vehicle is next to the vehicle
+1592123,skis,skis,1024,768,276,316,620,651,319,364,599,649,Red skis is the bear wearing
+150332,sign,lettering,768,1024,215,268,310,425,225,265,338,418,A yellow sign with red lettering is on a building
+1592132,backpacks,backpacks,1024,683,149,284,381,561,445,477,395,442,Backpacks is on the men's back
+1592132,hats,hats,1024,683,187,248,325,367,455,470,380,395,Hats are both skiers wearing
+150345,water,water,853,1280,0,1272,382,851,0,1272,382,851,Water is calm
+150355,taxis,taxis,1024,681,3,525,650,1022,502,682,653,868,Taxis are the red and white cars
+150355,car,license number 91-76,1024,681,3,525,650,1022,248,338,938,974,A car with the license number 91-76 is in the foreground
+1592160,vehicles,vehicles,657,1024,198,1003,212,626,0,372,245,523,Classic vehicles are on display
+150371,trains,trains,682,1024,19,791,14,313,791,1010,155,296,Passenger trains are there not any of
+150384,them,them,768,1024,412,514,363,461,756,800,370,462,Brushing them are the people doing with the horses
+150384,Helmets,Helmets,768,1024,719,734,371,382,860,869,387,395,Helmets are the people wearing
+150384,man,hand,768,1024,910,956,371,464,908,917,410,422,A man's hand is a child holding
+150384,horses,horses,768,1024,412,514,363,461,756,800,370,462,Horses are people looking at
+150406,coffee sleeve,coffee sleeve,765,1024,648,778,498,598,647,655,173,187,A coffee sleeve is around the cup of coffee
+1592199,socks,socks,778,1024,435,479,410,476,355,407,430,492,Socks is white
+150408,buses,buses,677,1024,202,860,235,617,63,219,319,522,The buses are retro style
+150408,vehicles,vehicles,677,1024,202,860,235,617,63,219,319,522,Visible vehicles are behind the buses
+150412,t-shirt,jeans,1024,768,482,706,192,488,502,668,460,688,A t-shirt and jeans is the woman on the right wearing
+150418,Helmets,Helmets,683,1024,421,509,51,152,490,586,87,167,Helmets is on the police officer's head
+150418,Horses,Horses,683,1024,128,970,286,679,236,951,171,680,Horses are the police officer's riding
+2378644,Knee pads,Knee pads,478,500,266,313,234,272,166,209,239,279,Knee pads is blue
+150430,hands,hands,759,1024,537,550,271,288,554,562,270,284,The snowboarder's hands is bare
+1592240,buildings,buildings,1024,683,503,679,613,1022,179,592,795,1022,The other buildings is causing a shadow on the clock tower
+1592240,tower,clock,1024,683,204,445,266,877,336,383,499,551,Top of clock tower is a pyramid shape
+1592240,tower,clock,1024,683,204,445,266,877,336,383,499,551,Clock tower is historic
+1592247,268,268,683,1024,328,370,254,268,387,414,258,275,268 are the numbers on the train
+1592247,268,268,683,1024,328,370,254,268,387,414,258,275,268 is the number of the train
+1592252,Boots,Boots,480,720,532,621,349,462,643,715,375,478,Thigh high boots is the woman wearing
+1592253,columns,columns,768,1024,98,198,6,760,659,721,57,613,The columns is made of marble
+150484,posts,posts,768,1024,71,141,239,348,893,1024,217,475,Red posts are there several of
+150493,pants,pants,670,1024,82,144,417,522,0,84,438,509,Yellow pants are some people wearing
+150530,caps,caps,689,1024,784,873,38,87,547,608,26,86,Caps are both men wearing
+150530,jackets,jackets,689,1024,453,661,103,312,640,797,114,309,Black jackets are the man wearing
+2378756,buildings,buildings,333,500,325,498,0,332,0,252,0,332,Buildings is behind the signs
+1592325,building,building,678,1024,4,272,0,676,259,784,16,343,A building are the people walking near
+1592332,towels,towels,1024,768,39,121,590,646,458,577,475,547,Two towels is dirty in the bathroom
+1592339,ground,horse,683,1024,0,1023,429,680,0,211,276,636,A white is painted on the ground under the horse on the left is drawn on the grounds
+1592348,water,water,768,1024,284,345,585,737,204,274,565,758,Water is in the bottles
+1592353,fruit,fruit,768,1024,198,384,112,164,46,134,193,216,Fruit is pictured on the lamps
+1592377,motorcycles,motorcycles,680,1024,104,607,68,591,518,957,163,613,Motorcycles is this a picture of
+1592377,motorcycles,motorcycles,680,1024,104,607,68,591,518,957,163,613,Motorcycles are cool
+1592377,bikes,bikes,680,1024,104,607,68,591,518,957,163,613,Bikes is on pavement
+1592378,umbrella,umbrella,768,1024,140,1022,0,750,298,789,165,547,Umbrella is covering the table
+1592378,napkin dispensers,napkin dispensers,768,1024,481,531,514,553,545,658,681,765,Napkin dispensers is on each table
+1592393,trees,trees,715,1024,476,846,0,344,753,1025,0,468,Tall trees is in the background
+1592406,awnings,awnings,642,1024,615,793,118,208,291,446,155,235,White awnings are over the windows of the building
+1592411,Skis,Skis,683,1024,304,332,148,307,262,383,215,289,Skis is crossed under the skier
+2378844,shoes,shoes,500,333,96,175,389,432,113,191,407,489,Her shoes is pink
+1592416,tags,tags,1024,768,416,597,309,701,168,254,448,824,Tags are the couple wearing around their necks
+2378849,jet,jet,500,419,123,256,338,498,0,144,191,457,Jet is seen
+2378849,smoke,smoke,500,419,126,256,339,498,0,144,189,465,Smoke is coming out of the jet
+1592432,keyboard,keyboard,326,1024,648,795,211,275,438,571,106,152,Keyboard is in front of the monitor
+1592447,girl,teddy bear,533,800,196,365,168,361,447,673,283,497,The girls teddy bear is on the girls bed
+1592447,Walls,Walls,533,800,0,463,0,288,463,797,0,424,Walls is white
+1592453,they,they,768,1024,170,289,311,598,109,218,390,564,They do not match are the chairs at the table like
+1592475,vehicles,vehicles,768,1024,47,208,392,463,179,225,390,433,Company vehicles is next to the plane
+1592478,overhang,posts,532,800,0,799,4,98,434,462,94,288,"A black, decorative overhang and posts is on the exterior portion of a building"
+1592479,jacket,shirt,685,1024,45,237,654,684,105,167,658,684,A grey jacket over a blue shirt is the man in front of the camera man wearing
+1592483,luggage,luggage,768,1024,206,290,298,362,910,981,301,385,Their luggage are these people waiting for
+1592487,walls,walls,612,612,492,599,0,164,10,496,7,244,The walls is light green
+2378925,buildings,buildings,500,333,289,332,41,175,219,288,50,173,Buildings is white in the background
+1592500,picture,picture,540,720,40,96,109,155,407,449,103,155,A picture is above the lamp
+1592510,elephant,elephant,1024,680,175,445,186,606,175,445,186,606,An elephant are the people riding on
+1592514,Bananas,Bananas,682,1024,77,218,33,158,6,141,160,289,Bananas is hanging to the left of the man
+1592518,Pillow,couch,681,1024,854,1016,306,426,835,1021,295,675,Pillow on couch is white
+1592572,buildings,buildings,683,1024,340,1022,0,682,0,345,0,682,Buildings is in the background
+1592572,arrow,arrow,683,1024,401,503,422,464,406,498,428,458,An arrow is pointing to the left
+1592578,doors,doors,768,1024,796,965,51,606,572,738,89,570,Both doors is shut
+1592580,balls,balls,480,640,292,318,250,281,505,529,121,146,Beach balls is in the window
+1592580,surfboard,surfboard,480,640,529,640,0,480,300,377,41,407,White surfboards are two women holding
+2379062,tourists,tourists,411,500,397,472,31,325,453,498,21,315,Watching the tourists are the goats doing
+1592643,glasses,glasses,685,1024,579,675,259,283,873,948,88,110,Glasses are the two men wearing baseball caps wearing on their faces
+1592644,pancakes,pancakes,768,1024,577,981,312,566,445,665,322,548,Pancakes are the brown objects on the plate near the right hand corner of the image
+1592646,elephants,elephants,576,1024,19,794,131,573,483,840,114,402,Elephants are the animals being displayed in this photo
+1592657,woman,shirt,768,1024,421,588,200,560,431,541,272,433,Woman's shirt is blue
+1592662,Horses,Horses,696,992,109,608,258,691,612,947,318,688,Horses are they pretending to be riding
+1592662,Sunglasses,Sunglasses,696,992,383,463,99,128,741,831,122,149,Sunglasses are the mounties wearing
+1592662,Horses,Horses,696,992,109,608,258,691,612,947,318,688,Fake horses are the mounties riding
+1592670,buildings,buildings,768,1024,11,332,0,273,309,854,2,372,There are buildings in the background is in the background
+1592679,hat,woman,1024,768,469,596,468,650,526,684,540,759,A woman wearing a pink hat is on the book cover
+1592684,lines,lines,1024,741,292,466,896,932,296,492,948,996,White lines are on the street
+2379121,cake,wedding couple,500,401,15,305,47,470,162,187,48,80,A wedding couple is on top of the cake is on top of the cake
+1592736,skis,skis,1024,768,253,368,849,1021,361,557,865,1019,Snow skis is he holding
+2379191,Sneakers,Sneakers,500,424,284,333,191,224,171,220,234,279,Sneakers is he wearing
+1592785,banana peel,glass,1024,683,594,673,512,542,613,659,541,598,A banana peel and an empty glass is on the tray
+1592790,Xbox controllers,Xbox controllers,685,1024,355,464,508,591,562,674,511,587,Xbox controllers is on the bottom part of the table
+2379224,Pencils,Pencils,375,500,41,53,155,182,43,54,149,178,Pencils is in the pencil holder
+1592805,it,elf,683,1024,321,624,184,458,444,495,326,368,The second motorcycle has the letters 'elf' on it is written on the second motorcycle
+1592823,lamps,lamps,577,1024,841,926,283,406,0,57,257,333,Lamps is located in both of the far corners of the room
+1592840,plates,plates,1024,768,0,139,689,739,186,407,693,755,Plates is on the table
+1592852,suit,tie,768,1024,166,646,330,765,406,482,414,764,A suit and tie is he wearing
+1592857,Coats,Coats,768,1024,68,646,256,765,456,1024,334,769,Coats are they wearing
+2379324,signs,signs,333,500,276,468,96,163,28,230,130,210,Signs is green
+1592899,bus,bus,683,1024,733,1020,355,681,445,600,533,617,Double decker bus is traveling through the crowds of people
+1592899,buses,buses,683,1024,733,1020,355,681,445,600,533,617,Double-decker buses are the red vehicles
+1592922,glasses,glasses,768,1024,504,564,102,122,701,760,108,120,Glasses are the two men wearing
+2379362,sheep,sheep,375,500,107,294,183,343,332,427,208,342,Petting the sheep is the person doing
+1592944,goblet,drink,1280,899,756,848,555,762,764,842,608,706,A goblet with a drink in it is he holding
+1592944,buildings,buildings,1280,899,404,894,0,400,2,408,0,397,The buildings are intricately decorated in the background
+2379396,Candles,Candles,243,500,371,381,112,127,420,432,100,117,Candles is in the wall cut-outs
+1592973,Orange reflective vests,Orange reflective vests,683,1024,28,61,583,627,93,126,578,609,Orange reflective vests are crossing guards wearing
+1593021,horses,horses,794,1024,516,766,137,775,151,347,175,786,Horses are the officers riding
+1593067,people,people,683,1024,505,892,95,594,201,349,190,547,Two people is this picture of
+1593068,coke,refrigerator,683,1024,700,742,123,445,688,1024,28,646,A coke a cola display refrigerator is in the right side of the picture
+1593088,signs,signs,792,1024,642,912,263,719,197,451,479,784,Some signs is he sitting next to
+1593107,desk,desk,683,1024,9,265,13,225,455,1023,0,476,Desk is wooden
+1593118,pole,person,551,1024,818,908,2,331,905,948,219,323,A streetlight pole and a person standing is next to the people on the bench
+1593118,window,window,551,1024,520,599,148,263,729,803,151,266,Two windows is on the front of the train
+1593136,trucks,trucks,680,1024,853,1021,202,417,358,516,242,394,Two trucks in background is facing same direction
+2379591,paper,desk,375,500,161,329,213,262,0,499,141,321,A paper covered desk is the cat sleeping on
+1593166,train,bus,680,1024,429,1021,235,583,0,446,2,678,A train and bus are in the station
+1593204,buses,trucks,683,1024,688,978,299,610,62,377,247,554,Trucks and buses is passing under the bridge
+1593207,horses,horses,799,1024,42,586,323,713,20,432,344,706,Two horses is white with white hair
+1593234,man,surfboard,533,800,256,463,151,452,238,522,415,475,A man on a surfboard is in the photo
+1593242,cows,cows,768,1024,412,727,226,560,308,565,234,540,Two cows is in the back of the truck
+1593248,glasses,glasses,681,1024,766,943,245,294,227,350,132,172,Glasses is the woman wearing
+1593257,water,banana,685,1024,569,678,117,434,236,460,149,392,Water and a banana is the man holding
+2379770,goats,goats,333,500,12,373,90,332,88,383,57,306,Goats are they
+2379810,Cows,Cows,333,500,62,285,0,332,165,499,0,332,Cows is the focal point of the picture
+2379930,cell phones,cell phones,500,333,90,178,351,381,104,159,388,409,Cell phones is the man looking at
+2380045,skis,skis,398,500,104,211,303,339,231,327,293,338,Skis are on the people's feet
+2380255,Milk,Milk,333,500,124,159,177,223,186,217,174,224,Milk are the two people smiling at the camera drinking
+2380320,signs,signs,500,410,12,238,165,232,307,405,63,148,Street signs is on the pole
+2380333,tusks,tusks,500,297,170,199,286,320,210,254,290,321,Tusks is at the beginning of the trunk
+2380437,pillows,pillows,375,500,43,252,257,343,258,467,271,339,Pillows is on the bed
+2380551,food,food,500,374,8,356,137,367,0,110,67,177,Food is present
+2380556,signs,signs,282,500,109,253,109,227,252,405,4,118,Signs is blue
+2380660,gifts,gifts,334,500,200,388,0,190,52,409,146,319,Gifts is shown in the picture
+2380662,elbows,elbows,500,372,14,125,459,500,247,352,449,499,Leaning on his elbows is the boy doing
+2380789,carts or wagons,carts or wagons,375,500,86,153,183,255,149,384,152,294,Carts or wagons are the animals pulling
+2380848,Pastries,Pastries,280,500,146,322,99,230,155,313,39,134,Pastries is on the plate
+2380898,chickens,chickens,333,500,277,374,61,231,203,245,188,237,Chickens is black
+2381236,ski poles,ski poles,500,332,20,124,350,498,166,236,388,500,Ski poles is the man holding in his hands
+2381247,Cake,Cake,375,500,48,149,185,244,69,164,126,190,Cake is the brown food next to the grapefruit
+2381303,waves,waves,331,500,0,370,147,297,0,222,0,66,Waves is pushing the surfer along
+2381330,racquet,racquet,339,500,85,119,37,70,309,339,37,69,Racquet is held in the right hand of the player with the red shirt
+2381330,fence,fence,339,500,4,241,63,156,257,490,62,157,Fence is behind the girl in white
+2381335,phones,phones,375,500,108,173,184,265,228,300,104,179,The phones is on
+2381558,flags,flags,375,500,315,380,33,224,287,322,173,278,Flags is atop the poles
+2381608,donkeys,donkeys,281,500,115,279,97,248,72,228,95,238,Two donkeys is pulling the cart
+2381633,bikinis,bikinis,354,500,58,81,218,263,296,318,234,270,Bikinis are the women wearing
+2381764,Carrots,Carrots,375,500,200,275,117,152,138,175,164,220,Carrots is orange
+2381841,umbrellas,umbrellas,333,500,269,340,139,191,340,396,153,191,Umbrellas are the people holding
+2381882,bikes,bikes,341,500,51,380,217,330,8,277,113,274,Dirt bikes are the people riding
+2381882,Goggles,Goggles,341,500,222,254,166,184,170,196,88,108,Goggles are they wearing over their eyes
+2381924,Glasses,Glasses,332,500,371,429,137,160,135,206,92,124,Glasses are they both wearing
+2381956,Telephones,Telephones,332,500,352,380,125,195,98,136,188,250,Telephones are these people holding
+2382548,Dogs,Dogs,332,500,309,342,241,286,342,385,257,330,Dogs are the animals there
+2382562,bananas,bananas,355,500,264,479,173,271,30,226,175,275,Bananas is inside the plastic
+2382591,Trees,Trees,333,500,116,498,0,194,0,337,0,322,Trees is in the background
+2382691,Ski poles,Ski poles,327,500,271,302,151,211,209,236,179,219,Ski poles is in the man's hands
+2382747,coffee,coffee,375,500,324,382,42,65,76,140,96,131,Coffee is in the mugs
+2382747,tomato slices,tomato slices,375,500,177,240,228,270,206,263,254,286,Tomato slices is the red food
+2382759,furniture,products,375,500,118,177,276,320,178,260,220,321,House furniture products is the boxes in highway
+285615,plate,shrimp,1024,768,97,377,676,735,178,196,681,717,One plate has shrimp are they eating
+285622,Glasses,tie,742,1024,159,393,174,228,246,422,290,474,Glasses and a tie is the teddy bear wearing
+285626,poles,poles,762,1024,253,255,565,602,225,227,565,607,2 poles are all the skiers holding
+2382787,rackets,rackets,375,500,126,160,212,239,341,381,109,154,Tennis rackets are the people holding
+285646,bunkbeds,bunkbeds,777,1024,294,956,11,338,300,891,392,776,A bedroom with bunkbeds is this a picture of
+285657,apple,knife,771,1024,355,591,243,475,539,963,57,549,"An apple, banana, and knife is on the plate"
+285657,fruit,fruit,771,1024,281,737,149,707,355,591,243,475,A dish of fruit is on the table
+285663,Trees,Trees,884,707,317,480,0,323,0,303,0,238,Trees is in the background
+2382823,male,female,375,500,111,243,71,348,359,412,155,303,Male and female is gender of the two players
+285684,cake,congratulations,768,1024,320,489,512,662,365,456,539,591,"A cake that says ""congratulations"" is the woman holding"
+285693,windows,windows,612,612,194,344,53,239,529,611,101,261,The windows is open
+285699,gloves,gloves,765,1024,899,963,13,197,938,988,9,197,Two green gloves is the blue clip holding
+285705,donut,Napkin,683,1024,322,572,332,465,299,601,249,676,Napkin under donut is girl holding
+285705,cups,cups,683,1024,912,1021,0,455,714,903,0,425,Different colored cups is behind girl eating donut
+285705,cups,cups,683,1024,912,1021,0,455,714,903,0,425,Stacked cups is sitting on table behind her
+285713,skis,skis,768,1024,189,310,674,740,267,433,667,729,Skis is on the child's feet
+285720,apples,apples,612,612,334,534,107,315,292,432,301,490,Apples is the hand holding
+285721,phone,bag,683,1024,372,402,314,337,295,540,477,682,Holding a bag and talking on a cell phone is the woman with brown hair doing
+285723,graffiti,wall,683,1024,805,1021,164,476,376,1025,0,492,A wall of graffiti is on the building
+285729,Shorts,top,768,1024,787,937,201,289,830,947,95,242,Shorts and tank top is the man in the chair wearing
+2382882,polar bears,polar bears,333,500,250,340,138,233,176,314,80,241,Polar bears is in the photo
+285746,knife,fork,612,612,102,192,17,541,23,115,23,443,A fork and knife is with the half sandwich
+285746,sandwich,knife,612,612,218,592,23,447,102,192,17,541,Sandwich and knife is together at last
+285746,shadows,shadows,612,612,171,223,20,538,24,112,22,446,Shadows are the utensils casting
+285757,leaves,leaves,735,1024,701,798,58,179,243,514,16,152,Dried leaves is on the branch
+285772,car,road,768,1024,2,160,265,332,0,1023,136,344,A car is on the road is on the road
+285772,elephants,elephants,768,1024,302,337,130,177,339,381,108,145,Elephants is in another enclosure
+285773,lights,lights,1024,683,224,465,4,87,24,98,367,507,Lights is on the ceiling
+285794,man,moustache,1024,681,111,389,386,582,245,275,440,456,A man with a moustache is on the poster
+1592324,Black tights,Black tights,1024,680,257,331,682,958,330,382,682,936,Black tights is on the girl's legs
+285840,onion,garlic,768,1024,424,562,431,577,306,390,275,391,The garlic and the onion are the carrots between
+285843,shirt,jeans,714,1024,118,513,360,712,420,829,431,713,Gray shirt and blue jeans is one boy wearing
+285843,shirt,glasses,714,1024,881,1012,194,439,873,914,148,171,Red plaid shirt and glasses is boy on right wearing
+285846,shirt,Writing,1024,682,417,616,56,353,461,578,123,222,Writing on shirt is green
+285846,skateboard,man,1024,682,111,430,563,741,195,683,0,719,Man's skateboard is tilted
+2383000,Wii,Wii,375,500,245,259,132,173,323,338,143,183,Playing Wii are the people doing in the photo
+285849,buildings,buildings,1024,827,519,823,233,663,0,220,255,651,Buildings are in the background
+285849,children,children,1024,827,256,326,677,805,159,237,652,760,Children are several people holding in their arms
+285885,signs,signs,1024,768,37,201,15,111,317,505,1,85,The signs is blurry in the background
+285891,laptops,laptops,445,640,278,458,197,321,167,281,183,268,Looking at their laptops are the men doing
+285894,remotes,remotes,1024,687,472,650,761,831,305,525,561,715,Wii remotes are both children holding in their hands
+285905,bottle,table,768,1024,295,348,330,550,84,550,517,764,The bottle on the table is half drank
+285911,Computers,Computers,768,1024,500,716,207,505,141,363,383,579,Computers is on the desk
+285929,Markers,Markers,683,1024,295,311,239,257,697,706,310,319,Markers are they using to draw
+285929,vases,vases,683,1024,596,783,99,545,251,446,58,532,Pail of vases is large
+2383087,phone,phone,375,500,106,158,262,280,196,248,342,375,A phone is the woman holding
+2383101,gloves,gloves,375,500,233,295,2,108,275,343,1,67,Gloves are on their hands
+285956,curtain,curtain,288,432,1,76,0,165,345,431,0,200,The light colored curtains is drawn in the picture
+285963,drifts,drifts,1024,819,592,660,569,686,475,507,582,650,Snow drifts is behind the skier
+285963,boots,boots,1024,819,321,402,747,874,501,583,716,812,Yellow boots is the skier wearing
+285977,roots,roots,428,640,0,68,189,229,0,71,220,257,Roots is attached to the greens on the table
+285983,Skateboards,Skateboards,675,1024,396,464,364,539,774,842,262,404,Skateboards are two of the men holding
+285996,building,window,768,1024,0,1023,2,759,507,721,230,479,Window on building is barred
+286004,Buildings,Buildings,1024,682,2,286,2,234,436,686,0,356,Buildings is reflected
+286020,She,sunglasses,640,640,0,639,0,639,173,454,203,301,She is wearing black sunglasses and smirking is she doing
+286044,umbrellas,tents,768,1024,124,369,205,289,394,581,201,443,Tents and umbrellas is shielding the sun
+286074,arrows,arrows,683,1024,632,690,482,507,849,967,561,614,White arrows is painted on the streets
+286080,Jeans,shirt,768,1024,223,301,319,412,182,299,236,353,Jeans and dark blue shirts are they wearing
+286092,t-shirt,pants,683,1024,317,692,23,394,476,711,229,623,Baggy black t-shirt and cargo pants is the man wearing
+286099,dogs,dogs,480,640,466,561,102,249,541,639,95,227,Two women and dogs is behind the children
+286099,They,They,480,640,386,538,14,177,542,639,1,182,They are sitting back and smiling are the two older individuals doing
+2383260,skis,skis,332,500,140,207,224,278,122,195,220,270,Skis are the sticks on the man's feet
+2383271,horses,horses,500,335,155,284,185,455,62,311,223,463,Horses are those animals
+2383356,headlights,headlights,281,500,29,42,185,201,149,163,190,205,Headlights is glowing orange
+2383458,bear,grass,281,500,8,416,98,266,0,500,0,281,A bear laying in grass is the picture of
+498360,streaks,streaks,534,800,1,427,370,422,0,425,368,482,Streaks on snow is blue
+2383507,horse,horse,333,500,135,262,178,240,323,461,178,240,Riding the horse are the women doing
+2383509,Traffic lights,Traffic lights,360,500,123,152,69,85,262,296,65,79,Traffic lights is lit green
+2383520,woman,coat,375,500,176,259,86,361,176,238,122,272,Woman's coat is dark red
+2383528,sneakers,sneakers,332,500,200,211,276,289,225,244,278,288,Sneakers is on the woman's feet
+2383532,tennis shoes,tennis shoes,500,333,88,139,400,453,161,204,426,466,Tennis shoes is the lady wearing on her feet
+2383621,hot dog,hot dog,375,500,0,178,175,226,368,499,180,230,Hot dog is the meat on this bun
+2383672,Toilets,Toilets,500,375,32,166,171,303,178,331,144,354,Toilets is in the photo
+2383810,parking meters,parking meters,375,500,43,115,47,234,111,193,40,242,Parking meters is on the pole
+2383856,donut,donut,333,500,72,387,20,204,232,425,189,311,Donut is the bread of the sandwich
+2383866,tomatoes,tomatoes,299,500,337,454,158,231,171,262,224,289,Tomatoes is the red food
+2383901,aprons,aprons,333,500,134,189,99,202,22,51,100,125,Aprons are the white items the women wear
+2384148,signs,signs,500,335,0,131,109,223,22,132,150,266,Street signs is green
+2384151,helmets,helmets,333,500,221,270,6,38,127,159,109,127,Helmets are they wearing on their heads
+2384170,skies,skies,334,500,315,366,184,246,111,200,128,184,Skies is he holding
+2384178,mittens,mittens,400,500,188,229,41,114,338,390,68,163,Mittens is on the person's hands
+2384228,train tracks,train tracks,327,500,277,487,153,330,55,412,182,327,Train tracks is the train travelling on
+2384241,birds,birds,239,359,0,149,54,240,74,215,33,211,Birds are these animals
+2384340,elephants,elephants,375,500,39,385,76,321,97,328,148,295,Two elephants is in the picture
+2384340,chains,chains,375,500,125,229,297,326,232,299,270,296,Chains are the elephants wearing on their legs
+2384410,remotes,remotes,464,500,6,98,205,330,208,302,21,192,Remotes are they holding
+2384422,Sandals,Sandals,375,500,386,417,301,320,415,438,283,303,Sandals is the woman wearing on her feet
+2384428,wood,beach,334,500,193,225,193,203,106,403,181,235,A piece of beach wood is used as the seat on the chair
+2384706,cars,cars,389,500,247,498,143,212,111,241,154,212,Bottom half of the cars is brown
+2384710,dessert,dessert,500,333,123,211,381,464,289,331,292,374,Getting ready to eat dessert is the girl doing
+2384788,tents,tents,375,500,82,216,75,110,204,348,67,107,Tents is in the background
+2384884,pans,pans,500,375,262,376,336,390,245,367,295,340,2 pans is on the cooker
+2384884,towels,towels,500,375,199,259,386,499,172,202,371,497,Two towels is hanged on the cooker door
+2384921,lamps,lamps,375,500,264,282,123,155,173,201,85,132,Two lamps is hanging from the ceiling
+2384959,wheels,wheels,500,375,297,317,413,441,161,178,487,500,Wheels is underneath of the bed
+2385045,Giraffe,Giraffe,333,500,0,311,18,332,361,500,201,333,Giraffe is the animal
+2385065,pastries,pastries,281,500,373,488,175,262,287,397,185,261,Pastries is on the plate
+2385183,wristbands,wristbands,400,500,326,339,161,180,82,94,161,177,Wristbands is she wearing on her wrist
+2385354,shoes,shoes,500,332,93,150,416,463,202,267,435,464,Shoes is red
+2385494,Shoes,Shoes,479,500,392,460,350,393,312,354,407,446,Shoes is green
+2385566,dogs,dogs,317,500,239,337,67,154,118,413,92,313,Dogs is in front of the man
+2385626,dog,mouth,334,500,14,499,54,322,30,130,141,229,Dog's mouth is open
+2385722,Rocks,Rocks,335,500,250,291,186,208,189,212,176,191,Rocks are the big grey rounded objects on the grass
+2385722,people,people,335,500,340,365,162,201,230,244,158,172,People to sit on are the benches for
+2385794,couch,couch,172,500,327,391,73,132,26,161,93,170,A couch is brown
+2385807,artwork,work,375,500,401,472,123,219,326,384,127,216,Artwork are the two items on the wall
+2385945,washer,dryer,334,500,0,282,75,330,276,399,108,257,Washer and dryer is closest to the front
+2385975,buildings,buildings,497,500,0,227,0,497,299,500,136,497,Buildings are the umbrellas between
+2386013,beards,beards,333,500,159,228,107,156,304,343,133,160,Beards is on their faces
+2386119,clock,clock,500,375,175,273,258,358,100,145,271,376,A clock is in the tower
+2386183,mountains,mountains,333,500,0,181,155,290,211,371,209,288,Mountains is in the background
+2386224,watches,watches,500,375,90,98,209,246,82,89,210,246,Pocket watches is the man have in his coat
+2386239,tracks,tracks,500,289,56,289,109,271,118,289,109,157,Train tracks is to the right of the sidewalk
+2386337,horses,horses,375,500,114,175,204,257,382,461,193,251,Riding horses are the women doing
+2386347,raquets,raquets,337,500,318,381,152,192,278,334,209,244,Tennis raquets are the players holding
+2386395,uniforms,uniforms,334,500,187,258,150,275,259,324,161,274,Uniforms are the men wearing
+2386402,pizza,pizza,375,500,282,435,132,274,103,235,50,153,Pizza is the entree
+2386448,Signs,Signs,500,375,140,235,110,238,130,229,293,435,Signs is on the tree
+2386538,lines,lines,500,420,115,418,259,372,339,419,201,221,Inbound lines are the white lines on the ground for
+2386542,country flag,country flag,301,500,425,447,194,253,472,485,190,229,Their country flag is on the table beside each official
+2386660,tables,tables,331,500,88,170,272,292,370,450,270,282,Tables is round
+2386706,Traffic lights,Traffic lights,500,333,239,256,214,227,254,262,320,333,Traffic lights is in the photo
+2386767,fan,window,372,500,281,328,89,105,198,396,0,100,Fan under the window is black
+2386845,Windows,Windows,159,240,0,58,16,83,57,115,26,82,Windows is seen above the sink in this photo
+2386902,trunk,tree,375,500,454,500,1,142,336,499,0,147,A trunk of a tree is visible in the upper right corner
+2387069,kite,kid,500,490,207,250,21,36,233,250,425,468,Helping her kid fly a kite is she doing
+2387071,man,moped,500,375,71,156,105,293,0,375,132,500,A man and a moped is in the picture is in the picture
+2387101,baskets,baskets,500,333,144,191,327,367,250,300,332,377,Baskets is under the sink
+2387119,poles,poles,500,374,45,111,123,435,45,111,123,435,Ski poles is the skier holding
+2387128,woman,woman,500,295,122,158,47,146,122,157,60,105,The other woman's coat is pink
+2387324,sneakers,sneakers,500,371,67,135,377,417,38,98,368,405,Sneakers is black
+2387360,suit,tie,500,375,0,369,280,500,31,135,349,500,A suit and tie is the man wearing
+2387621,caps,caps,333,500,344,401,21,59,20,101,176,251,Caps are the men wearing on their heads
+2387775,remotes,remotes,375,500,262,274,226,265,240,259,157,165,Remotes are the man and boy holding
+2387775,sofas,sofas,375,500,201,500,217,375,288,500,160,277,Sofas are the people sitting on
+2387832,Hats,Hats,375,500,140,224,0,109,287,352,0,97,Party Hats are the babies wearing on their heads
+2387893,sidewalk,sidewalk,375,500,0,500,307,337,0,500,248,269,Sidewalk is the path the people are walking on
+2387938,trees,trees,375,500,0,200,0,358,0,499,0,373,Trees is green
+2387960,breakfast,breakfast,391,500,208,440,146,286,292,454,56,131,Breakfast is the focus
+2387975,birds,birds,375,500,16,373,94,322,138,315,131,346,Birds is the foreground statue of
+2388015,chopsticks,chopsticks,375,500,190,460,187,318,181,456,173,318,Chopsticks are the long objects in the bowl
+2388076,tennis rackets,tennis rackets,333,500,299,469,138,226,169,198,300,332,Tennis rackets are they holding in their hands
+2388112,Motorcycles,Motorcycles,375,500,68,278,147,292,153,233,146,212,Motorcycles is being washed
+2388116,clock,clock,500,332,149,274,228,364,51,126,243,389,A clock is on each side of the tower
+2388117,Sweat suits,Sweat suits,375,500,97,207,117,257,180,241,99,188,Sweat suits are the girls wearing
+2388183,cardboard container,cardboard container,438,500,0,290,64,287,136,399,80,288,Cardboard container is holding the apples
+2388257,elephant,tail,331,500,202,335,185,248,203,222,208,230,The little elephant's tail is the big elephant holding with its trunk
+2388293,signs,signs,382,500,138,148,249,316,383,393,243,303,Signs is on the sidewalk
+2388339,trunk,trunk,500,375,227,283,278,385,113,192,266,372,Swimming trunks are the men wearing
+2388397,houses,houses,333,500,175,240,122,166,207,259,130,176,Houses is behind the buses
+2388493,skates,skates,500,375,79,143,366,420,153,223,381,433,Skates is on the bear's feet
+2388573,toast,toast,375,500,61,159,90,154,56,143,77,111,Toast is in the basket
+2388698,black shirt,pants,375,500,156,308,23,135,100,261,98,280,Black shirt and pants is the boy on the skateboard wearing
+2388843,horses,horses,332,500,5,181,120,273,195,500,58,264,Horses are these animals
+2388924,hills,hills,375,500,376,500,47,100,243,448,53,100,Hills is the land feature in the background
+2389057,mosquito nets,mosquito nets,333,500,4,371,0,303,245,455,80,226,Mosquito nets is hanging above the beds
+2389152,glasses,glasses,333,500,234,248,137,142,163,178,141,145,Glasses are the ladies looking through
+2389174,phones,phones,281,500,238,276,182,212,174,193,154,161,Phones are the people looking at
+2389325,hose,hose,375,500,168,254,237,375,0,66,256,341,Water hose is lying on the ground
+2389393,bun,sausage,333,500,0,275,121,331,1,256,162,332,A sausage on a bun is the sandwich
+2389534,pizza,pizza,333,500,163,193,193,239,234,281,232,269,Pizza are they eating
+2389545,water,water,500,333,132,145,260,266,266,272,263,272,Water is beyond the fence
+2389559,Elephants,Elephants,500,348,1,261,18,490,74,310,102,354,Elephants are these animals
+2389559,trunks,trunks,500,348,166,262,139,489,263,311,181,354,The elephant's trunks are the long hose-like projections
+2342519,eyes,eyes,500,375,232,251,162,189,168,195,205,221,Eyes is orange
+2389732,umbrella,umbrella,332,500,65,144,124,150,327,405,151,195,An umbrella are the people holding
+2389733,elephants,elephants,333,500,247,421,136,232,11,302,0,236,Elephants is in the grass
+2389824,cow,cow,500,375,34,344,66,465,0,44,107,332,The cow is brown
+2389824,feed tray,feed tray,500,375,238,350,280,333,6,88,264,333,The feed tray is black
+2389904,hot dogs,hot dogs,333,500,169,230,180,226,285,349,133,172,Hot dogs are they eating
+2389988,pastries,pastries,375,500,30,451,70,359,268,499,0,201,Two pastries is on the paper towels
+2390028,dogs,dogs,333,500,147,219,107,262,251,447,74,292,Dogs is in the water
+2390069,horns,horns,375,500,55,70,158,170,65,75,157,169,Horns is on the gazelle's head
+2390095,dogs,dogs,282,500,255,365,143,240,180,256,132,222,Dogs is sitting on the bench
+2390174,clock,clock,500,375,220,245,158,192,276,301,152,184,Clock is on the tower
+2390174,roof,roof,500,375,0,225,314,416,23,166,327,377,Roof is green
+2390224,trees,trees,335,500,76,238,0,127,0,63,0,99,Trees is in the background
+2390294,trains,trains,333,500,0,263,58,312,232,341,107,198,Trains is in the picture
+2390315,alex,alex,333,500,119,180,182,198,306,343,145,188,Alex is written on the side and front of the train
+2390323,rocks,rocks,375,500,0,124,261,375,183,500,242,375,Two large rocks is gray
+2390358,man,tie,500,375,0,375,0,500,67,294,122,499,Man's tie is tied in a knot
+2390418,Towels,Towels,333,500,172,365,127,250,23,173,123,208,Towels are the swans made of
+2390494,horse,woman,393,500,76,364,141,352,209,261,89,268,A woman is riding a horse is happening in this photo
+2390681,Tires,Tires,375,500,314,353,282,311,342,360,248,264,Tires is around the telephone pole
+2390711,stop light,stop light,500,411,341,368,199,225,61,95,186,213,A stop light is behind the sign
+2390794,buildings,buildings,375,500,0,16,52,165,17,84,91,166,Buildings is in the background
+2390817,cats,cats,406,500,236,465,54,373,22,181,70,333,Cats is sitting in the window
+2390817,curtains,curtains,406,500,0,383,0,406,430,498,0,406,Curtains is covering the cats
+2390881,giraffes,giraffes,500,334,49,212,136,475,65,283,58,410,Two giraffes is this a photo of
+2390992,Pizza,Pizza,333,500,149,248,154,242,230,337,162,226,Pizza is on the plate
+2391131,cell phones,cell phones,333,500,205,396,16,203,112,302,129,308,Cell phones are the items on the table
+2391139,sign,sign,500,333,67,120,253,321,44,127,173,256,A sign is white and black
+2391214,trees,trees,332,500,252,334,2,256,314,498,3,326,Trees is in the background
+2391216,horse,cart,281,500,264,475,72,271,43,223,23,260,Resting in the cart that the horse pulls are the father and son doing
+2391283,skateboards,skateboards,375,500,183,242,315,331,237,326,307,326,Skateboards are the people skating on
+2391312,Wood,Wood,500,333,141,311,0,41,258,333,21,55,Wood is on the ceiling
+2391479,bike,bike,335,500,0,353,73,333,172,392,0,335,Standing around the bikes are the people doing in the picture
+2391534,surfboard,surfboard,333,500,63,499,65,331,0,201,188,272,A surfboard is the man holding
+2391535,Wii,Wii,500,375,203,376,210,307,0,177,232,447,Wii are the two people playing
+2391535,Controllers,Controllers,500,375,203,376,210,307,0,177,232,447,Controllers are the two people holding
+2391535,plant,plant,500,375,0,104,347,500,62,133,429,499,A plant is on the window
+2391549,wii,wii,500,332,52,115,115,140,269,327,112,139,Playing with a Wii are the women doing
+2391721,wood,wood,333,500,52,290,150,196,58,325,216,238,It is made of wood is the bench made of
+2391738,cover,cover,500,325,7,167,107,330,184,265,111,194,Cover is on the elephant
+2391826,teeth,teeth,365,500,272,287,187,194,463,477,172,182,Brushing teeth are both men doing
+2391881,Towels,Towels,500,332,201,224,376,428,197,216,424,467,Towels is under the counter
+2391882,bags,bags,334,500,97,210,193,316,0,121,210,332,Bags is she holding
+2391946,mta,mta,500,334,169,187,446,459,22,36,448,460,"MTA is the short form of ""Metropolitan Transportation Authority"""
+2391960,motorcycle,motorcycle,375,500,0,193,265,374,93,214,257,339,Motorcycle is painted orange
+2391995,buildings,buildings,387,500,255,500,54,185,175,255,87,161,Apartment buildings is in the background
+2392055,motorcycles,motorcycles,332,500,193,364,107,328,74,200,70,215,Motorcycles are the men riding
+2392124,Zebras,Zebras,333,500,99,369,7,331,256,499,192,332,Zebras are they
+2392203,sweatshirt,jeans,375,500,304,387,102,232,322,380,232,313,A sweatshirt and jeans is the man wearing
+2392211,ropes,ropes,500,333,175,265,17,209,209,320,15,221,Ropes to parasail is in his hand
+2392219,Tomatoes,Tomatoes,500,334,172,212,265,279,184,216,272,284,Tomatoes is the main person holding in his hand
+2392368,horns,horns,333,500,272,321,18,66,235,272,13,66,Horns is on top of the giraffe's head
+2392408,tires,tires,375,500,295,332,331,361,256,279,292,315,Tires is hanging off the side of the pier
+2392484,airplane,airplane,333,500,244,296,129,143,256,443,164,223,Airplane is flying
+2392519,hands,hands,342,500,300,332,95,141,306,333,95,147,Her hands is the woman holding in front of her face
+2392602,bike,traffic man,334,500,213,349,156,276,244,380,106,302,Watching the traffic man fixing his bike is the rider doing
+2392687,Cows,Cows,255,500,91,158,107,143,140,254,118,175,Cows is on the ground
+2392760,shoes,shoes,500,375,198,214,482,498,234,252,483,496,Shoes is red
+2392826,cars,cars,500,375,297,373,110,211,281,327,115,175,Cars is parked on the street
+2392830,bikes,bikes,333,500,73,138,39,111,163,214,35,107,Bikes is on the car
+2392843,tennis,tennis,250,500,11,20,117,130,258,268,118,130,Playing tennis are the women doing
+2392849,horn,horn,375,500,131,142,1,16,145,155,1,16,Horn like growths are ossicones
+2392870,Hotdogs,Hotdogs,374,500,297,323,198,273,376,395,215,294,Hotdogs is pink
+2392965,Feet,Feet,360,320,95,169,249,343,150,247,249,312,Feet is pink
+2392974,bicycles,bicycles,500,354,96,135,223,265,32,88,243,330,Riding bicycles are the people doing
+2392989,Zebra,Zebra,375,500,264,314,178,208,9,34,195,240,Zebra are the striped animals
+2393018,pizza,pizza,375,500,226,368,261,366,138,213,174,214,Pizza are they making
+2393034,Umbrellas,Umbrellas,375,500,0,117,125,172,346,490,99,149,Umbrellas are two men holding their hands
+2393090,buildings,buildings,284,500,0,335,0,209,323,496,0,215,Buildings is in the background
+2393113,trains,trains,271,500,76,288,88,216,318,380,126,173,Trains is on the train tracks
+2393143,Reflectors,Reflectors,399,500,280,289,307,317,305,313,336,344,Reflectors are on the wheels of the bicycle
+2393196,Mirror,Mirror,375,500,66,151,219,310,235,466,0,374,Mirror is on the wall
+2393279,shirt,shirt,375,500,257,337,171,216,267,324,178,213,Man's shirt is purple
+2393408,plants,plants,500,375,248,275,378,408,246,290,471,499,Plants is in the planters on the ground
+2393491,Helmets,Helmets,281,500,410,442,1,31,16,30,102,116,Helmets are the kids wearing on their heads
+2393491,Elbow pads,Elbow pads,281,500,443,465,61,91,396,413,66,89,Elbow pads is the girl on the right wearing on her elbows
+2393492,pictures,pictures,303,500,166,212,16,73,229,274,28,83,Pictures is hanging on the wall
+2393502,water,glass,374,500,85,172,65,151,85,172,49,150,The is water in the clear glass is in the clear glass on the table
+2393521,skis,skis,375,500,271,336,158,296,338,416,149,299,Skis are the people wearing
+2393576,backpacks,backpacks,500,375,178,204,289,325,240,269,353,380,Backpacks are some of the tourists carrying on their backs
+2393588,Pole,Pole,500,357,22,117,140,485,218,356,0,499,Pole is the sign on
+2393871,shades,shades,332,500,378,498,31,236,2,373,52,205,Shades is on both sides of the train
+2393970,rackets,rackets,333,500,239,275,175,207,328,360,108,166,Tennis rackets are the women holding
+2393980,umbrellas,umbrellas,495,500,103,213,149,244,262,402,148,259,Umbrellas are the two people carrying
+2393999,tires,tires,333,500,405,434,222,262,434,470,222,264,Two tires is on the back of the truck on the right hand side of the photo
+2394055,tree,tree,500,399,0,245,50,500,306,399,166,326,Tree is orange and in the background
+2394176,woman,coat,375,500,326,463,155,374,325,463,214,374,Woman's coat is purple
+2394200,game controllers,game controllers,500,375,132,154,318,354,265,286,218,228,Game controllers are they holding in their hands
+2394244,buildings,buildings,326,500,0,390,0,174,388,498,0,153,Buildings is in the background
+2394324,Cellphones,Cellphones,375,500,278,323,151,215,95,134,153,208,Cellphones is the man holding
+2394324,cell phone,cell phone,375,500,278,323,151,215,95,134,153,208,A cell phone is the man holding in each hand
+2394380,ski poles,ski poles,332,500,357,387,194,331,178,293,150,330,Ski poles is in the man's hands
+2394437,towels,towels,375,500,306,347,127,196,347,394,123,195,Towels is hanging on the towel rack
+2394517,poles,poles,333,500,281,369,113,139,333,467,115,164,Ski poles is the man holding
+2394565,horses,horses,374,500,178,327,147,285,239,346,176,278,Horses are the men sitting on
+2394581,window,window,500,349,124,148,389,432,204,229,391,432,A window is on either side of the clock
+2394596,rackets,rackets,375,500,71,191,351,374,211,437,303,352,Tennis rackets are the two people holding in their hands
+2394733,cakes,cakes,500,467,33,338,18,170,142,355,218,372,Cakes is this a photo of
+2394809,elephants,elephants,375,500,241,387,121,280,45,166,146,258,Elephants is in the picture
+2394817,glasses,glasses,375,500,136,154,275,303,147,168,281,313,Two glasses is on the basin
+2394834,bicycles,bicycles,374,500,45,111,315,365,137,182,302,348,Bicycles is on the dirt
+2394860,silverware,silverware,281,500,407,499,47,280,0,25,13,104,Silverware is next to the plate
+2394864,table,table,500,500,185,460,222,419,416,499,201,313,The table is brown
+2394941,dogs,dogs,500,332,91,124,305,370,144,184,321,403,Walking his dogs is the man doing
+2394961,planes,planes,333,500,158,257,249,288,4,259,77,187,Planes is in the sky
+2395000,elephants,elephants,334,500,353,436,188,248,220,267,172,219,Elephants are the people looking at
+2395084,giraffes,giraffes,500,334,81,205,50,202,204,218,109,203,The giraffes is the girl looking at
+2395174,cats,cats,334,500,0,249,19,334,284,499,57,334,Cats is in the photo
+2395218,Curtains,Curtains,500,375,0,77,0,500,255,375,0,500,Curtains are the black objects in the picture
+2395236,ski poles,ski poles,333,500,291,339,119,149,214,258,145,187,Ski poles is the skier holding
+2395306,hands,hands,500,375,146,159,475,490,13,24,471,498,Holding hands is the woman in pink doing to the man in gray
+2395312,Helmets,Helmets,366,500,291,371,33,98,70,120,60,97,Helmets are they wearing on their heads
+2395376,signs,signs,500,375,325,374,128,174,330,375,92,120,Street signs is in the background
+2395441,sandals,sandals,500,333,151,188,366,392,153,189,412,429,Sandals is the girl wearing on her feet
+2395453,Luggages,Luggages,344,500,287,498,91,342,236,331,126,341,Luggages is in front of the woman
+2395563,mountains,mountains,327,500,435,500,27,105,303,429,18,110,Mountains is in the background
+2395622,sneakers,sneakers,375,500,400,452,300,336,438,484,308,350,Sneakers is he wearing
+2395647,Dogs,Dogs,276,500,181,216,146,171,161,194,141,165,Dogs is brown
+2395648,ski poles,ski poles,333,500,287,296,57,260,72,166,127,191,Ski poles is the skier holding in her hands
+2395750,woman,umbrella,297,500,164,328,48,290,300,389,0,77,A woman holding an umbrella is the statue
+2395764,pond,pond,375,500,0,499,269,302,166,497,332,373,A pond are the zebras that are drinking standing in
+2395768,signs,signs,375,500,63,405,106,234,259,366,0,103,Street signs is green
+2395907,Legs,Legs,375,500,410,444,256,296,20,56,252,287,Legs is holding up the bench
+2395928,ketchup,mayo,334,500,130,360,125,211,143,344,129,190,Ketchup and Mayo is on the sandwich
+2395976,giraffes,giraffes,375,500,30,254,57,337,131,219,177,311,Two giraffes is walking in the yard
+2396294,Fish,stars,333,500,348,375,181,203,440,467,150,179,Fish and stars is on the cake
+2396313,cars,cars,500,375,239,275,234,261,210,241,231,254,Cars is present
+2396322,words,words,375,500,156,273,226,270,290,383,225,269,Words is red
+2396411,fence,field,500,322,0,322,239,324,0,321,217,297,A fence and another field is in the background
+2396420,ski poles,ski poles,500,375,227,248,276,443,247,277,278,422,Ski poles is in the child's hands
+2396500,onion,onion,380,500,270,354,245,314,291,334,190,217,Onions is on top of the sausage dog mixed in with the ketchup
+2396639,knife,fork,375,500,260,337,34,119,382,452,77,162,Fork and knife is in the customers hands
+2396648,cows,cows,338,500,21,163,220,307,289,352,155,198,Cows are the brown animals
+2396760,poles,poles,346,500,345,365,146,212,417,455,107,179,Poles is in the persons hands on the right
+2396778,pizza,pizza,500,333,95,245,224,300,0,263,323,499,Pizza are they gonna eat
+2396778,water,water,500,333,43,96,244,280,239,298,179,305,Water is she drinking
+2396848,giraffe,giraffe,375,500,264,397,92,317,88,247,100,319,Giraffes is this a picture of
+2396892,sneakers,sneakers,500,365,223,264,461,483,264,308,459,486,Sneakers is white
+2396988,Matching shirts,Matching shirts,500,479,268,430,140,366,228,313,118,257,Matching shirts are the couple wearing
+2397003,Bread,soup,375,500,77,368,0,158,101,484,60,364,Bread and vegetable soup is the focus
+2397016,woman,sign,500,333,93,273,171,477,40,159,36,488,A woman is posing next to a skyride sign is happening in this photo
+2397053,Skis,Skis,375,500,193,229,317,374,248,265,323,373,Skis is on the boy's feet
+2397056,pizza,knife,500,500,17,362,183,410,306,482,303,333,A pizza and a knife is on the plate
+2397100,Zebra,Zebra,332,500,171,236,11,131,91,357,146,299,Zebra is the animal in this photo
+2397817,gloves,gloves,333,500,204,215,192,202,210,219,200,207,Batting gloves is the hitter wearing on his hands
+2397860,horses,horses,333,500,59,257,139,315,170,364,107,324,Horses are the policemen riding on
+2397877,skis,skis,334,500,221,264,227,247,199,224,224,246,Skis is the person wearing on their feet
+2397882,utensils,utensils,375,500,60,90,209,221,121,158,193,211,Utensils is the woman in red holding in her hands
+2398002,horses,horses,375,500,361,386,200,220,379,404,201,219,Horses are the people riding
+2398051,fence,fence,357,500,0,70,44,77,114,192,0,31,The top of the fence is yellow
+2398122,hot dogs,hot dogs,500,374,18,374,86,407,0,231,60,289,Hot dogs is in the picture
+2398203,money,money,333,500,241,263,70,138,174,190,117,127,Money is in the person's hand on the top right of the page
+2398345,skis,skis,334,500,178,316,149,164,177,313,137,163,Skis is on the person's feet
+2398405,Woman,coat,500,373,214,343,40,483,214,343,113,349,Woman's coat is white
+2398428,chairs,chairs,379,500,0,95,43,259,128,383,25,247,The chairs is wooden
+2398458,giraffes,giraffes,333,500,65,264,65,332,257,498,27,332,Giraffes are they
+2398535,shoes,shoes,500,386,80,136,348,402,132,196,349,403,Shoes is on the floor
+2398554,siren lights,siren lights,332,500,263,280,234,249,398,408,231,242,Siren lights is the lights on the motorcycle
+2398572,bear,parachute,500,333,140,223,118,189,66,226,0,98,A teddy bear with parachute is in the picture
+2398578,sheets,sheets,332,500,18,498,106,333,317,498,109,264,Wrinkled sheets is under the blanket
+2398623,computers,computers,333,500,117,222,267,325,314,410,251,328,Working on their computers are the people doing
+2398623,flowers,flowers,333,500,243,308,14,115,204,276,12,115,Flowers is in the decoration above the bed
+2398770,thermos,thermos,375,500,229,259,68,140,267,292,120,141,Thermos is by the box on the bench
+2398773,snowboards,snowboards,375,500,91,163,254,279,63,104,228,249,Snowboards are the humans standing on
+2398794,batter's socks,batter's socks,346,500,350,367,214,248,416,440,212,251,Batter's socks is black
+2398888,man,computer,371,500,52,185,68,279,103,224,169,224,A man with a computer is on the mural
+2398936,tracks,tracks,500,332,0,190,362,499,0,107,315,367,Tracks is the train on
+2398972,Goggles,Goggles,333,500,181,204,71,81,290,310,97,108,Goggles are they wearing in their faces
+2399049,flags,flags,333,500,56,75,15,44,115,142,9,32,Flags is on the motorcycle
+2399135,mirror,sink,500,356,0,92,172,295,0,127,303,382,A mirror and sink is on the wall
+2399323,Food,Food,375,500,54,291,155,375,263,499,0,289,Food is this a picture of
+2399340,trucks,trucks,375,500,310,452,279,349,36,211,270,338,2 trucks is yellow in the photo
+2399414,Oil,vinaigrette,333,500,87,123,65,146,123,164,115,148,Oil and vinaigrette is in the cruet set
+2399416,Helmets,Helmets,500,333,144,165,207,231,222,246,205,233,Helmets are the riders wearing on their heads
+2399535,hot dogs,hot dogs,500,375,141,347,133,397,0,137,98,286,Hot dogs is it
+2399628,Shorts,Shorts,333,500,140,211,109,153,292,346,126,151,Shorts are the girl passengers wearing
+2399812,benches,benches,375,500,279,321,140,161,334,355,142,154,Wooden benches is brown
+2399816,utensils,utensils,500,375,256,279,238,291,83,103,233,303,Eating utensils is the man in the middle of the photo holding in his hands
+2399837,tennis rackets,tennis rackets,334,500,119,186,77,138,197,260,131,151,Tennis rackets are the women holding in their hands
+2399918,Cake,Cake,500,399,219,256,352,388,239,268,227,256,Cake is on his plate
+2400045,tusks,tusks,333,500,197,203,224,239,213,226,224,238,Tusks are the white things on the elephants face
+2400175,skier,skier,375,500,240,276,160,217,100,147,145,292,A skier are they watching
+2400302,Sweat bands,Sweat bands,334,500,346,378,247,289,117,138,106,138,Sweat bands is on the man's wrists
+2400362,Fluorescent lights,Fluorescent lights,333,500,153,395,102,118,13,360,2,32,Fluorescent lights is above the dog-owner's head
+2400490,lights,lights,375,500,205,260,320,357,75,102,299,327,Tail lights is the red
+2400527,Tepees,Tepees,333,500,296,479,0,154,106,291,0,209,Tepees is behind the rocks
+2400600,wet suits,wet suits,333,500,56,102,111,178,403,435,150,218,Wet suits are the surfers wearing
+2400657,kite,he,500,375,49,95,28,67,157,356,185,498,He is flying a kite is the man doing
+2400714,lights,lights,334,500,267,313,185,234,262,316,233,284,Lights is next to him
+2400766,tracks,tracks,136,500,0,499,111,123,0,499,98,111,The tracks are the trains on
+2400900,computers,computers,333,500,107,283,63,237,282,468,50,237,Computers is on the table
+2400958,Jeans,Jeans,334,500,0,45,102,333,177,292,32,302,Jeans are the people wearing
+2401014,bread,bread,333,500,69,215,147,248,109,296,166,272,Bread is on the plate
+2401028,papers,papers,280,500,287,497,214,280,457,497,221,281,Papers is the blue pen lying on top of
+2401051,tracks,tracks,374,500,76,321,284,371,336,439,341,372,Train tracks is the train riding on
+2401096,animal,animal,500,333,15,323,95,488,25,122,125,388,An animal is this
+2401200,sneakers,sneakers,261,500,200,207,164,182,245,263,188,195,Sneakers is the man wearing
+2401272,zebras,zebras,332,500,56,201,96,202,269,400,150,263,Zebras is in the field
+2401314,horses,horses,331,500,376,444,131,227,229,279,145,229,Sitting on horses are the people doing
+2401320,surfboards,surfboards,374,500,146,178,215,222,250,292,242,257,Sitting on surfboards are the people doing
+2401439,cats,cats,375,500,0,267,8,374,213,374,80,254,Cats is in the photo
+2401599,horses,horses,333,500,226,244,180,208,196,217,173,205,Riding horses are the people doing
+2401630,giraffes,giraffes,500,375,113,306,40,421,233,372,157,399,Giraffes is this a picture of
+2401672,bags,bags,500,335,44,174,321,487,0,98,359,499,Bags is in front of the chair
+2401737,horses,horses,383,500,105,134,184,280,158,320,151,333,Horses is on the ground
+2401999,hats,hats,333,500,169,299,87,167,29,135,87,167,Hats is sitting on the suitcase
+2402072,Houses,Houses,500,334,0,94,69,154,156,332,83,158,Houses is in the background of the picture
+2402082,ski poles,ski poles,375,500,168,211,299,372,215,256,321,373,Ski poles is the man holding
+2402128,shoes,shoes,343,500,81,123,272,292,58,70,267,290,Shoes is blue
+2402165,flowers,flowers,500,375,60,151,13,89,0,296,97,256,Flowers is in the vase
+2402196,controller,controller,500,375,197,233,166,191,77,100,275,305,A controller is in the man's hand
+2402359,poles,poles,334,500,299,305,59,67,311,367,74,92,Poles is in his hand
+2402361,sneakers,sneakers,375,500,202,226,235,259,229,257,230,248,Sneakers is she wearing
+2402412,sand,sand,334,500,4,497,193,331,0,498,160,185,Sand are the two people in the front standing on
+2402412,swimsuits,swimsuits,334,500,147,191,152,227,368,417,170,242,Swimsuits are the two people wearing
+2402433,houses,houses,500,375,13,192,18,218,187,373,53,205,Large white houses is seen in the background
+2402435,their,their,333,500,310,346,131,238,200,230,114,214,Riding their bikes are the bikers doing
+2402441,clocks,clocks,500,246,98,126,219,248,81,93,221,249,Clocks are the circular shapes on the tower
+2402445,umbrellas,umbrellas,333,500,0,498,0,123,215,498,87,199,Umbrellas are the men holding
+2402748,Cars,Cars,375,500,154,268,58,97,59,152,64,101,Cars is parked across the street
+2402772,Giraffes,Giraffes,375,500,152,499,117,374,160,342,31,374,Giraffes are these
+2402830,horn,horn,281,500,217,227,54,67,233,242,52,65,Horn like growths are ossicones
+2402962,giraffes,giraffes,333,500,13,89,147,304,34,129,148,304,Giraffes are the animals shown
+2402991,windows,windows,331,500,52,107,80,185,382,432,57,243,The windows is the source of light
+2403031,motorcycles,motorcycles,500,334,28,214,258,425,187,300,243,320,Motorcycles is in the photo
+2403049,thumbs,thumbs,286,450,151,162,196,215,304,312,176,191,Giving a thumbs up are the 2 men on the sides doing
+2403118,boots,boots,500,500,202,231,391,431,225,250,391,427,Boots is on his feet
+2403289,Man,shirt,333,500,369,431,45,298,376,432,78,181,Man's shirt is red
+2403289,Cars,Cars,333,500,403,472,122,165,490,500,133,162,Cars is yellow
+2403427,Cows,Cows,332,500,24,499,31,332,356,500,0,90,Cows are those
+2403514,beach,boat,375,500,0,499,249,373,256,476,41,260,A boat near the beach is this a pic of
+2403716,curtains,curtains,500,500,181,294,56,131,0,77,257,423,Curtains is on the window
+2403806,Hands,Hands,375,500,274,365,184,305,228,309,50,114,Hands is the child using to eat
+2403954,fork,knife,500,375,335,359,298,436,17,34,277,366,A fork and a knife is in this person's hands
+2404024,umbrellas,umbrellas,333,500,197,499,0,243,0,260,0,244,Umbrellas are they holding
+2404024,stars,stars,333,500,312,386,143,185,72,155,138,208,Stars are on the shirts
+2404063,shirt,shirt,375,500,164,249,69,155,117,172,70,168,Shirt is purple
+2404154,Paper plates,Paper plates,500,500,13,242,343,483,236,479,293,479,Paper plates is the pizza served on
+2404368,woman,shirt,375,500,243,409,67,374,242,408,125,283,The woman's shirt is in white color
+2404373,dock,dock,333,500,309,357,145,180,433,486,148,164,Dock is in the distance
+2404399,beach,umbrella,375,500,0,500,336,374,186,407,108,222,A beach umbrella is the man holding
+2404465,trees,trees,500,500,0,86,0,173,35,162,0,158,Trees is in the background
+2404473,suit,tie,500,375,0,375,262,498,155,223,353,498,Suit and tie is he wearing
+2404544,Skis,Skis,375,500,265,282,262,280,291,332,263,279,Skis are on the person's feet
+2404622,gordon loved these hills,enjoy the view,375,500,170,344,102,125,203,304,132,152,Gordon loved these hills Enjoy the view is written on the bench
+2404678,Flowers,table,500,333,71,273,139,459,0,334,406,500,Flowers on table is the focus
+2404907,engines,engines,331,500,99,139,186,219,229,272,152,185,Engines are the two round things under the wings
+2404929,livestock tags,livestock tags,500,500,378,389,190,206,248,257,151,158,Livestock tags is in their ears
+2405141,zebras,zebras,500,322,71,242,214,452,178,260,191,412,Zebras is in the picture
+2405161,Candles,Candles,334,500,314,333,205,228,396,413,205,228,Candles is lit in the image
+2405401,horses,horses,500,393,56,202,57,362,245,375,42,348,Horses is pulling the wagon
+2405419,sunglasses,sunglasses,375,500,329,384,62,79,195,229,37,53,Sunglasses are the women wearing
+2405439,cabinets,cabinets,333,500,254,499,0,302,255,498,264,332,Cabinets is to the right of the cat
+2405504,Hills,Hills,375,500,272,499,117,169,2,272,136,171,Hills is behind the cows
+2405540,wood,chair,333,500,419,437,32,78,313,457,0,108,The chair is made of wood is the chair made of
+2405616,Shirt,jeans,333,500,318,388,46,108,325,397,77,181,Shirt and jeans is he wearing
+2405736,birds,birds,333,500,313,371,175,304,370,452,200,302,Birds is standing just outside
+2405742,She,hotdog,375,500,58,408,8,374,22,269,159,252,She is eating a hotdog is the little girl eating
+2405829,plates,plates,500,335,175,299,424,499,302,334,455,498,Plates is on the end of the table
+2405891,cars,cars,500,375,0,182,343,497,2,182,399,498,Cars is behind the bus
+2405893,snowboarder,snowboard,375,500,273,336,159,285,262,342,259,294,A snowboarder on a blue snowboard is bending over
+2405935,goggles,goggles,500,333,47,57,194,200,160,172,157,169,Goggles are the people wearing on their face
+2406026,brush,holder,500,334,52,77,246,292,51,88,268,308,Toilet brush and holder is beside toilet on the left
+2406104,He,helmet,333,500,186,409,5,287,187,251,19,83,He is wearing a helmet to protect himself is the skateboarder wearing on his head
+2406104,He,board,333,500,186,409,5,287,176,445,276,311,He is riding a long board is the the with the helmet riding
+2406234,bicycles,bicycles,291,500,296,398,200,275,21,169,192,289,Bicycles is parked on the sidewalk
+2406300,toothbrush,right hand,332,500,217,312,183,202,240,327,175,270,A toothbrush is in the right hand is in the woman's right hand
+2406497,net,net,332,500,239,450,146,190,129,195,138,154,The net is in the center of the court
+2406525,Pizza,Pizza,375,500,130,376,167,289,153,281,115,159,Pizza is the focus
+2406638,mountains,mountains,500,465,97,305,387,399,210,465,377,404,Mountains is in the background
+2406714,pillows,pillows,375,500,393,478,187,235,388,474,221,254,Pillows is on the bed
+2406730,wii,wii,340,500,330,426,183,338,0,110,115,199,Playing a game on the wii are they doing
+2406738,blinds,blinds,375,500,262,358,51,250,362,450,93,297,Blinds are on the windows
+2406747,wheels,wheels,500,335,107,122,332,343,130,144,326,340,Wheels is directly under his skateboard
+2406829,artwork,artwork,381,500,203,285,175,259,206,282,282,367,The circular artwork is in color
+2406865,Honey Bucket,Honey Bucket,500,332,180,231,273,299,256,289,268,289,Honey Bucket is the name on the door
+2406875,Smokestacks,Smokestacks,375,500,8,12,106,130,17,19,108,130,Smokestacks are the two structures in the far left background
+2406928,doors,building,400,500,332,492,7,156,31,498,0,173,Building with glass doors is behind boys in picture
+2406928,trees,trees,400,500,52,174,0,176,0,42,0,182,Trees is between man and boys
+2407079,horses,horses,333,500,267,439,198,285,177,292,148,284,Riding horses are the people doing
+2407211,Buses,Buses,375,500,26,197,240,310,197,308,251,307,Buses is parked on the street
+2407291,Zebras,Zebras,401,472,39,353,63,291,128,422,57,286,Zebras are standing
+2407300,she,suitcase,375,500,92,492,0,346,113,377,129,356,She is laying on her suitcase smiling is the woman doing
+2407409,Chef,hat,375,500,0,500,0,355,55,495,0,157,Chef's hat is on the man's head
+2407531,buildings,buildings,334,500,380,487,0,70,147,229,0,90,Buildings is behind the trees
+2407532,Lamps,Lamps,356,500,346,389,46,207,13,57,4,193,Lamps is on
+2407607,eyes,eyes,500,375,155,203,129,159,249,274,128,157,Cat's eyes is black
+2407619,trees,trees,375,500,246,498,0,158,2,305,2,220,Trees is green
+2407629,Refrigerators,freezers,375,500,54,340,40,374,302,472,154,366,Refrigerators and or freezers are these appliances
+2407657,helmets,helmets,375,500,285,342,72,115,83,142,173,230,Helmets are the men wearing on their heads
+2407694,pans,pans,333,500,266,397,1,53,186,267,0,16,Pans is on the stove
+2407703,towels,towels,331,500,207,255,177,184,307,325,169,172,Towels are they laying on
+2407805,man,frisbee,500,333,14,259,103,476,168,226,232,262,Man playing frisbee is the focus
+2407815,dogs,dogs,332,500,415,458,115,153,371,410,126,160,Dogs is being pulled by the motorcycle
+2407817,Ski poles,Ski poles,375,500,211,264,181,248,281,290,195,233,Ski poles is the person holding
+2407820,warnings,warnings,500,375,263,327,118,209,125,165,161,231,Warnings are the signs
+2407821,signs,signs,500,375,98,141,94,199,112,204,45,213,The signs is on the ground
+2407914,helmets,helmets,263,500,421,443,63,79,37,63,56,76,Helmets are the skateboarders wearing on their heads
+2407963,cars,cars,375,500,328,500,1,65,219,328,2,26,Cars are parked along the sidewalk
+2407984,surfboards,surfboards,333,500,62,374,114,231,281,377,115,179,Surfboards are the people carrying
+2408058,olives,olives,334,500,203,238,179,195,278,310,157,186,Olives is in the drinks
+2408109,surfboard,sail,332,500,165,259,286,313,238,364,23,300,A surfboard with sail is the man on
+2408115,Gloves,Gloves,355,500,322,341,126,136,247,256,121,133,Gloves is on the man's hands
+2408122,buttons,buttons,375,500,400,430,79,108,279,294,91,107,Buttons are the eyes of the right teddy made of
+2408123,boats,boats,313,500,133,260,186,294,201,270,175,232,Boats is in the channel
+2408130,phone,plant,375,500,36,63,23,58,380,450,2,49,A phone and a plant is on the countertop
+2408173,poles,poles,375,500,335,394,74,374,142,165,78,254,Poles is brown
+2408257,skis,skis,375,500,121,161,343,373,1,136,334,373,Skis are they on
+2408316,nametag,nametag,375,500,285,301,187,199,171,187,176,190,A nametag is attached to each man's sweater
+2408395,player,racket,500,311,58,265,16,443,190,260,25,137,The player with the racket are the people looking at
+2408457,scooters,scooters,333,500,381,500,282,333,154,243,239,333,Scooters is in the foreground
+2408590,cars,cars,335,500,0,406,73,333,380,472,114,241,Cars is on the ground
+2408631,bottles,bottles,375,500,368,395,344,375,303,323,193,228,Water bottles are in the women's hands
+2408660,flowers,flowers,500,332,297,323,308,326,29,52,311,326,Flowers is on the blanket
+2408706,Sailboats,Sailboats,375,500,329,346,76,119,381,438,60,119,Sailboats is on the wall above the fridge
+2408718,tennis rackets,tennis rackets,333,500,384,419,153,168,430,449,173,196,Tennis rackets are the men holding
+2408742,he,hat,500,500,212,434,14,382,218,312,17,87,He is wearing a hat is he wearing
+2408772,Plants,Plants,334,500,72,130,42,68,136,176,47,71,Plants is sitting on top of tv
+2408772,Shelves,Shelves,334,500,235,279,9,186,280,333,11,183,Shelves is to right of tv
+2408814,walls,walls,375,500,79,500,3,371,1,77,344,374,Walls is white
+2408839,planes,planes,333,500,101,328,106,173,41,433,160,299,Two of the planes is red and white
+2408903,Michelin,Michelin,333,500,249,317,67,75,336,389,70,82,Michelin is written on the train's window
+2408917,Grapes,Grapes,500,375,120,155,170,199,236,263,186,219,Grapes are the eyes
+2408920,Curtains,Curtains,375,500,373,422,44,259,434,499,0,375,Curtains is hanging on the right wall
+2408959,Trees,Trees,333,500,240,333,267,332,101,208,200,298,Trees is in the background
+2408961,clock,clock,378,500,394,424,201,232,439,454,202,233,A clock is the round circle on the tower
+2408992,zebras,zebras,373,500,170,292,131,299,266,348,81,212,Zebras are the two animals in front of picture
+2409100,motorbikes,motorbikes,336,500,35,294,149,303,241,384,15,71,Motorbikes are two people riding
+2409112,jeans,jeans,500,333,127,332,404,500,0,125,289,500,Jeans are they wearing
+2409182,towels,towels,500,500,65,110,279,373,0,39,299,398,Towels is hanging from the oven
+2409217,buildings,buildings,500,375,0,50,179,468,97,374,180,453,Buildings is in the background
+2409307,tub,sink,500,375,188,373,274,498,0,19,230,255,Sink and tub is next to the toilet
+2409348,thumbs,thumbs,321,500,103,196,110,167,180,226,150,186,His thumbs is the man using to type with
+2409391,gloves,gloves,375,500,12,196,91,287,302,424,301,374,Cutting his gloves is the man doing
+2409440,Food,Food,375,500,65,468,62,332,0,113,73,249,Food is on the plate
+2409595,poles,poles,336,500,163,222,131,269,255,422,132,236,Ski poles is the guy holding
+2409597,women,women,333,500,217,323,90,305,179,266,32,236,Following the women are the men doing behind
+2409597,cell phone,cell phone,333,500,228,250,56,66,293,309,105,119,Talking on their cell phone are the women doing while walking
+2409610,buildings,buildings,333,500,261,390,0,136,389,496,0,147,Buildings is in the distance
+2409615,chairs,chairs,375,500,345,484,109,207,0,148,84,253,Wooden chairs is on top of both elephants
+2409615,jacket,jacket,375,500,420,466,107,158,366,415,91,153,The woman's jacket is yellow
+2409674,soap dispenser,tissues,500,375,270,296,203,274,299,374,215,300,Tissues and soap dispenser is on the countertop
+2409688,boats,boats,312,500,163,367,100,131,48,395,145,194,Rowing the boats are the rowers doing
+2409771,horses,horses,500,375,0,233,160,499,244,374,161,331,Nuding one of the other horses is the middle horse doing
+2409825,Bicycles,Bicycles,375,500,0,98,228,316,388,498,279,374,Bicycles is silver
+2409858,kites,kites,375,500,214,250,161,170,328,390,291,325,Flying kites are the people doing
+2409927,engine,engine,132,500,279,293,65,77,313,323,67,79,Engine are the two round black areas on the plane
+2409935,Dresses,Dresses,500,335,192,302,142,396,15,152,163,433,Dresses are the women wearing
+2409935,Scarves,Scarves,500,335,191,300,107,255,19,140,113,275,Scarves are the women wearing on their shoulders
+2409936,windows,windows,375,500,93,175,10,178,225,251,54,166,Windows is in the background
+2410132,horses,horses,333,500,180,231,127,214,260,321,134,205,Horses are the animals pictured
+2410192,boys,boys,375,500,412,465,153,294,266,331,140,268,The boys is on top of the snow
+2410194,skis,skis,332,500,303,399,136,190,242,315,111,172,Skis are the people carrying
+2410242,reflectors,Reflector,333,500,402,416,211,230,57,64,176,188,Reflectors are the orange things on the motorcycle
+2410246,motorcycles,motorcycles,333,500,99,195,96,248,200,298,100,251,Motorcycles is on the road
+2410246,police,police,333,500,131,176,128,138,238,285,129,138,Police is written on the motorcycles
+2410255,onesies,onesies,500,281,60,251,194,416,58,214,84,170,Onesies are the people wearing
+2410282,controls,controls,166,240,178,226,26,48,128,178,17,49,Controls is on top of the microwave
+2410309,laptops,laptops,333,500,2,217,107,247,319,500,143,323,Using laptops are the people doing
+2410339,arrows,arrows,375,500,378,388,320,325,342,366,351,367,White arrows is printed on the road
+2410340,gloves,gloves,335,500,344,431,178,233,42,97,63,143,Gloves is on the guys hands
+2410361,sticker,sign,375,500,198,282,140,176,151,336,3,180,Putting sticker on sign is the male doing
+2410441,Banana,Banana,334,500,280,362,233,323,8,86,263,330,Banana is the fruit called
+2410500,skis,skis,333,500,117,194,239,304,168,207,232,269,Skis are on the man's feet
+2410509,Sign boards,Sign boards,333,500,26,253,17,139,51,240,130,318,Sign boards is seen in the picture
+2410568,Cups,Cups,500,500,449,479,63,129,401,442,68,142,Cups and chips is in the background
+2410576,bears,bears,300,500,20,208,63,265,181,432,50,220,Bears are these animals
+2410585,horse,horse,333,500,0,172,59,331,295,498,38,331,Horses is brown
+2410585,noses,noses,333,500,136,170,134,187,295,328,112,168,Noses is black
+2410593,plants,plants,375,500,282,499,0,251,0,201,0,126,Two plants is the cat laying next to
+2410632,giraffes,giraffes,264,500,137,227,140,230,228,340,104,248,Giraffes are the tall animals
+2410666,ski poles,ski poles,333,500,200,226,109,174,224,253,125,162,Ski poles is in the person's hands
+2410708,signs,signs,333,500,181,295,12,98,307,355,12,101,Signs is on the building
+2410715,snowpants,snowpants,500,389,156,242,183,309,51,84,243,279,Snowpants are the people wearing
+2410800,padding,fence,500,242,0,89,189,321,0,241,167,321,A fence with padding is in the background
+2410813,they,they,375,500,306,331,104,229,191,297,159,252,They are eating are they doing
+2410946,book,mouse,375,500,0,383,41,374,299,421,95,214,Book and mouse is the focus of the image
+2410947,bird,mirror,400,500,128,332,94,280,224,494,149,401,Bird in side view mirror is the focus
+2411098,giraffes,giraffes,500,333,173,303,301,450,24,141,320,450,Giraffes is the focus of the picture
+2411100,He,disc,332,500,194,285,107,329,103,148,78,100,He is throwing a disc is boy throwing
+2411297,Skis,Skis,375,500,289,371,157,374,167,205,143,374,Skis are the people in black carrying
+2411347,tee-shirt,shorts,250,500,66,140,49,119,69,108,104,136,A tee-shirt and shorts is she wearing
+2411386,hose,hose,500,307,5,96,75,338,215,306,257,381,Hose is beside the toilet bowl
+2411451,riders,riders,266,500,199,233,95,145,220,257,98,160,The riders is blurry
+2411615,rectangles,rectangles,375,500,55,205,141,349,198,384,25,359,Rectangles are the shape of the bags
+2411631,men,men,333,500,20,95,17,223,214,274,17,207,Two men standing is in the background
+2411678,helicopters,helicopters,154,500,23,181,32,87,336,493,37,86,Helicopters is in the air
+2411739,lid,seat,500,360,157,334,17,257,49,305,243,446,Seat and lid is painted
+2411748,coffee,coffee,500,340,256,321,136,201,28,97,300,368,Coffee is in the cups
+2411760,clothing,bag,375,500,0,319,263,373,33,143,225,296,Clothing and a bag is on the bed
+2411769,kites,kites,400,500,227,232,158,170,118,144,20,50,Kites is in the sky
+2411786,beers,beers,333,500,240,245,171,187,380,387,187,205,Beers are the two people in the back holding
+2411964,teddy bears,teddy bears,376,500,75,249,32,314,235,414,52,326,Teddy bears are these
+2411968,signs,signs,375,500,104,231,89,145,252,368,168,201,Signs is on the pole
+2412004,Automobiles,Automobiles,375,500,424,454,250,271,401,423,259,273,Automobiles are behind the truck
+2412013,boy,ball,333,500,320,426,107,245,366,388,221,242,The boy dribble the ball are the people watching
+2412047,plastic bags,plastic bags,500,375,256,309,103,177,220,260,75,169,Two plastic bags is hanging from a wire
+2412062,Mountain bikers,Mountain bikers,375,500,264,358,93,313,149,236,109,304,Mountain bikers is the photo of
+2412096,pepperoni pizza,pepperoni pizza,500,332,0,176,144,240,43,167,454,499,Pepperoni pizza are the kids eating
+2412110,woman,zebra,500,500,116,315,35,482,266,459,108,431,A woman is feeding a zebra is happening in this photo
+2412117,cat,car,331,500,356,407,217,258,290,499,200,330,A cat sitting on a car is this picture taken of
+2412270,ski poles,ski poles,500,334,170,226,270,312,132,137,289,294,Ski poles is in his hand
+2412450,Skis,Skis,500,374,64,181,392,495,115,220,413,500,Skis is the man standing on
+2412503,Helmets,Helmets,319,500,271,325,16,63,237,281,13,54,Helmets are the men wearing on their heads
+2412503,Motorcycles,Motorcycles,319,500,45,466,47,297,66,393,41,197,Motorcycles are the men riding
+2412509,tracks,tracks,333,500,0,79,199,258,0,87,168,218,Tracks is the train on
+2412635,surfboards,surfboards,375,500,321,336,256,280,453,492,257,292,Surfboards are the men carrying
+2412650,ski poles,ski poles,391,500,262,265,218,323,317,381,206,313,Ski poles is the man holding
+2412750,ham,ham,332,500,0,236,73,241,1,268,217,330,Ham is the meat
+2412830,person,motorcycle,292,500,293,341,118,203,292,347,149,220,A person on a motorcycle is the focus of this photo
+2412873,zebras,zebras,331,500,0,276,56,330,300,498,10,330,Zebras is in the photo
+2412937,helmets,helmets,333,500,277,313,84,112,342,378,82,110,Helmets are the men wearing
+2412940,trunk,trunk,375,500,51,128,0,34,131,242,0,45,A trunk is behind the dogs
+2413011,ribbons,ribbons,321,500,321,379,88,293,355,411,91,293,Ribbons is trailing from the kite
+2413073,art,art,500,375,0,119,41,234,0,92,239,371,Two pieces of art is on the wall
+2413186,bacon,bacon,375,500,163,210,97,181,269,311,133,231,Bacon is wrapped around the hot dog
+2413186,cheese,cheese,375,500,246,348,104,238,140,228,95,221,Cheese is under the hot dog and bacon
+2413248,bears,bears,288,500,117,242,117,237,157,351,9,127,Bears is in the pictures
+2413251,tee shirts,tee shirts,500,500,63,303,204,291,279,464,212,437,Blue tee shirts are the boys wearing
+2413307,ball,racket,333,500,211,227,41,59,309,326,0,60,A tennis racket and a tennis ball are the women holding
+2413424,sign,stop light,375,500,278,483,43,116,24,203,89,285,Sign and stop light is on the pole
+2413446,Hot Dogs,Hot Dogs,500,375,41,230,195,245,17,232,328,383,Hot Dogs is on the plate
+2413454,surfboards,surfboards,333,500,22,337,125,232,216,500,112,266,Surfboards are these women carrying
+2413477,cats,cats,500,375,23,190,49,252,205,376,119,499,Cats are the animals in the picture
+2413543,swimsuits,swimsuits,375,500,62,117,172,245,139,185,164,265,Swimsuits are the girls wearing
+2413547,Skis,Skis,375,500,241,259,295,344,293,303,314,357,Skis is on the person's feet
+2413592,knee brace,knee brace,355,500,223,262,253,271,315,354,241,276,Knee brace is the man wearing on his knees
+2413656,surfboards,surfboards,334,500,3,121,182,258,342,404,156,244,Surfboards are the people carrying
+2413656,trees,trees,334,500,457,499,121,205,484,500,116,202,"Trees is visible to the far right of the photo, besides water and sand"
+2413696,paintings,paintings,500,374,18,127,0,193,284,296,84,131,Paintings is hanging on the wall
+2413697,skis,skis,500,442,140,183,442,480,103,159,446,466,Skis is the woman wearing on her feet
+2413783,gloves,gloves,320,500,200,246,126,171,88,119,17,42,Protective gloves is on the man's hands
+2413862,zebras,zebras,333,500,409,496,111,226,197,353,94,226,Zebras is in the field
+2414043,Bicycles,Bicycles,167,500,404,479,67,123,282,361,67,123,Bicycles are the men riding
+2414086,utensils,utensils,500,500,209,255,259,278,282,347,261,273,Utensils is in the woman's hands
+2414119,clock,clock,335,500,312,336,83,108,343,357,85,113,A clock is on the tower
+2414224,trees,trees,500,375,63,102,301,352,217,268,320,377,Trees is on the cake
+2414265,teeth,teeth,333,500,249,260,65,85,256,268,70,84,Their teeth are the bears fighting with
+2414335,apples,apples,500,375,166,223,249,290,244,288,233,279,Apples is in the drawer
+2414384,skis,skis,500,374,67,247,329,422,162,315,291,403,Skis are the men wearing on their feet
+2414384,ski poles,ski poles,500,374,103,184,200,396,196,302,210,374,Ski poles are the men holding
+2414438,bikes,bikes,375,500,325,435,187,261,298,386,184,254,Two bikes is parked on the sidewalk
+2414618,buildings,buildings,500,375,14,112,236,294,199,374,201,291,Buildings is in the background
+2414632,stickers,stickers,442,294,141,183,104,143,134,160,206,243,Stickers is on the woman's cheek
+2414775,Hat,Hat,500,333,188,221,19,42,144,200,330,383,Hat is the top of the head
+2414780,gloves,gloves,327,500,185,260,207,246,248,310,221,275,Batting gloves is on her hands
+2414873,zebras,zebras,333,500,192,330,88,224,193,277,133,226,Zebras are these animals
+2414873,mother,child,333,500,192,330,88,224,193,277,133,226,Mother and child is the relation of the zebras
+2414881,Kites,Kites,375,500,100,124,53,84,0,15,22,45,Kites are flying is happening in the background
+2414881,pants,shirt,375,500,54,160,271,374,20,164,99,283,Grey pants and a plaid shirt is the man on the left wearing
+2414904,hats,hats,309,500,90,124,80,101,307,336,75,107,Hats are both men wearing on their heads
+2415012,Pillows,Pillows,361,500,211,282,138,172,268,326,116,146,Pillows are the round grey objects
+2415203,medals,medals,400,500,364,378,123,160,375,391,125,160,Medals is on the young man's shirt
+2415238,Gloves,Gloves,500,334,104,130,247,278,188,220,209,243,Gloves is he wearing on his hand
+2415256,Triangles,Triangles,500,375,198,248,29,79,117,167,28,73,Triangles are the top windows shaped like
+2415587,track,field,304,500,0,500,148,172,0,499,103,162,Track and field is in the background
+2415647,Bride,groom,333,500,210,232,23,75,223,256,26,81,Bride and groom is on the top of the cake
+2415673,bushes,bushes,333,500,0,252,247,332,297,499,244,332,Bushes is the greenery under the bridge
+2415891,cows,cows,333,500,343,390,142,237,411,476,135,230,Cows is this photo of
+2415938,ski poles,ski poles,375,500,325,374,131,269,425,434,120,296,Ski poles is the woman holding
+2416009,tracks,tracks,375,500,384,499,263,351,286,437,312,373,Tracks is the train on
+2416021,desktop,cat,375,500,0,500,217,370,64,498,84,329,A cat laying on a desktop is this a photo of
+2416072,ramps,ramps,500,375,0,219,366,499,224,373,340,498,Ramps are the two tall objects
+2416258,fields,fields,375,500,292,499,163,374,4,241,172,249,Fields is in the background
+2416267,food,food,500,500,183,499,86,476,333,499,0,130,More food is behind the onion rings
+2416404,zebras,zebras,375,500,80,271,181,330,273,413,178,317,Zebras are these
+2416517,clock,clock,375,500,314,334,122,145,352,363,127,147,Clock is on the tallest part of the building
+2416589,cows,cows,375,500,0,294,20,323,23,379,167,337,The cows is on the straw
+2416602,clock,clock,359,500,375,395,153,174,406,410,153,173,A clock is on the tower
+2416709,buildings,buildings,500,332,0,114,0,446,169,332,135,413,Buildings is in the photo's foreground
+2416766,hills,hills,333,500,93,246,155,175,246,362,154,175,Hills is in the distance
+2416767,boats,boats,375,500,135,275,182,310,253,443,184,294,Boats is present
+2416863,food,food,500,306,92,149,159,211,39,96,271,314,Food is he holding
+712951,knee pads,knee pads,851,566,180,236,440,524,245,333,424,512,Knee pads is on the boy's knees
+712951,boy's socks,boy's socks,851,566,193,237,564,592,361,383,539,567,Boy's socks is black
+712955,flowers,flowers,555,1024,409,502,117,184,483,532,210,302,Yellow flowers is in her hair
+712956,planes,Plane,683,1024,103,957,146,459,428,1015,98,321,Some planes are larger than others
+712983,Windows,Windows,768,1024,250,509,375,466,130,237,358,446,Windows is at the top front of the train
+712986,hat,vest,1024,769,224,268,789,814,202,272,816,929,White hat and white vest is the man wearing
+713002,lights,lights,1024,683,560,604,252,290,308,328,216,250,Lights is turned on
+713002,sandals,sandals,1024,683,310,360,744,776,381,459,733,759,Sandals is he wearing
+713002,flip flops,flip flops,1024,683,310,360,744,776,381,459,733,759,Flip flops is on his feet
+2416953,bed,bed,188,500,0,250,58,185,253,498,28,184,A bed are the dogs laying on
+2416953,window,window,188,500,28,200,1,48,357,448,2,24,A window is behind the bed
+713022,shadows,shadows,1024,683,0,376,746,862,0,376,592,718,Shadows is in the snow
+713040,appetizer,appetizer,768,1024,0,321,626,721,930,1024,521,576,An appetizer are they eating
+713056,cans,cans,768,1024,329,519,293,594,687,873,290,515,Two garbage cans is filled with broken umbrellas
+713066,scaffolding,scaffolding,871,1280,254,299,0,429,464,501,44,512,Scaffolding is on building to left
+713072,tires,tires,768,1024,632,743,503,677,866,948,415,522,Truck tires is dirty
+2417086,wetsuits,wetsuits,333,500,265,290,225,273,351,388,192,271,Wetsuits are they wearing
+713153,sneakers,sneakers,1024,837,61,269,807,891,236,430,933,1013,Blue sneakers is the girl wearing
+713155,boots,boots,767,1024,677,699,449,502,583,598,447,504,Boots is the horseback rider wearing
+713166,bike,car,768,1024,332,581,352,516,325,828,316,508,A bike and a car is in the intersection
+713168,ski poles,ski poles,683,1024,236,297,391,505,120,133,397,540,Ski poles is the man holding
+713176,woman,shirt,683,1024,994,1021,404,495,995,1022,422,467,Woman's shirt is yellow
+713183,shirt,shorts,700,1024,650,724,161,253,668,726,257,310,A shirt and shorts is the man wearing
+2417137,skis,skis,375,500,269,278,307,314,294,308,306,315,Skis are the blades
+2417141,tables,tables,375,500,161,497,98,340,0,177,106,313,Tables is the produce on
+713242,vehicles,vehicles,682,1024,340,696,199,536,204,262,311,342,Vehicles is on the road
+713244,brick,stone,1024,487,295,310,550,558,100,112,516,531,Brick and stone is the church made out of
+713245,bus,he,683,1024,20,1028,168,588,98,191,371,609,He is boarding the bus is single man doing in the picture
+713273,man,snowpants,768,1024,504,812,0,612,502,718,309,574,The man is wearing snowpants is the man wearing on his legs
+713273,Ski poles,Ski poles,768,1024,399,566,326,479,673,811,338,496,Ski poles is the man using
+713273,gloves,gloves,768,1024,526,573,319,371,771,814,325,385,Gloves is red
+713273,gloves,gloves,768,1024,526,573,319,371,771,814,325,385,Gloves is red
+713282,backpacks,backpacks,1024,768,143,325,110,620,322,468,105,188,Backpacks are these people carrying on their backs
+713286,horse,tail,683,1024,443,963,142,653,928,998,209,458,Horse's tail is brown
+713291,skis,skis,768,1024,553,594,296,346,516,615,283,314,Skis is the persons feet
+2417245,buildings,buildings,375,500,315,498,2,193,1,307,0,196,Buildings is behind the trains
+713336,phones,phones,678,1024,435,466,238,272,499,545,223,263,Their phones are these two people looking at
+713336,cellphones,cellphones,678,1024,435,466,238,272,499,545,223,263,Their cellphones are they looking at
+713338,hands,hands,768,1024,141,184,479,501,163,221,450,523,Her hands is the woman on the floor looking at
+713338,object,lap,768,1024,466,1020,274,750,584,727,502,549,The Rainbow object on her lap is the woman on the couch looking at
+2417275,glasses,glasses,333,500,102,151,106,131,411,438,109,153,Glasses is on the men's faces
+713358,vehicles,vehicles,683,1024,454,904,312,625,58,527,268,615,Two large vehicles is driving along the busy street
+713358,Vehicles,Vehicles,683,1024,454,904,312,625,58,527,268,615,Vehicles is shown parallel to each other
+713385,wetsuit,man,768,1024,350,600,196,619,343,599,98,619,Man's wetsuit is black
+713394,dock,dock,576,1024,0,1022,0,509,0,1021,295,492,The dock are the boats tied to
+713415,shirts,shirts,349,1024,282,304,48,69,396,417,140,165,Shirts is red
+713429,toothbrush,toothpaste,1024,681,510,622,619,630,517,618,620,645,A toothbrush and a toothpaste are there on the desk
+713434,Tables,Tables,612,612,3,608,332,612,2,606,179,360,Tables is the food sitting on
+713446,shirt,cardigan,683,1024,455,641,307,678,441,711,303,643,A blue shirt and black cardigan is the woman on the left wearing
+713446,glasses,scarf,683,1024,730,847,223,274,728,924,252,562,Glasses and a printed green scarf is the woman on the right wearing
+2417393,cereal boxes,cereal boxes,500,375,0,26,186,273,17,45,214,273,Cereal boxes is that on the left of the stove
+713467,picture,baby,768,1024,218,300,163,253,235,295,171,243,Picture of baby is on the wall
+713499,sinks,sinks,369,555,401,506,232,295,288,350,196,230,Sinks in bathroom are identical
+713510,skis,skis,686,1024,529,607,85,351,412,524,71,339,Skis are on the feet of the man upside down
+713541,shirt,pants,680,1024,870,981,244,406,830,1004,403,606,Gray shirt and light gray pants is the boy wearing
+2417478,animals,animals,375,500,75,287,68,355,63,229,32,256,Animals is present
+2417478,elephants,elephants,375,500,75,287,68,355,63,229,32,256,Elephants are they
+713618,buses,buses,684,1024,83,703,210,498,675,1017,161,535,Buses are the two large vehicles
+713618,buses,buses,684,1024,83,703,210,498,675,1017,161,535,Two buses is white
+713628,shirt,shirt,411,1024,327,421,183,246,679,850,183,306,"A yellow shirt, and a red shirt are they wearing"
+713642,headlights,headlights,768,1024,375,391,525,539,513,535,527,545,The headlights is on
+713645,lights,lights,664,1024,215,234,308,357,383,392,407,435,Traffic lights are there several of
+713655,Golden retrievers,Golden retrievers,853,1280,560,686,544,743,643,726,558,736,Golden retrievers are the dogs
+713675,cars,cars,768,1024,956,1022,388,533,833,997,376,507,Two cars is parked on the right
+2417615,mountains,mountains,375,500,0,74,171,228,112,413,186,224,Mountains is behind them
+2417615,helmets,helmets,375,500,82,96,161,175,97,106,164,178,Helmets are they wearing
+713693,posts,posts,681,1024,128,147,63,641,191,200,235,540,Lamp posts is lining the bicycle path
+713699,hands,hands,695,1024,282,289,401,414,292,301,405,418,Holding hands are the people doing
+713699,hands,hands,695,1024,282,289,401,414,292,301,405,418,Holding hands are the man and woman doing
+713701,eyes,eyes,600,800,380,439,89,157,456,507,64,139,Eyes is on the kite
+713712,cars,cars,768,1024,71,106,390,411,45,66,394,429,Cars is in the background
+2417657,moped,bicycle,333,500,0,334,125,330,248,367,126,198,"Moped, bicycle are people riding"
+713728,motor bike,motor bike,683,1024,203,824,23,660,635,860,0,340,Sitting on a motor bike is the cat doing
+2417700,drinks,drinks,375,500,145,211,13,304,202,282,18,350,Drinks are two bottled items shown
+713772,cans,cans,768,1024,17,52,468,532,39,67,461,517,Beer cans is on the table
+713776,Water,ale,1024,768,278,360,530,616,474,554,504,624,Water and ale is the man drinking
+713795,umbrellas,umbrellas,678,1024,509,885,196,446,78,481,222,377,Their umbrellas are the people sharing
+713817,horses,horses,683,1024,0,766,192,682,469,890,205,681,Horses are the men riding
+713834,pizza,pizza,1024,768,107,385,675,891,271,415,494,576,Pizza are the people going to eat
+713834,boxes,boxes,1024,768,83,437,509,951,150,464,321,729,Two open cardboard boxes of pizza is on the wooden desk
+713834,pizza,pizza,1024,768,107,385,675,891,271,415,494,576,Pizza are the people eating
+713836,blue shades,blue tie-dye shirt,852,1024,311,411,208,248,277,493,290,614,Blue shades and a blue tie-dye shirt is the young skateboarder wearing
+713836,cap,shirt,852,1024,455,519,89,163,479,627,133,323,A blue knit cap and a white shirt is the second skateboarder wearing
+713864,sign,number,1024,679,180,293,290,471,222,261,329,380,There is a sign with the number six on it is on the sign to the left of the skier
+713865,van,garage,664,1024,102,195,448,513,35,351,128,523,There is a van in the garage is in the garage
+2417806,airplanes,airplanes,374,500,0,186,8,103,13,84,53,82,Airplanes are the large vehicles called
+713899,red vest,yellow pants,768,1024,728,792,372,463,715,806,452,552,Yellow pants and a red vest is the boy wearing
+713902,walls,walls,1200,900,776,899,0,833,586,795,0,733,Walls is painted white
+713904,lady,suitcase,1024,683,0,350,452,897,110,580,711,985,Talking to a lady with a open suitcase are the people doing
+713926,Boats,Boats,518,1024,538,745,413,443,822,1018,396,517,Boats is in the water
+713936,Blinds,Blinds,768,1024,109,401,0,194,632,853,0,192,Blinds is covering the windows
+713936,Computers,Computers,768,1024,601,724,43,176,711,844,148,246,Computers is on the desk
+713943,cat,dog,768,1024,309,505,32,247,554,742,418,729,Dog and cat are the two animals
+713944,Suits,Suits,1024,732,409,583,967,1017,653,717,905,1015,Suits are the men wearing
+2347409,Ski poles,Ski poles,375,500,306,321,233,343,391,429,236,329,Ski poles is in the women's hands
+61526,skateboarders,skateboarders,683,1024,316,492,250,583,479,901,0,455,The skateboarders are the boys watching
+61526,beanies,beanies,683,1024,336,386,252,280,510,577,29,86,Beanies are the boys wearing on their heads
+61528,horns,horns,679,1024,551,608,74,186,495,556,88,201,The giraffe's horns are furry
+61544,sheep,sheep,768,1024,74,101,45,72,653,700,96,127,The sheep walk in the park are the sheep doing
+61554,trees,trees,768,903,0,127,0,295,104,615,0,509,Leafy trees is behind the ruins
+61582,cow,nose,685,1024,0,994,163,682,928,993,388,454,Cow's nose is black
+61582,bird,beak,685,1024,242,411,120,356,371,408,138,162,Bird's beak is long and pointed
+61583,trees,trees,1024,838,0,434,91,511,486,838,0,488,Trees is in the background
+150503,poles,poles,809,1024,514,543,286,394,569,595,282,395,Ski poles that are stuck is on the ground beside the man adjusting his hat
+285855,they,they,1024,731,165,313,315,670,411,578,315,637,They are barefoot is on the women's feet
+285989,elephants,elephants,768,1024,314,543,103,357,25,204,315,495,Elephants in zoo are kids seeing
+713017,carousel,carousel,768,1024,438,744,440,763,93,336,385,767,A carousel are the people riding
+2373585,cabinets,cabinets,500,375,54,374,348,500,0,212,0,358,The cabinets is made of wood
+713471,pan,fire,1024,897,36,214,679,713,65,135,476,698,A pan burning with superimposed fire is in the background
+713471,pan,flame,1024,897,36,214,679,713,65,135,476,698,Flame in pan is not real
+713566,spires,spires,1024,683,428,456,83,131,531,564,80,159,Two pointed spires are the building's towers topped with
+2315402,Ski poles,Ski poles,334,500,225,326,119,215,168,224,186,227,Ski poles is the man in front holding
+2315407,flowers,flowers,400,500,456,488,257,286,425,470,221,241,Flowers is in the vase
+2315436,kite,woman,375,500,228,255,235,287,207,225,256,322,"A kite, a woman is carrying is rainbow colored"
+2315467,Cows,Cows,333,500,143,333,183,328,83,353,146,296,Cows are these animals called
+2315481,benches,benches,332,500,91,241,136,287,262,318,122,186,Benches are the two people lying on
+2315498,tracks,tracks,333,500,317,499,227,334,0,406,246,333,Train tracks is under the train
+2315522,buildings,buildings,375,500,58,495,93,333,0,76,91,273,Buildings is in the background
+713607,trees,trees,960,1280,640,832,0,404,746,962,0,524,The trees is bare
+713607,trees,trees,960,1280,640,832,0,404,746,962,0,524,Trees is tall yet bare
+2315589,Animals,Animals,500,375,124,373,156,435,4,334,0,305,Animals is standing
+713612,socks,socks,683,1024,42,72,576,608,23,45,580,609,Socks is white
+2315646,Cars,Cars,500,388,64,226,436,499,0,80,440,500,Cars is in the foreground
+2315652,Buildings,Buildings,375,500,0,120,6,157,111,265,114,216,Buildings is in background
+2315668,vases,vases,500,375,30,150,53,403,143,344,116,447,Vases is shown in the photo
+2315781,giraffes,giraffes,375,500,112,266,51,333,178,382,91,330,Giraffes are the animals in this picture called
+2315797,Tracks,Tracks,322,500,148,240,252,320,0,202,215,306,Tracks is the train moving on
+2315943,Skis,Skis,500,281,84,240,446,493,113,259,417,458,Skis is on the child's feet
+2315954,tracks,tracks,332,500,96,499,179,321,365,499,252,299,Train tracks is the train on
+2316065,skates,skates,400,500,233,274,162,198,241,282,168,200,Skates is the man in the air on
+2316164,vehicles,vehicles,500,375,168,208,218,268,6,59,234,272,Vehicles is driving down the street
+2316202,horns,horns,328,500,82,97,185,200,42,67,190,220,Horns is on the cow's head
+2316231,poles,poles,375,500,276,337,145,216,136,166,200,272,Poles is the man holding
+2316240,giraffes,giraffes,500,369,0,100,49,155,154,362,57,327,Giraffes are the people looking at
+2316271,Pedestals,Pedestals,297,500,15,75,103,256,232,274,109,216,Pedestals are the children walking past
+2316404,mirrors,mirrors,333,500,322,409,100,180,63,162,42,135,Mirrors are the cross shaped images in the picture
+2316415,Bicycles,Bicycles,334,500,155,271,191,298,268,378,194,310,Bicycles are the people riding
+2316429,collar,leash,500,375,143,186,162,202,184,211,179,211,Collar and leash is around the dog's neck
+2316452,beverage,beverage,500,357,32,246,202,385,200,347,15,170,A beverage is the main subject of the photo
+2316543,lights,lights,375,500,252,301,0,56,0,116,29,81,Lights is on the ceiling
+2316547,zebras,zebras,333,500,35,212,83,331,211,460,105,300,Zebras are the animal species in the photo
+2316774,sheep,sheep,333,500,78,157,157,300,270,435,130,262,Sheep is this picture of
+2316943,ties,ties,500,333,52,109,214,304,184,205,214,305,Ties is around the women's necks
+2316973,fencing,aircraft,272,500,157,499,237,253,71,88,237,253,"People, fencing and another aircraft is on the ground"
+2317116,ramps,ramps,333,500,0,500,178,332,310,500,162,204,Riding on ramps are the people doing
+2317121,birds,birds,343,500,307,341,198,252,72,132,172,278,The birds is on the grass
+2317203,Metal,Metal,269,500,16,471,44,180,0,296,100,145,Metal are the planes made of
+2317306,motorcycles,motorcycles,333,500,234,452,122,312,120,334,120,285,Motorcycles are the people riding
+2317453,eyeglasses,eyeglasses,500,375,196,235,285,297,144,172,310,318,Eyeglasses is the man wearing on his eyes
+2317467,clock,clock,500,354,65,80,386,434,114,165,372,422,A clock is in the photo
+2317504,hand prints,hand prints,375,500,29,64,42,92,0,12,80,130,Reflection of hand prints is in the mirror
+2317547,buildings,buildings,338,500,275,498,0,202,0,274,0,135,Buildings is in the background of the photo
+2317588,wiimotes,wiimotes,500,333,208,246,220,268,64,119,152,192,Wiimotes are they holding
+2317718,Game controllers,Game controllers,331,500,334,366,194,310,115,150,271,330,Game controllers are the people holding
+2317748,Surfboards,Surfboards,375,500,249,324,221,242,306,324,128,170,Surfboards are the men riding
+2317775,planes,planes,335,500,200,405,55,159,71,227,217,302,The planes is in the sky
+2317812,motorcycles,motorcycles,333,500,4,166,51,286,101,495,66,325,Motorcycles is the subject of the photo
+2317918,laptops,laptops,332,500,29,248,59,215,181,344,89,248,Laptops is on the table
+2317962,chairs,chairs,333,500,379,423,24,79,338,380,23,80,Chairs is there to sit on
+2318019,Bus,bike lane,375,500,251,489,331,375,91,162,199,224,Bus and bike lane is written on the street
+2318103,Helmets,Helmets,500,492,239,306,19,95,324,398,43,119,Helmets are the police wearing on their heads
+2318177,oranges,oranges,375,500,165,394,157,374,98,378,0,185,The oranges is under the knife
+2318453,Wii Remotes,Wii Remotes,375,500,206,225,202,225,49,72,110,126,Wii Remotes are they holding
+2318498,tree,building,500,378,137,373,12,282,306,355,206,285,Building and tree is on the other side of the road
+2318519,signs,signs,500,459,208,304,0,76,135,168,158,218,Signs is behind them
+2318581,Phones,Phones,335,500,123,162,117,204,0,46,98,150,Phones are the girl's holding
+2318584,Giraffes,Giraffes,333,500,124,348,168,332,215,386,0,332,Giraffes is in the photo
+2318710,Giraffes,Giraffes,333,500,262,371,72,225,142,176,135,175,Giraffes is in the frame
+2318983,Surfboards,Surfboards,375,500,62,100,336,348,94,127,331,343,Surfboards are the the two people standing on
+2318995,pillows,pillows,334,500,119,161,178,214,146,171,176,213,Throw pillows is on the couch
+2319217,walls,walls,250,500,2,247,2,137,253,495,2,135,Tennis court walls is in the background of the photo
+2319471,shoes,shoes,335,500,136,183,236,264,165,198,229,261,Tennis shoes is the boy wearing on his feet
+2319516,Chains,Chains,500,333,271,329,373,409,0,194,434,478,Chains are the elephants wearing
+2319749,street signs,street signs,332,500,131,333,138,216,177,278,64,147,Street signs is on top of the stop sign
+2319828,Street signs,Street signs,237,500,230,392,23,85,270,415,118,229,Street signs is on the pole
+2319828,Buildings,Buildings,237,500,0,155,0,237,90,406,0,237,Buildings is behind the street signs
+2319941,paper,paper,375,500,211,499,58,372,71,324,11,235,Parchment paper is under the food
+2319965,plane,plane,335,500,0,500,6,270,447,500,209,233,The plane is grey
+2320052,motorcycles,motorcycles,375,500,194,347,110,344,37,190,117,290,Two motorcycles is this picture of
+2320112,planes,planes,333,500,150,261,124,193,276,365,107,182,Planes is in the sky
+2320126,shoes,shoes,500,333,157,229,353,397,209,259,347,387,Shoes is on the man's feet
+2320203,duck,duck,375,500,402,469,134,181,17,89,240,276,The duck is in the water
+2320221,trains,trains,500,333,0,255,391,434,41,239,103,149,Trains is in the picture
+2320315,horses,horses,375,500,132,342,166,330,188,360,184,313,Horses are the men riding
+2320447,house,barn,269,500,188,266,105,160,313,369,138,169,A house and barn is behind the cows
+2320603,airplanes,airplanes,333,500,164,194,37,70,398,424,41,61,Airplanes is in the sky
+2320756,handles,handles,500,375,0,60,361,401,61,147,433,486,Handles is attached to the tub
+2320791,balls,balls,500,299,92,108,361,381,111,120,364,384,Tennis balls is the woman holding in her left hand
+2320813,pads,pads,342,376,120,148,196,219,138,161,210,226,Knee pads is on the man's knees
+2320832,Ski poles,Ski poles,332,500,231,248,136,191,306,312,146,155,Ski poles is in his hands
+2320953,tracks,tracks,500,375,85,252,315,407,88,245,403,469,Tracks is below the train
+2321092,Ducks,Ducks,333,500,93,245,119,289,225,384,41,207,Ducks are these
+2321092,Shadow,Shadow,333,500,103,221,260,313,226,363,155,229,Shadow is cast
+2321121,helmets,helmets,375,500,223,270,102,141,38,88,199,249,Helmets are the men wearing
+1159692,sprinkles,doughnut,600,800,219,403,245,329,225,403,244,336,A doughnut with sprinkles is the boy eating
+2321177,tracks,tracks,375,500,0,327,232,373,0,496,206,372,Train tracks is in the foreground of the photo
+2321220,eggs,eggs,375,500,1,220,104,275,186,354,61,189,Eggs is yellow
+2321289,gloves,gloves,480,360,74,122,163,208,228,280,182,222,Gloves is he wearing on his hands
+2321333,skiing sticks,skiing sticks,375,500,250,278,173,201,285,313,159,189,Skiing sticks is he holding
+2321344,clock,street,334,500,292,347,33,98,1,393,186,331,The clock and street is the focus of the photo
+2321374,horses,horses,295,500,97,269,81,245,370,475,49,222,Horses are these
+2321379,signs,signs,375,500,435,498,166,198,471,491,223,241,Signs is hanging from the awning
+2321624,Olives,Olives,500,500,350,425,276,347,341,401,126,178,Olives is on the tomato sauce
+2321700,Horses,Horses,500,333,207,257,342,398,40,108,348,410,Horses is brown
+2321723,walls,walls,333,500,201,454,0,319,41,202,0,53,Walls is red
+2321798,horses,horses,333,500,157,384,22,212,250,459,146,273,Caring for the horses is she doing
+2321806,wood,wood,451,300,112,276,88,163,78,255,45,182,Wood is the stick on the kite made of
+2321839,bagels,bagels,375,500,324,398,156,201,146,224,185,232,Bagels are the ladies eating
+2321852,shoes,shoes,500,330,140,198,460,480,253,302,466,486,Shoes are on this guys feet
+2321927,breasts,breasts,500,334,131,163,191,221,168,198,193,220,Her breasts is she covering
+2322119,grass,grass,281,500,0,500,0,161,0,500,256,280,Grass is green
+2322207,couch,couch,500,375,0,99,153,290,0,332,303,499,Couch is tan
+2322217,Coffee,Coffee,281,500,376,394,164,169,241,246,178,184,Coffee is in the cup
+2322227,handle,hose,500,333,105,127,300,317,125,332,304,385,The handle of a hose is he holding
+2322243,wings,wings,333,500,145,282,127,229,6,227,98,206,Spreading wings is the bird doing
+2322348,toothbrushes,toothbrushes,500,375,6,237,44,499,140,351,60,491,Toothbrushes is the photo of
+2322417,animals,animals,500,335,106,246,165,295,0,334,20,497,Stuffed animals is seen in this image
+2322487,Umbrellas,Umbrellas,333,500,195,285,160,198,260,344,149,222,Umbrellas are the men holding
+2322490,Giraffes,Giraffes,500,333,0,143,120,387,119,286,213,407,Giraffes is this a picture of
+2322511,bicycle,bar,333,500,89,178,155,281,105,184,152,166,A bicycle's handle bar is the man grasping in his left hand
+2322519,parasols,parasols,319,426,318,424,160,288,0,83,163,291,Parasols are in front of the mannequins
+2322848,dog,cat,344,500,108,499,121,342,18,431,21,309,A dog and cat is in the photograph
+2322880,Mountains,Water,333,500,6,346,140,179,13,480,174,243,Water and mountains are the people looking at
+2322947,Cake,Cake,500,498,89,452,13,271,6,176,324,499,Cake is on the plate
+2322964,Flags,Flags,375,500,296,311,116,136,287,302,133,147,Flags are flying from the coast guard boat
+2323091,lamps,lamps,375,500,419,484,108,215,367,416,100,136,Lamps is on
+2323099,Bibs,Bibs,333,500,18,150,131,271,293,489,130,302,Bibs are the children wearing around their necks
+2323155,Pillows,Pillows,500,398,239,392,233,266,0,156,235,268,Pillows is at the top of the bed
+2323415,walls,walls,333,500,16,303,67,207,301,498,55,227,Walls is yellow
+2323465,jeans,t-shirt,500,333,134,205,336,500,130,213,220,353,Jeans and t-shirt is he wearing
+2323676,dog,chair,150,226,63,155,24,149,0,200,16,149,A dog in a chair is shown
+2323685,Helmets,Helmets,333,500,133,182,15,69,235,273,34,77,Helmets are the skateboarders wearing on their heads
+2323720,flowers,flowers,500,375,23,118,85,212,110,241,30,165,Flowers is in the vase
+2323762,Bicycles,Bicycles,495,500,0,304,400,494,252,499,304,494,Bicycles are these men riding
+2323819,person,kite,500,500,292,309,398,417,21,75,176,233,The person is flying a kite is the person doing
+2323860,mountains,mountains,335,500,185,489,102,119,376,500,94,115,Mountains is on the horizon
+2323889,label,wine bottle,500,333,31,122,211,345,30,126,40,464,Label on wine bottle is white
+2323943,butter,butter,375,500,352,457,27,93,330,355,194,248,Butter is the child spreading on the bread
+2323996,fruit,fruit,332,500,322,405,155,243,241,318,147,230,Fruit is on the table
+2324001,teddy bears,teddy bears,333,500,380,491,85,207,177,270,81,170,Teddy bears is sitting at the table with the people
+2324085,buildings,buildings,500,357,0,58,188,296,281,357,252,411,Buildings is in the background
+2324120,light,light,375,500,435,449,192,248,50,95,50,292,Traffic light is lit red
+2324133,Ski sticks,Ski sticks,500,333,43,88,134,367,175,266,130,360,Ski sticks is the lady holding
+2324198,lights,lights,500,333,120,143,74,80,320,331,139,144,Lights is providing light
+2324244,players,players,333,500,58,172,137,250,396,428,62,166,The baseball players are the people watching in the background
+2324256,bucket,backpack,500,375,130,246,406,497,141,243,384,467,A bucket with a backpack on top is he jumping over
+2324297,racquets,racquets,500,331,47,69,212,341,271,289,214,358,Racquets are the kids holding
+2324466,Pots,Pots,333,500,309,341,7,70,351,384,0,60,Pots is hanging
+2324504,poles,poles,467,500,199,269,132,204,262,281,344,364,Poles is the man holding
+2324594,hill,castle,500,375,0,375,98,446,73,290,123,362,Castle carved in the hill is on the left side of the horse rider
+2324622,Trees,Trees,375,500,0,211,0,135,347,498,0,95,Trees is in the top left and right corners of the photo
+2324655,plants,plants,324,500,298,407,0,162,127,288,41,179,Plants is around the train
+2324673,Luggage,Luggage,333,500,321,372,243,298,316,383,286,322,Luggage are they waiting for
+2324688,surfboards,surfboards,282,500,65,101,122,131,228,275,129,161,Surfboards are the people carrying
+2324725,Roof tops,Roof tops,375,500,101,499,288,374,340,452,240,268,Roof tops is brown
+2324786,giraffes,giraffes,333,500,250,334,145,269,77,155,182,298,Giraffes are hiding in the trees
+2324820,twigs,twigs,368,500,0,245,0,220,246,376,0,219,Twigs is in the vase
+2324820,bananas,bananas,368,500,408,435,250,280,413,455,249,281,Bananas is in bowl
+2324921,skis,skis,333,500,195,218,191,194,192,222,190,192,Skis is the 2nd person from the left wearing
+2324999,plants,plants,500,375,0,51,95,153,32,69,99,153,Plants is in pots
+2325036,Apples,Apples,500,500,25,124,177,215,1,99,215,272,Apples is in the plastic container
+2325036,Pizza,Pizza,500,500,80,285,207,326,127,256,279,369,Pizza is in the middle container
+2325126,Donuts,Donuts,333,500,164,214,201,243,269,296,161,189,Donuts are the boys eating
+2325224,birds,birds,500,333,166,285,163,272,103,227,170,374,Birds are these animals called
+2325320,airplanes,airplanes,333,500,224,277,166,184,218,288,182,201,Airplanes are flying in the sky
+2325340,Mountains,Mountains,290,500,211,498,44,191,0,347,42,172,Mountains is in the distance
+2325370,grass,dirt,333,500,190,498,268,312,211,402,303,332,Grass and dirt is on the ground
+2325392,Trees,Trees,500,333,3,55,0,320,67,327,2,467,Trees is in the background
+2325403,Tennis raquets,Tennis raquets,335,500,266,293,135,218,197,204,84,128,Tennis raquets are the men carrying
+2325470,fork,knife,331,500,161,240,27,70,133,248,13,66,The fork and knife is silver
+2325498,bears,bears,500,375,47,158,240,342,146,229,177,280,Bears are the animals in the picture
+2325609,bowls,bowls,384,500,25,233,147,315,252,486,169,320,Bowls is the food in
+2325750,He,water,333,500,284,336,113,140,0,500,0,332,The water is the man in
+2325809,Skis,Skis,333,500,297,361,179,194,243,283,180,195,Skis is skier wearing
+2325819,knight,horse,331,500,174,241,54,236,80,326,95,315,The knight on the horse is the crowd watching
+2325834,Kites,Kites,375,500,52,69,123,145,141,179,16,43,Kites are the objects in the sky
+150443,grate,grate,765,1024,552,626,47,215,652,1023,103,283,A metal grate is behind the animals
+2325940,Broccoli,Broccoli,374,500,63,238,126,272,155,288,84,258,Broccoli is green
+2325979,wii,wii,500,375,163,374,307,497,83,174,278,378,Wii are the men playing
+2326004,Pillows,Pillows,333,500,269,499,54,299,0,222,62,311,Pillows is behind the rabbit
+2326007,surfboards,surfboards,333,500,55,267,125,237,25,184,155,231,Surfboards are the people holding
+2326072,trunk,trunk,333,500,201,261,187,247,390,436,119,228,Its trunk is the elephant using to pick up its food
+2326133,flip flops,flip flops,500,333,126,145,408,423,143,159,413,425,Flip flops is on the man's feet
+2326183,whales,whales,374,500,148,223,137,158,217,263,140,165,Whales is on the tv screen
+2326190,Giraffes,Giraffes,375,500,101,498,23,373,78,499,0,216,Giraffes are these animals
+2326434,Sticks,Sticks,500,333,98,196,96,385,146,210,84,287,Sticks are the people holding
+2326448,light,headboard,333,500,406,480,164,331,406,498,148,331,The light on the headboard is making the pillows purple
+2326534,bikes,bikes,333,500,42,276,0,250,210,498,0,317,Bikes is on the street
+2326561,tracks,tracks,333,500,0,95,212,312,23,152,264,331,Tracks is this vehicle driving on
+2326564,clouds,clouds,375,500,123,258,0,44,272,350,0,39,Clouds are in the sky
+2326590,Figures of people,Figures of people,334,500,210,354,53,311,84,180,45,244,Figures of people is holding up the back of the bench
+2326609,cats,cats,196,500,12,264,44,189,229,472,8,165,Cats are they
+2326626,cones,cones,375,500,264,283,224,280,355,374,225,276,Cones is in front of the row of luggage
+2326684,vehicles,vehicles,500,333,0,140,296,383,284,332,323,399,Vehicles is the man controlling
+2326757,coats,coats,500,375,0,186,109,299,193,373,119,307,People's coats is yellow
+2326821,motorbikes,motorbikes,375,500,215,302,152,200,266,341,149,196,Motorbikes are parked on the street
+2326920,ground,grass,309,500,0,498,243,307,0,498,243,307,Grass on the ground is the giraffe standing on
+2326935,buildings,buildings,500,375,0,191,0,432,0,375,42,499,Buildings is it
+2327043,television,television,333,500,130,232,24,122,247,291,46,122,Television is attached to the wall
+2327090,boots,boots,375,500,0,95,160,303,0,121,121,261,Boots is green
+2327105,man,shirt,334,500,279,321,142,248,282,316,155,185,Man on first bikes shirt is white
+2327132,surfboards,surfboards,332,500,179,218,167,176,193,223,155,162,Surfboards are the people on
+2327241,surfboards,surfboards,333,500,287,342,215,235,284,337,212,250,Surfboards are the people carrying
+2327298,track,track,333,500,152,498,133,333,244,318,100,132,The track is the train on
+2327499,candle,holder,500,249,98,144,28,114,48,208,16,476,A candle and holder is this a photo of
+2327531,skis,skis,333,500,215,277,164,231,167,211,187,226,Skis is on the person's feet
+2327607,poles,poles,333,500,5,16,207,243,62,71,206,238,Two silver poles is the hydrant in between
+2327747,Buses,Buses,333,500,359,499,112,323,293,361,151,208,Buses is on the right
+2327761,building,clock,500,333,65,206,75,500,167,297,234,348,A building and a clock are the two main objects in this photo
+2327771,woman,cat,500,333,0,332,0,470,0,244,216,471,Woman and cat is in the photo
+2327808,trees,trees,500,375,0,85,1,409,167,288,0,412,Two trees are the animals standing between
+2327826,giraffe,boy,500,375,213,258,170,355,249,374,174,498,A boy and giraffe is pictured
+2327919,buses,buses,333,500,113,254,234,302,256,410,225,310,Buses is in front of building
+2328036,coffee,coffee,330,500,102,205,203,229,216,331,229,271,Coffee is in the coffee cups
+2328115,luggage,luggage,375,500,0,398,35,373,106,498,0,217,Luggage are the two objects in the foreground
+2328147,giraffe,giraffe,334,500,187,479,96,264,8,230,26,266,Giraffe is brown and beige
+2328163,planes,planes,333,500,170,268,127,161,244,326,155,192,Planes is in the sky
+2328418,Soccer fields,Soccer fields,211,500,122,265,33,54,340,420,38,53,Soccer fields are in the distance
+2328467,cheese,cheese,500,375,133,231,183,249,238,278,175,210,Cheese is on the pizza
+2328560,giraffes,giraffes,357,500,101,498,19,356,122,448,117,356,Giraffes at the zoo is the focus
+2328566,he,guitar,477,500,267,409,234,436,246,375,275,340,He is holding a guitar is this man holding in this picture
+2328567,bicycle,marina,500,375,89,337,257,485,1,375,37,499,A bicycle and a marina is in this picture
+2328623,Zebras,Zebras,375,500,0,388,79,372,79,418,112,341,Zebras are these animals
+2328624,gazebos,gazebos,333,500,221,249,71,101,356,401,73,105,Gazebos are the round domed structures
+2328646,trees,trees,375,500,0,241,0,375,261,499,0,375,Trees is in front of the elephant
+2328733,collar,tag,500,333,82,226,119,227,209,225,183,225,A collar with a tag is on the dog's neck
+2328874,Pillows,Pillows,375,500,20,183,55,114,175,316,43,96,Pillows is on the bed
+2328985,weight machine,weight machine,333,500,148,371,127,253,456,498,118,177,Weight machine is on the table
+2329099,tusks,tusks,330,500,221,264,244,273,287,328,248,271,Elephant's tusks is white
+2329139,man,shirt,500,332,135,331,56,498,128,331,155,349,Man's shirt is red
+2329462,signs,signs,500,334,110,157,53,86,163,194,9,42,Signs are the tall poles on the sidewalk
+2329671,boards,boards,333,500,48,192,204,312,313,484,289,304,Body boards are the people carrying
+2329701,earrings,earrings,500,500,164,179,327,354,408,439,339,370,Earrings is the woman wearing in her ears
+2329707,faucets,faucets,331,500,104,128,233,269,239,269,212,236,Faucets are the silver things coming out of the wall over the sinks
+2329843,Coasters,Coasters,357,500,259,419,24,314,25,219,60,356,Coasters is on the table
+2329893,Sneakers,Sneakers,500,333,88,184,229,289,144,214,212,250,Sneakers is the skateboarder wearing on his feet
+2329935,Tennis,player,500,334,101,119,93,113,107,257,155,456,Tennis player is the picture
+2329935,Tennis,racket,500,334,101,119,93,113,105,163,116,192,Tennis racket is the woman holding
+2330059,gloves,gloves,375,500,273,298,210,236,227,237,221,247,Gloves is on the skier's hands
+2330261,soup,soup,374,500,42,207,175,279,149,245,52,88,Soup is in the bowls
+2330323,passes,passes,375,500,195,219,284,297,179,205,281,290,Lanyards with passes are the blue things on the bed
+2330445,fruit,plate,374,500,120,171,231,279,52,457,29,372,The fruit on the plate is red
+2330483,tusks,tusks,282,500,210,216,165,206,166,181,161,198,Tusks are the white things on the animal
+2330507,Towel,Towel,500,374,9,129,87,422,0,119,78,361,Towel is yellow
+2330507,Shoes,Shoes,500,374,144,199,397,480,55,129,403,452,Shoes is white
+2330535,ossicones,ossicones,331,500,318,349,27,51,246,274,18,57,Ossicones are the protrusions on top of the giraffe's head
+2330597,jeans,shirt,500,332,0,113,221,462,0,95,67,224,A shirt and jeans is the man wearing
+2330696,hands,hands,281,500,276,306,181,211,284,305,182,199,Shaking hands are they doing
+2330698,helmets,helmets,331,500,88,118,113,147,339,372,161,195,Baseball helmets is on the players heads
+2330730,Vases,Vases,333,500,203,292,128,198,380,493,77,209,Vases are the objects
+2331136,Tusks,Tusks,500,375,99,113,321,495,173,203,319,494,Tusks are the white things coming from the elephant's mouth
+2331327,motorbikes,motorbikes,334,500,107,192,104,196,175,304,93,216,Motorbikes are the bikers riding
+2331346,Cell Phones,Cell Phones,375,500,272,333,152,256,173,232,88,267,Cell Phones is on the quilt
+2331355,rack,table,500,375,53,373,62,472,1,373,0,498,A cooling rack and table are the cakes sitting on
+2331374,wood,wood,400,500,343,479,152,306,19,203,156,282,Wood is the material of the benches
+2331380,trees,trees,500,375,0,163,0,213,118,373,0,235,Trees is in the background
+2331486,trains,trains,262,500,263,433,116,205,85,260,99,214,Trains is on the tracks
+2331505,potatoes,potatoes,500,480,265,479,45,287,309,477,277,391,Mashed potatoes is on the plate
+2331509,phone,map,332,500,139,305,136,330,195,431,56,330,Map and phone is the man holding
+2331509,lines,places,332,500,195,431,56,330,195,431,56,330,Lines and places is on the map
+2331528,lips,lips,500,375,167,183,150,153,166,185,152,158,Putting something on her lips is the woman doing
+2331546,Controllers,Controllers,375,500,94,113,180,232,332,376,199,217,Controllers are they boys holding
+2331654,trees,trees,375,500,4,334,204,374,287,449,115,283,The trees is green
+2331695,bottles,bottles,333,500,276,293,269,320,261,277,266,316,Water bottles is in between the player's feet
+2331701,Skateboards,Skateboards,500,358,102,205,279,338,20,125,270,304,Skateboards are they standing on
+2331712,computers,computers,375,500,305,462,277,373,95,261,296,373,Computers is on the table
+2331862,elephants,elephants,331,500,71,267,81,275,256,432,90,264,Elephants are these animals
+2331862,tail,tail,331,500,77,106,146,224,402,437,145,257,Tail is on their backside
+2331902,bun,bun,500,500,273,475,40,213,254,499,255,450,Hamburger bun is burnt
+2332064,birds,birds,331,500,337,498,13,329,0,236,62,331,Birds are the images
+2332166,hats,hats,375,500,93,164,84,154,321,361,148,180,Hats is white
+2332171,zebras,zebras,296,500,182,214,133,188,234,303,127,182,Zebras is pictured
+2332215,bags,bags,239,500,179,199,183,208,255,269,178,197,Bags is red
+2332303,Planes,Planes,332,500,365,499,97,236,0,406,80,235,Planes is in the yard
+2332397,helmets,helmets,375,500,248,269,240,252,212,233,240,255,Helmets are on the men's heads in the front
+2332401,onions,onions,375,500,290,363,84,142,235,290,100,151,Bulb onions is next to the garlic
+2332415,rackets,rackets,500,375,62,167,276,497,199,321,337,500,Tennis rackets are both of them holding
+2332428,Pictures,clock,375,500,209,239,111,144,408,473,54,136,Pictures and a clock is on the wall
+2332535,sea,sky,334,500,0,500,121,192,0,500,0,123,Sky and sea is in the background of the picture
+2332634,juice,juice,375,500,26,88,168,275,123,169,301,374,Orange juice is in the glasses
+2332672,mountains,mountains,334,500,0,334,169,218,397,500,183,211,Mountains is in the far distance
+2332690,boats,boats,375,500,215,288,90,135,198,430,121,328,The boats is on the mud
+2332708,sheep,sheep,500,332,121,331,152,462,29,331,8,245,Sheep is in the picture
+2332776,mountain,building,375,500,187,499,260,373,69,188,118,374,A mountain and building is in the background
+2332791,Mammals,Mammals,332,500,144,259,12,331,230,390,65,330,Mammals are giraffes
+497924,headlights,headlights,642,1024,668,675,340,345,719,724,339,344,The headlights are the brightest objects on the train
+497924,trees,trees,642,1024,0,137,242,565,137,299,293,463,Trees are without leaves
+497926,handlebars,handlebars,768,1024,293,743,308,588,220,370,0,297,Handlebars is boy trying to reach
+497930,bus,truck,768,1024,255,822,117,593,173,237,335,395,A bus and a truck is on the street
+497938,skis,skis,768,1024,257,670,674,688,303,680,634,687,Skis is the person on
+497939,Togas,Togas,681,1024,764,922,245,379,154,268,261,353,Togas are the statues wearing
+497958,plane,smoke,682,1024,36,996,159,461,702,826,430,455,There is smoke because the plane is landing is coming off the wheels of the plane
+497958,metallic towers,metallic towers,682,1024,623,644,2,221,172,194,58,240,There are two metallic towers in the image are in the image near the taxiway
+2332967,flowers,flowers,375,500,131,308,14,231,290,462,0,253,Flowers is in the vase
+2332971,surfboard,surfboard,334,500,40,98,256,276,51,94,222,243,A surfboard is the person carrying
+497970,lights,lights,681,1024,578,598,417,437,441,465,588,608,Little lights are on the aircraft wings
+497970,snow,snow,681,1024,108,1022,179,375,46,1022,587,679,Snow is on the tarmac and runway
+497973,shirt,shorts,768,1024,412,478,385,479,425,483,455,592,A tie-dye shirt and camouflage shorts is the chubby child wearing
+497982,they,they,683,1024,143,283,344,634,433,567,156,524,They are skiing at a snow resort are the men doing
+498023,trees,trees,683,1024,736,913,0,679,401,548,0,641,Trees are those shadows of
+498025,it,rays,768,1024,0,1022,543,761,147,423,712,766,It has a pattern of rays is the pattern of the table
+498045,streetlights,streetlights,572,1024,845,889,317,352,403,426,372,395,Bright streetlights is lining the roadway
+2333065,buses,buses,281,500,63,273,52,229,229,488,62,224,Buses are these
+498090,oxen,oxen,683,1024,586,860,492,681,671,910,451,557,An oxen is pulling a buggy
+498102,man,phone,1024,768,245,509,122,1030,314,364,229,261,Holding up the phone for the man is the lady in red doing
+498125,wal-mart,truck,768,1024,224,265,336,355,216,347,320,384,A semi truck with wal-mart written on it is in the background
+498132,signs,signs,768,1024,230,354,261,483,355,548,193,477,Signs is stuck in the dirt
+2333152,signs,signs,375,500,95,257,160,225,277,339,201,259,Street signs is shown in the picture
+498154,skis,skis,1024,768,196,376,760,852,371,535,761,891,Skis is the man wearing on his feet
+498154,hat,goggles,1024,768,319,367,395,443,319,363,395,421,A hat with goggles is the young man wearing on his head
+498166,palm trees,palm trees,681,1024,919,1023,118,226,833,877,230,284,Palm trees is the wind blowing in the background
+498199,buildings,buildings,996,1024,318,1028,0,798,0,322,0,796,Buildings is overshadowing the tower
+498200,faucet,showerhead,1024,667,303,340,563,612,276,325,207,250,The bathtub faucet and showerhead is made of metal
+498200,Shelves,grab bar,1024,667,26,153,583,667,160,259,566,693,Shelves and grab bar is on the bathtub
+498223,shorts,shorts,960,1280,96,546,739,956,660,1183,724,947,Camouflage shorts are the children wearing
+498244,vehicles,vehicles,768,1024,130,764,181,591,551,1021,255,571,Two vehicles are going the same way
+2333268,man,snowboard,500,333,216,296,190,272,228,264,231,285,A man on a red snowboard is this picture showing
+2333273,lights,lights,343,500,245,270,176,202,130,156,173,199,Lights is orange
+498274,number,website url,765,1024,765,871,484,542,721,917,500,592,Telephone number and website url is printed on the ice cream truck
+498274,jacket,braids,765,1024,40,242,388,642,12,130,290,538,A green jacket and long braids is one women in line wear
+498276,lights,lights,821,1024,162,222,203,285,222,283,197,279,Lights is next to the chair
+498296,Hats,Hats,819,1024,28,156,153,257,616,728,0,76,Hats are the men wearing on their heads
+498117,wii,wii,1280,960,261,482,630,959,261,482,630,959,Playing wii are the people doing
+498338,Silver outfits,Silver outfits,682,1024,516,966,273,678,2,539,191,679,Silver outfits are they wearing
+498338,people,people,682,1024,498,966,51,678,8,531,106,678,The hair of the young people are colored blue and green
+498338,Wigs,Wigs,682,1024,502,733,53,335,212,537,108,678,Wigs are the couple wearing on their heads
+498344,wetsuits,wetsuits,768,1024,0,432,197,693,645,1021,270,764,Black wetsuits are both divers wearing
+498344,Scuba equipment,Scuba equipment,768,1024,26,374,144,626,677,1023,212,764,Scuba equipment are the men wearing
+498348,pavements,pavements,1024,768,1,766,398,527,420,766,307,399,Two different pavements is the road made of
+498355,knife,fork,1024,683,179,228,304,522,529,597,335,514,Plastic fork and knife is white
+498361,trains,trains,768,1024,505,1023,210,550,22,615,197,592,Two trains is parked
+2333386,hands,hands,333,500,298,317,146,158,296,319,89,103,Her hands is the woman holding up in the air
+498386,Bicycles,Bicycles,685,1024,323,397,405,458,444,526,364,432,Bicycles are the males in blue riding
+498394,paint,road,1024,768,94,117,761,772,0,383,645,1025,The yellow paint on road is faded
+498404,headlights,headlights,612,612,320,341,373,390,240,258,375,392,Train headlights is on
+498410,metal,metal,683,1024,77,191,0,421,912,972,0,333,Metal is the counter made of
+498410,cook,women,683,1024,239,512,53,362,637,872,61,347,Women cooking is this a picture of
+2333425,stickers,stickers,500,375,170,230,125,248,176,220,263,341,Stickers is on the parking meter
+498131,vase,water,768,1024,475,616,485,749,475,549,671,745,The water in the flower vase is dirty and murky
+2333445,plates,plates,333,500,40,224,232,294,124,318,264,331,Plates is meal served on
+2333493,Elephants,Elephants,456,500,0,123,72,367,234,477,67,414,Elephants is there
+2333518,eggs,eggs,369,500,132,165,273,296,177,207,276,309,Eggs is she cooking
+2333639,chocolate,chocolate,375,500,68,233,141,292,233,395,120,282,White chocolate is white all over the candies
+2333640,snowboards,snowboards,333,500,140,204,220,240,127,201,145,160,Snowboards are they standing on
+2333771,horses,horses,500,500,43,92,35,121,93,146,37,123,Horses are the men riding in the background
+498202,lanterns,lanterns,531,800,393,461,32,105,672,752,10,84,Chinese lanterns is hanging outside the building's entrance
+2333918,traffic lights,traffic lights,262,500,1,265,0,260,369,498,104,260,Traffic lights is this picture of
+2333948,lights,lights,333,500,203,211,244,252,240,247,248,255,Traffic lights is red in the picture
+2333983,Cats,Cats,334,500,364,428,211,293,55,127,170,219,Cats are the animals on the ground
+498235,Computers,Computers,683,1024,538,748,244,395,183,466,314,516,Computers are the guys looking at
+498235,Coke,water,683,1024,734,776,264,404,348,405,287,468,Coke and water are the drinks on the table
+2334225,poles,poles,375,500,258,290,168,302,247,266,167,246,Poles is he holding
+2334242,hats,hats,358,500,266,299,156,173,330,357,140,157,Hats are the men wearing on the heads
+2334287,elephant,elephant,375,500,143,437,214,338,84,433,8,314,Two elephants is the photo of
+2334336,fence,fire hydrant,375,500,0,500,0,192,156,326,53,370,A fire hydrant and fence is in the photo
+2334337,toaster,cat,423,500,78,404,175,406,16,490,30,399,A cat and a toaster is in the photo
+2334375,collar,leash,375,500,63,148,265,323,0,66,292,374,Collar and leash is around the dog's neck
+2334381,Bread,Bread,332,500,186,339,135,185,229,382,80,153,Bread is on top of the meat
+2334460,Skateboards,Skateboards,333,500,176,236,237,279,365,392,218,235,Skateboards are the people riding
+498306,gloves,gloves,681,1024,441,585,38,90,438,568,55,153,Gloves is he wearing on his hands
+2334596,computers,computers,375,500,220,302,143,214,135,188,176,231,Computers is on the table
+2334643,People,People,500,375,0,373,73,382,0,210,354,491,People eating is this a photo of
+2334659,men,men,375,500,116,223,58,374,288,386,103,373,Two men walking is the picture showing
+2334689,Cows,Cows,500,375,85,362,75,500,33,168,40,179,Cows is present
+2334689,Animals,Animals,500,375,85,362,75,500,33,168,40,179,Animals are they
+2334695,hills,hills,339,500,0,79,102,152,43,166,99,149,Hills is in the distance
+2334696,wings,wings,375,500,134,213,191,212,218,274,195,215,Wings are the projections from the center of the airplane
+2334703,Pants,Pants,376,500,174,341,180,282,163,363,224,303,Pants is blue
+2334740,horse,carriage,333,500,238,363,122,332,114,299,44,315,A horse and carriage is in the picture
+2334757,faces,faces,375,500,311,377,232,302,232,288,70,130,Their faces is blurry
+2334849,wheels,wheels,377,500,149,263,252,375,247,348,227,338,Wheels is on the edges of the bench
+498379,Cabin,boat,768,1024,671,779,430,466,492,822,432,546,Cabin of boat is painted orange
+2335147,giraffe,giraffe,375,500,106,292,65,356,188,284,97,354,Giraffe are the two animals in the picture
+2335163,Statues,Statues,333,500,324,347,182,222,95,105,197,222,Statues is on either side of the building
+2335223,flip flops,flip flops,350,500,190,223,206,218,165,185,260,272,Flip flops is the man wearing on his feet
+2335246,equipment,equipment,500,431,15,431,342,497,348,430,0,125,Computer equipment is on the wood
+2335289,clothes,clothes,500,363,51,244,262,498,225,359,290,500,Clothes are the people wearing
+2335298,Lights,Lights,333,500,386,464,128,188,221,258,102,122,Lights is turned on
+2335348,buses,buses,375,500,0,136,246,328,230,390,248,323,Buses is parked on the side of the road
+2335466,pillows,pillows,500,500,0,164,317,447,108,352,275,425,"Pillows is on the bed, besides the cat"
+2335481,buses,buses,375,500,66,416,36,230,393,501,44,214,Buses is in the photo
+2335524,bushes,bushes,375,500,338,499,0,305,0,249,0,375,Bushes is along the trail
+2335570,horses,horses,500,500,242,324,243,405,118,227,238,401,Riding horses are the two men in yellow jackets doing
+2335605,lights,lights,375,500,409,431,83,110,230,257,6,44,Lights is on the ceiling
+2335626,buses,buses,375,500,64,444,121,274,0,67,136,218,Buses is parked in the street
+2335725,laptops,laptops,375,500,0,306,71,343,221,494,69,285,The laptops is on the table
+2335863,Skis,Skis,500,478,205,352,380,457,336,446,357,427,Skis is the person standing on
+2335871,walls,walls,500,333,0,118,53,353,126,331,61,293,Walls is white
+2335910,plates,plates,375,500,0,259,1,68,0,499,119,374,The plates is white
+2335910,plates,plates,375,500,0,259,1,68,0,499,119,374,Plates is round
+2335921,horse,man,370,500,0,359,95,370,188,300,17,289,The man is riding the horse is the man doing
+2336025,Gloves,Gloves,449,500,246,379,202,294,83,154,68,119,Gloves are they wearing
+2336034,clocks,clocks,374,500,31,201,202,374,162,343,0,360,Clocks is on the building
+2336067,paws,paws,378,500,213,238,211,237,345,410,119,154,His paws is white
+2336080,laptop,laptop,333,500,195,342,136,254,16,236,117,309,Laptops is on the desk
+107910,fruit,she,742,1024,278,436,273,345,337,750,0,635,She is handing out fruit is the woman handing out
+107912,board,paddle,583,1024,595,871,295,371,721,785,224,376,A board and paddle is the man carrying
+107916,Speakers,Speakers,683,1024,614,655,345,423,673,812,396,527,Speakers is black under the desk
+107932,wood,wood,684,1024,644,703,544,682,877,1019,586,683,Wood is the table made of
+107947,7348,7348,678,1024,389,406,435,445,428,450,435,445,7348 is the number
+107978,microwave,oven,1024,681,364,522,337,451,364,516,446,599,The microwave and the oven are built into the cabinets
+2336354,flags,flags,375,500,80,133,147,220,8,44,193,224,Flags is on the back of the train
+2336411,Zebras,Zebras,500,334,19,267,38,453,157,201,0,47,Zebras is the subject of the picture
+2336456,helmets,helmets,332,500,339,372,0,20,374,402,0,19,Helmets are the men wearing
+2336483,Glasses,Glasses,500,500,66,89,158,165,381,406,149,160,Glasses is covering their eyes
+2336491,bags,bags,342,500,120,226,206,342,425,473,208,342,Bags are the woman holding
+2336526,controllers,controllers,333,500,129,300,102,224,322,422,117,243,Controllers are the men holding
+2336577,tusks,tusks,335,500,296,329,172,217,347,369,203,224,Tusks are the two white things protruding from the elephants' mouth
+2336581,bananas,bananas,500,324,136,163,59,97,186,216,321,351,Eating bananas is the woman on top doing
+2336765,boats,boats,333,500,169,232,61,145,307,416,113,131,Boats is in the water
+2336770,chopsticks,chopsticks,500,334,0,180,166,309,0,202,156,330,Chopsticks are the round wooden utensils
+2336801,hydrants,hydrants,375,500,264,448,151,252,166,195,166,230,Hydrants are the yellow objects
+2336841,giraffes,giraffes,329,500,125,271,14,328,80,186,189,327,Watching the giraffes are the people doing
+2336853,trees,trees,375,500,1,253,0,296,252,498,0,227,Trees is reflected in the water
+2336949,wetsuits,wetsuits,500,500,305,440,198,343,116,226,226,356,Wetsuits are the two people wearing
+2336993,skis,skis,500,375,164,270,321,391,186,250,301,360,Skis is the child wearing on his feet
+2336993,poles,poles,500,375,146,170,215,339,247,280,221,320,Ski poles is the child holding
+2337141,hills,hills,333,500,0,219,199,261,219,498,213,269,The hills is in the background
+2337176,skis,skis,333,500,298,399,211,226,232,300,216,229,Skis is on the person's feet
+2337177,toothpicks,toothpicks,500,500,245,267,107,157,137,174,190,250,Toothpicks is stuck in the sandwich
+2337191,horses,horses,500,333,14,300,210,494,127,331,156,498,Horses is in the picture
+2337382,Pads,Pads,335,500,275,308,102,129,310,321,143,153,Pads is on the man's arms
+2337423,glasses,glasses,375,500,312,488,80,374,0,244,66,374,Glasses are the players both wearing
+2337557,birds,birds,375,500,135,169,164,222,355,383,148,207,Birds is sitting on the bench
+2337714,skis,skis,375,500,155,182,267,283,174,196,261,280,Skis is on their feet
+2337727,stickers,stickers,500,500,246,286,198,240,158,208,116,156,Stickers are on the bananas
+2337748,bikes,bikes,333,500,171,428,30,286,124,362,64,317,Bikes is pictured
+2337763,food,food,334,500,203,308,252,326,58,161,246,318,Food is on the plate
+2337766,horses,horses,360,500,121,348,18,328,247,466,32,326,Horses is brown
+2337814,socks,socks,500,375,60,101,302,336,111,142,299,333,Socks is inside the young boy's shoes
+2337822,bottles,bottles,334,500,52,90,132,210,19,50,120,199,Two bottles is on the table on the far left of the photo
+2337908,boots,boots,493,500,140,210,340,474,406,457,369,490,Riding boots is on the girls feet
+1592343,something,oven,683,1024,109,355,443,523,209,755,233,476,Making something to put in an oven is he doing
+2338219,shoes,shoes,375,500,206,256,255,284,327,379,247,276,Tying shoes is he doing
+2338219,sneakers,sneakers,375,500,206,256,255,284,327,379,247,276,Sneakers is she wearing
+2338233,cows,cows,500,333,134,187,365,440,247,297,362,394,Cows is pictured
+2338321,cows,cows,335,500,95,361,134,258,21,175,0,51,Cows is in the picture
+2338334,rocks,rocks,334,500,76,281,202,332,276,436,200,321,Painted rocks is in the garden
+2338446,poles,poles,500,500,424,477,143,150,338,385,58,73,Ski poles is the skier holding
+2338528,hand,camera,334,500,423,499,75,178,425,474,79,128,Hand with camera is beside her head
+2338540,suitcases,suitcases,500,333,0,333,160,500,0,333,0,257,Suitcases are the subjects of this photograph
+2338567,remotes,remotes,375,500,295,315,195,233,164,179,263,299,Game remotes is in the lady's hands
+2338620,engines,engines,333,500,209,259,161,200,60,110,163,203,Engines are the round tubes attached under the wings
+2338631,Gloves,Gloves,282,500,279,295,128,145,354,364,139,148,Gloves is the wearing on her hands
+2338631,Ski poles,Ski poles,282,500,211,284,140,200,284,357,142,186,Ski poles is in the person's hands
+2338670,mountains,grass,333,500,0,498,12,332,0,496,34,332,Mountains and grass are the structures in the background of the photo
+2338684,horse,horse,500,332,69,264,233,437,0,100,272,376,A horse is the man riding
+2338684,Horse,Horse,500,332,69,264,233,437,0,100,272,376,Horse is the animal called
+2338752,cats,cats,375,500,280,467,191,301,48,229,43,135,Cats is gray
+1159258,pad,mouse,576,1024,564,856,402,530,628,678,414,458,Mouse pad is underneath the mouse
+1159264,Surfboards,Surfboards,670,1000,142,406,231,288,490,651,248,299,Surfboards are on the surfers head
+1159265,hurdle,hurdle,683,1024,131,1023,306,674,12,1022,357,681,Jump over the hurdle is the horse about to do
+1159293,chairs,chairs,768,1024,521,795,506,766,782,964,430,683,Two chairs is antique
+1159307,Packing tape,dispenser,768,1024,690,775,306,398,705,769,260,362,Packing tape in a red dispenser is next to the scissors
+1159333,traffic cones,traffic cones,1024,685,566,600,794,891,620,654,817,886,Traffic cones is red and white
+2339006,Stone wall,tree,500,357,0,357,51,378,25,357,0,104,Stone wall and tree is in the background
+1159363,Skateboards,Skateboards,612,612,191,283,245,525,566,609,378,410,Skateboards are these kids playing with
+2339023,wood,wood,375,500,201,242,0,174,387,499,82,286,Wood are the sticks made of
+1159387,shoes,shoes,681,1024,593,624,446,479,680,730,431,461,Shoes is brown
+1159414,stalls,stalls,678,1024,550,678,405,451,342,468,409,462,Choir stalls is empty
+1159428,bags,bags,768,1024,12,94,434,540,313,384,411,530,Plastic bags are a few men carrying
+2339081,tires,tires,333,500,86,106,64,82,242,279,135,164,Tires is black
+1159442,bikes,bikes,768,1024,413,456,282,328,359,402,309,349,Several Bikes are parked along the road
+1159445,stroller,street,679,1024,820,1005,227,461,0,1023,348,423,Pushing a stroller down the street is the person doing
+1159462,animals,animals,1024,700,335,538,374,611,40,251,723,1022,Stuffed animals are the girls holding
+1159462,animals,animals,1024,700,335,538,374,611,40,251,723,1022,Stuffed animals are the children holding
+1159471,trains,trains,598,1024,613,1022,224,536,1,551,242,435,Trains is parallel to each other
+1159481,babies,babies,683,1024,400,488,298,441,519,634,256,430,Babies are the men holding
+2339132,toilets,toilets,375,500,278,460,161,373,123,290,107,332,Two toilets is the picture showing
+1159547,91,95,768,1024,812,826,353,366,811,826,382,395,Routes 91 and 95 are there signs for
+1159557,couch,couch,685,1024,772,1022,368,686,0,442,440,682,A couch are the pillows on
+2339206,Animals,Animals,375,500,50,145,224,346,415,489,152,232,Animals is present
+1159568,head,arm,683,1024,548,583,381,402,529,550,394,433,Resting their head against their arm is the person on the left doing
+1159568,they,they,683,1024,697,854,203,375,179,327,189,278,They are extra bike tires are the tires for
+1159570,stairs,stairs,480,640,486,637,143,225,438,629,54,168,Marble covered stairs is to the right of the fruit display
+1159570,Steps,Steps,480,640,486,637,143,225,438,629,54,168,Steps is marble
+1159585,field,grass,759,1024,1,1018,238,759,0,1025,239,334,A field with a grass border are the players playing on
+1159592,fork,knife,768,1024,176,470,538,736,214,547,585,761,A fork and knife are all plates accompanied with
+1159599,Suitcases,suitcase,800,600,308,593,486,606,301,599,384,486,Two top suitcases is brown leather
+1159599,cups,cups,800,600,150,291,261,448,363,431,227,383,Silver trophy cups is reflecting in the glass
+2339248,arrows logo,arrows logo,332,500,168,202,129,146,163,198,145,163,A two black arrows logo is on his surfboard
+1159618,truck,shop,768,1024,36,338,420,596,0,238,334,518,Truck passing the coffee shop is black
+1159633,boats,boats,768,1024,522,721,185,212,389,447,198,207,Several more boats is on the the other side of the river
+1159637,they,they,960,1280,313,561,388,852,548,817,400,967,They are playing a Nintendo Wii are the people in the center doing
+1159676,man,kite,768,1024,439,780,201,531,231,828,319,636,A man and a kite is this a picture of
+1159689,copper dome turrets,copper dome turrets,1024,680,162,293,137,258,317,454,158,263,Copper dome turrets are the buildings topped with
+1159690,monitor,laptop,683,1024,427,782,166,423,630,1002,287,655,A monitor and laptop is on the desktop
+2339357,meters,meters,335,500,48,234,27,242,235,421,24,241,Parking meters is in the picture
+2339363,helmets,helmets,333,500,175,202,137,153,310,324,118,133,Helmets are the skiers wearing on their head
+1159723,shirt,shorts,768,1024,283,361,361,499,285,352,490,607,A black shirt and black shorts is the skateboarder on the left wearing
+2339395,doughnuts,doughnuts,500,375,187,274,332,402,110,188,333,387,Doughnuts is the man eating
+1159767,rail,rail,683,1024,885,1022,178,436,0,446,172,291,Rail is on the wall
+2339423,chair,cushion,333,500,0,283,100,333,12,275,90,330,A wood chair with cushion is he sitting on
+1159793,curtains,curtains,768,1024,291,428,0,419,547,676,0,403,Curtains is hanging from the window
+2339456,poles,poles,375,500,238,253,208,374,316,331,206,373,Poles are the signs on
+1159812,Traffic lights,Traffic lights,960,1280,75,97,97,119,286,306,110,130,Traffic lights is lit up
+1159814,Wet suit,Wet suit,683,1024,739,856,326,611,547,650,338,602,Wet suit is black
+2339475,shirt,shorts,500,500,198,255,155,231,193,245,221,281,A black shirt and shorts is the skateboarder wearing
+2339510,gloves,gloves,500,346,248,287,276,293,223,286,310,391,Gloves is the man wearing on his hands
+1159871,sparse plants,sparse plants,768,1024,677,804,407,587,579,650,368,488,Sparse plants in planters is lining the walkway
+1159885,shoes,shoes,1024,681,127,246,619,664,155,246,674,721,Girl's shoes is white
+1159891,buses,buses,719,1024,164,345,242,476,340,633,180,499,Two buses is parallel to each other
+1159905,socks,socks,768,1024,30,156,38,193,162,280,15,149,Socks are thrown over the back of one chair
+1159905,chairs,chairs,768,1024,0,333,19,242,413,637,0,184,Chairs is wood
+1159907,mug,bowl,685,1024,163,289,446,594,218,342,422,511,A mug and a bowl is on the desk
+2339560,birds,birds,332,500,152,257,101,133,227,318,78,142,Birds is on the water
+1159913,controller,controller,683,1024,323,371,552,590,470,528,442,682,A video game controller is the laughing man holding
+1159932,her,phone,670,1024,525,679,453,668,527,571,535,577,Her phone is the lady in yellow holding
+1159932,sign,letters,670,1024,651,721,337,420,664,701,362,396,A sign with lighted letters is the elephant wearing on it's head
+1159935,shadows,shadows,768,1024,58,955,564,761,0,96,470,571,Shadows is cast onto the floor
+1159964,sleeves,sleeves,1200,799,0,302,358,898,440,790,314,864,The sleeves is flowy on the the man's shirt
+1159988,notebooks,Books,768,1024,263,343,119,214,302,394,99,212,Books and notebooks is lined on the shelf of the desk
+1159999,cup,blender,802,1024,584,738,439,583,569,1005,36,796,Blender with water and cup is in an office
+1160000,Vehicles,Vehicles,768,1024,848,920,310,361,956,1021,316,359,Vehicles is in the distance
+2339649,cell phones,cell phones,375,500,165,181,217,247,159,216,256,298,Cell phones are in the people's hands
+2339668,glasses,glasses,500,332,93,118,301,315,150,180,254,269,Glasses are both boys wearing on their faces
+1160046,windows,windows,684,1024,658,712,460,501,722,778,458,499,Windows is in the front of the train
+1160053,bus,head,768,1024,128,730,94,502,277,310,226,268,Hanging his head out of the bus is the man doing
+1160069,t-shirt,jeans,535,800,376,448,222,325,369,439,317,430,Red t-shirt and jeans is the man pushing the cart wearing
+1160077,blocks,blocks,683,1024,203,344,373,427,493,634,353,384,Large blocks are the plane's wheels resting on
+1160084,cats,cats,681,1024,481,723,438,683,116,373,462,598,One of the cats is looking into the camera
+1160084,cats,cats,681,1024,481,723,438,683,116,373,462,598,Two cats is laying on top of the bedspread
+1160094,yellow lines,yellow lines,768,1024,449,830,462,762,485,842,459,763,White and yellow lines are on the street
+1160097,hats,hats,600,800,409,479,96,145,278,348,92,145,Hats are some of the diners wearing
+1160099,clocks,clocks,762,1024,551,677,90,214,259,456,1,138,Clocks is on the walls
+1160101,gloves,gloves,768,1024,344,364,425,451,307,332,422,447,Light blue gloves is the skier on the far left wearing on his hands
+1160105,Line,ground,768,1024,46,147,343,760,0,411,361,765,Line on ground is yellow
+1160107,skis,skis,1024,685,268,297,641,918,481,507,680,917,Their skis are the children holding
+1160107,tag,jacket,1024,685,383,401,653,676,319,471,575,724,Tag on jacket is yellow
+1160120,compact,compact,685,1024,485,555,577,605,365,464,634,677,"""compact"" are the parking spaces labeled"
+1160121,doors,doors,683,1024,108,182,100,367,8,92,96,372,2 large glass double doors is in the back of the room
+2339771,skis,skis,500,366,20,273,158,338,29,301,211,358,Skis is the person wearing on his or her feet
+1160133,flops,flops,684,1024,414,464,628,682,509,555,634,680,Flip flops is the man in blue wearing for shoes
+1160140,curbs,curbs,768,1024,592,844,492,768,0,582,481,576,Curbs is painted yellow
+1160141,seat,bike,533,800,236,388,248,322,0,799,201,531,Seat on bike is green
+1160141,shoes,shoes,533,800,340,454,471,514,432,502,442,492,Shoes is pink
+1160168,trains,trains,768,1024,277,471,201,618,534,686,203,403,Trains are the things on the tracks
+1160212,Lifeboats,Lifeboats,685,1024,0,436,358,556,595,699,312,378,Lifeboats are behind the people
+2339888,skis,skis,363,500,212,227,165,320,67,209,286,314,Skis is on the person's feet
+2339899,skis,skis,375,500,168,490,85,197,38,437,120,145,Skis is the woman holding
+2340193,man,kite,375,500,58,160,184,373,374,391,41,76,A man flying kite is this a photo of
+2340226,bread,bread,333,500,207,364,10,77,23,211,11,77,Loaves of bread is on top of the oven
+2340305,geese,geese,326,500,131,345,94,325,303,458,65,287,Geese are these
+2340308,Tea,Tea,500,500,356,456,89,144,322,404,0,25,Tea is in the mug
+2340418,Flowers,Flowers,331,500,137,437,45,330,174,315,0,95,Flowers is pink
+2340517,masks,masks,333,500,105,226,41,173,316,358,47,120,Masks are they wearing
+2340517,scissors,scissors,333,500,185,312,245,309,306,357,170,199,Scissors are they holding
+2340553,animals,animals,309,500,343,494,92,229,86,359,95,272,Animals is the subject of the photo
+2340582,Skis,Skis,375,500,107,192,298,374,134,388,293,374,Skis is on the girl's feet
+2340745,Magnets,Magnets,375,500,8,34,82,108,0,7,74,95,Magnets is on the fridge
+2340753,Wetsuits,Wetsuits,333,500,226,279,114,202,281,349,107,192,Wetsuits are the surfers wearing
+2340756,zebras,zebras,333,500,328,377,159,192,169,201,153,181,Zebras are the animals
+2340802,skis,skis,480,272,137,154,277,286,149,168,277,284,Skis is the child wearing on her feet
+2340844,handlebars,handlebars,323,500,228,244,128,138,264,279,129,135,Handlebars is rider holding
+2340956,buildings,buildings,334,500,331,395,106,141,265,307,106,137,Two buildings is the lighthouse between
+2340972,phone,coffee,322,500,367,413,94,150,229,277,209,291,Talking on her cell phone and drinking coffee is the woman doing
+2341183,horse,horse,421,500,248,499,102,392,0,292,94,408,Horses are the animals
+2341366,cats,cats,375,500,0,299,106,344,207,434,53,274,Cats is black and white
+2341366,cats,cats,375,500,0,299,106,344,207,434,53,274,Two cats is furry
+2341412,carrots,carrots,500,500,191,286,226,314,283,348,119,178,Carrots are the orange flowers
+2341417,man,bike,500,333,96,291,139,389,8,178,185,442,A man and a bike is this a photo of
+2341513,tennis racket,tennis,375,500,432,498,51,115,65,81,91,106,A tennis racket is the woman holding in her right hand
+2341572,slippers,slippers,500,333,203,244,461,477,136,167,461,477,Slippers is the lady wearing on her feet
+2341581,light,light,333,500,438,461,177,193,193,214,175,187,Light is shining through the window
+2341602,signs,signs,374,500,210,280,141,192,218,281,86,158,Street signs is on the pole
+2341702,jackets,jackets,500,375,181,212,185,198,235,264,181,201,Jackets is white
+2341739,bears,bears,333,500,101,318,0,127,149,338,102,315,Polar bears are these animals
+2341774,birds,birds,216,320,7,199,31,171,207,309,40,178,Birds is in the picture
+2341916,Fish filets,Fish filets,500,375,183,253,322,491,225,305,357,499,Fish filets is cooking on the far right pan
+2342084,food,food,144,176,52,63,78,87,56,70,94,107,Food is in the bowl
+2342100,Hot dogs,Hot dogs,396,500,374,455,246,295,405,498,151,228,Hot dogs is the man selling
+2342195,ball,ball,313,500,282,294,72,84,278,293,72,82,Throw the ball is the man getting ready to do
+2342235,lamp,TV,375,500,43,175,0,110,288,499,0,124,Lamp and TV is behind the dog
+2342256,zebras,zebras,333,500,0,343,0,315,373,499,31,332,Zebras are they
+2342305,uniforms,uniforms,332,500,297,363,86,213,93,205,200,278,Uniforms is blue
+2342322,man,saddle,400,500,118,170,100,155,73,178,126,169,A saddle and a man is on the elephant's back
+2342327,heels,heels,500,333,135,183,431,497,166,217,428,494,Heels is she wearing
+2342330,signs,signs,302,500,222,236,67,86,368,378,52,105,Red and white signs is on the poles
+2342371,clothes,clothes,500,333,0,52,111,443,41,332,0,500,Clothes are the kids wearing
+2342385,snowboards,snowboards,500,375,222,351,371,451,45,225,344,394,Snowboards are they riding
+2342443,poles,poles,335,500,140,176,102,288,214,282,107,283,Poles is in number 80's hands
+2342566,bikes,bikes,495,500,127,240,308,439,223,307,286,404,Bikes are people riding
+2342653,clouds,clouds,500,333,116,153,47,60,266,336,1,21,Clouds is in the sky
+2342759,lights,lights,333,500,158,182,23,45,177,213,0,12,The lights is on
+2342821,lift,lift,333,500,126,214,31,210,417,483,34,187,A ski lift are people riding on
+2342991,skis,skis,375,500,339,364,245,328,299,334,254,335,Skis is on the man's feet
+2343013,mask,glove,500,500,203,271,267,357,266,310,253,318,A mask and baseball glove is the man holding
+2343079,mountains,grass,333,500,435,500,190,212,0,500,210,332,Grass and mountains is in the distance
+2343147,poles,poles,375,500,218,240,284,358,263,312,279,352,Trekking poles is the woman holding in her hands
+2343183,they,they,500,382,81,285,262,434,51,139,319,436,They are eating are the horses doing
+2343195,metal,metal,375,500,203,246,87,279,306,335,101,234,Metal are the legs of the bench made from
+2343342,cop,motorcycle,375,500,194,331,52,331,80,462,109,363,A cop on a motorcycle is the picture of
+2343476,poles,poles,333,500,139,175,189,262,148,164,188,202,Ski poles is in the skier hands
+2343738,piers,piers,389,500,123,274,233,291,0,100,256,351,Piers is the boats docked to
+1592124,helmets,helmets,1024,679,66,107,344,381,161,188,336,377,Helmets are the children wearing
+2343847,Ski poles,Ski poles,500,500,140,185,331,498,53,132,350,498,Ski poles is the person holding
+2343903,jeans,jeans,500,375,159,201,368,455,42,72,360,437,Jeans are the people both wearing
+150368,shoes,shoes,487,1024,438,477,407,437,386,424,407,434,Athletic shoes is the ball girl wearing
+2344017,poles,poles,375,500,266,270,143,224,202,221,145,221,Ski poles is the person holding
+2378598,shirt,pants,500,375,106,218,261,420,91,211,386,500,A t shirt and pants is the girl wearing
+2344146,bags,bags,332,500,46,67,109,158,28,47,112,163,Bags is the person carrying on the left
+2344168,grass,grass,333,500,0,500,117,332,0,500,117,332,Grass is under the zebras
+150407,sandwich,sandwich,768,1024,261,588,143,307,307,681,251,443,A sub sandwich is cut in half
+150407,sandwich,sandwich,768,1024,261,588,143,307,307,681,251,443,Sandwich is made with french bread
+150407,glasses,glasses,768,1024,0,98,0,270,90,166,0,111,Two glasses is full
+2344249,sheep,lamb,334,500,64,383,50,295,328,447,127,264,A sheep and a lamb is the picture showing
+2344257,dog,dog,333,500,118,190,211,249,373,422,220,241,Dog is the animal seen
+2344378,Curtains,Curtains,375,500,0,85,19,279,27,103,22,220,Curtains is covering the windows
+2344485,Ivory,Ivory,375,500,307,382,238,327,180,237,223,307,Ivory are the tusks made of
+2344501,bears,bears,375,500,0,307,25,373,197,498,56,373,Pajama teddy bears is the focus
+2344609,Animals,Animals,375,500,99,304,140,293,353,414,52,128,Animals is present
+2344609,Elephants,Elephants,375,500,99,304,140,293,353,414,52,128,Elephants are they
+2344698,lemon,lemon,333,500,36,114,147,215,28,113,209,280,Lemon is sliced in two
+2344740,boats,boats,334,500,358,364,154,162,364,368,155,161,Two boats is in the distance on the right
+2344816,Power lines,Power lines,333,500,179,395,58,111,178,398,48,104,Power lines is running over the elephants' heads
+150513,buildings,buildings,727,1024,233,757,83,305,616,1022,74,490,Buildings is in the background
+1592313,Sunglasses,tie,685,1024,764,811,310,331,771,797,375,477,Sunglasses and a tie is the man wearing in this picture
+150546,eyes,eyes,600,800,507,513,382,385,523,533,384,390,Closing his eyes is the cat doing
+2345080,whale,ocean,500,335,123,200,438,474,104,237,456,498,A whale in the ocean is on the rug
+2345246,dirt,dirt,375,500,187,497,199,272,0,151,138,176,Dirt is on the ground
+2345325,boats,boats,298,500,328,414,174,193,408,496,190,204,Boats are the objects to the right
+2345335,buildings,buildings,332,500,398,498,90,128,0,75,96,168,Buildings is in the background of the picture
+2345466,scooters,scooters,352,500,120,385,160,330,64,262,105,236,Motor scooters are they riding
+2345533,ski poles,ski poles,333,500,197,230,166,279,276,326,202,294,Ski poles is the winner carrying
+2345565,stops,stops,354,500,150,187,319,328,202,219,314,324,Wheel stops is near the wheels
+2345757,fruit,fruit,333,500,342,397,271,313,138,187,232,267,Fruit is the boy eating
+2345759,buildings,buildings,500,500,73,173,81,205,30,59,148,189,Buildings is in the background
+2345790,Giraffes,Giraffes,333,500,195,229,137,292,129,329,36,291,Giraffes is in the picture
+2345840,bottles,bottles,500,375,179,271,290,463,193,323,309,486,Two bottles is she holding
+2345924,This side up,Fragile,375,500,140,269,226,264,170,270,300,339,This side up and Fragile is written on the side of luggage
+2345940,wetsuits,wetsuits,333,500,243,306,144,269,133,198,177,245,Wetsuits are the women wearing on their legs
+2346156,Sandals,Sandals,375,500,277,317,335,352,299,339,340,356,Sandals is the boy wearing on his feet
+2346242,Ski poles,Ski poles,500,367,276,331,169,294,159,176,171,309,Ski poles are the people holding
+2346265,poles,poles,375,500,364,412,151,273,447,494,133,211,Ski poles are the sticks called
+2346330,kites,kites,500,332,193,259,83,190,86,150,43,126,Flying kites are the kids doing
+2346330,kites,kites,500,332,193,259,83,190,86,150,43,126,Kites are in the kids' hands
+1592555,stuff,stuff,600,800,476,781,8,234,733,798,135,226,Stuff is on the wood chair
+2346416,sheep,sheep,281,500,230,266,96,156,218,242,78,128,Sheep is in the photo
+2379018,Grass,Grass,375,500,0,374,111,176,389,500,115,151,Grass is covering the ground of the median
+2346726,eggs,eggs,281,500,284,445,32,98,111,177,0,26,Eggs is yellow
+1592615,screens,screens,741,1024,463,625,248,387,629,801,249,392,Two screens are turned on
+1592615,cabinets,cabinets,741,1024,254,614,0,213,590,1019,9,210,Both cabinets is open
+2346772,remotes,remotes,281,500,161,195,216,259,220,313,227,271,Remotes is sitting by the cat
+2346910,them,them,375,500,96,107,96,113,110,116,124,132,Holding them straight out is the person doing with their arms
+2346922,drive,headphones,375,500,263,323,225,255,60,158,217,319,A thumb drive and headphones is plugged in to the laptop
+2347261,jeans,top,375,500,167,248,151,244,162,234,83,167,Jeans and a colorful top is he wearing
+2347369,gloves,gloves,500,375,179,218,381,420,197,227,380,409,Gloves is black
+2347645,bottle,ketchup,333,500,270,416,17,164,246,296,147,186,A ketchup bottle is in the right hand
+2347827,they,they,334,500,181,436,105,290,56,320,107,273,They are standing are the zebras doing
+2347838,Sneakers,Sneakers,333,500,217,271,98,124,184,224,97,126,Sneakers is he wearing
+2348053,cleats,cleats,500,333,6,40,391,421,206,253,365,426,Soccer cleats is the man wearing on his feet
+2348132,toothbrushes,toothbrushes,375,500,179,233,72,338,358,429,103,375,Toothbrushes are those two objects on either side of the bike stand
+2348191,towels,towels,389,500,0,29,314,345,4,23,342,352,Hand towels is next to the flowers
+2379294,giraffes,giraffes,338,500,19,401,76,338,121,473,28,337,Giraffes is in the photo
+2348215,people,people,375,500,0,358,52,179,233,384,188,281,People is present
+2348217,buses,buses,333,500,0,224,99,312,223,416,167,270,Two buses is blue and white
+2348261,remotes,remotes,375,500,277,293,142,159,108,144,152,175,Wii remotes are the two men holding
+1592896,skis,shoulder,768,1024,425,522,407,510,449,484,456,487,His skis over his shoulder is the man in orange ski pants carrying
+2348418,boats,boats,327,500,53,134,113,191,165,269,148,209,Two boats is in the water
+2348454,fruit,fruit,375,500,155,233,152,232,252,331,149,223,Orange fruit is present
+2348658,leaves,leaves,333,500,237,315,199,236,222,243,168,214,Bamboo leaves is the panda eating
+2348804,kites,kites,500,375,96,374,92,246,253,371,21,131,Kites is in the sky
+2348823,pancakes,pancakes,500,375,30,357,86,420,0,145,95,379,Pancakes is on the plate
+1592978,signs,signs,1280,960,222,460,805,917,328,440,889,1047,The street signs is strapped to poles
+2348930,women,women,500,500,89,281,184,438,231,381,100,332,Women is this photo of
+2348930,suits,suits,500,500,91,259,225,427,243,366,126,326,Surfboarding suits are the women wearing
+2348985,windows,windows,500,309,98,193,76,131,193,250,80,131,Windows is on the ceiling
+2349219,trees,trees,333,500,0,274,0,248,273,498,0,246,Trees is green
+2349263,headlights,headlights,333,500,98,107,155,163,216,230,151,164,Headlights is turned on on the train
+2349407,Grass,dirt,334,500,0,500,138,334,155,499,163,299,Grass and Dirt are the horses walking on
+2349563,giraffes,giraffes,312,500,128,317,184,310,166,383,62,309,Giraffes is next to the trees
+2349575,cleats,cleats,500,333,173,243,451,463,153,189,445,457,Cleats is the man on the left wearing on his feet
+2349591,paddles,paddles,333,500,323,436,71,118,115,131,108,145,Paddles are the men holding
+2349675,cats,cats,374,500,154,423,98,222,62,344,123,262,Cats is sitting in the basket
+2349697,eyeglasses,eyeglasses,375,500,296,382,117,138,199,264,89,109,Eyeglasses are they both wearing
+2349960,planes,planes,333,500,52,420,5,143,88,476,117,304,Planes are the subjects of the photo
+1593158,Lights,Lights,1024,678,42,106,37,135,279,357,86,168,Lights is above the vanity
+2350001,Cushions,Cushions,375,500,42,266,130,362,0,126,221,356,Cushions is in the photo
+2350008,bicycles,bicycles,375,500,230,457,217,362,273,487,210,358,Bicycles is parked by the tree
+2350011,pants,pants,500,375,205,236,398,421,229,259,389,419,Child's pants is red
+2350093,buses,buses,333,500,183,325,125,260,309,426,162,210,Buses is on the street
+2350231,skis,skis,333,500,186,355,254,272,149,287,253,267,Skis is on the person's feet
+2350248,trains,trains,369,500,45,126,224,367,92,155,269,368,Trains is drawn in the background
+2350248,horses,horses,369,500,1,12,321,368,10,32,328,368,Horses is on the bottom left
+2350284,Light,bike,500,332,188,219,305,322,108,225,145,482,Light on bike is red
+2350363,heart decorations,heart decorations,375,500,94,183,26,115,257,353,12,107,Heart decorations are hanging from the windows
+2350472,walls,walls,500,321,82,321,54,298,0,82,0,288,Walls is beige
+2350633,racquets,racquets,375,500,91,144,214,266,260,278,169,202,Tennis racquets are the players holding
+2350672,pizza,cheese,334,500,0,304,131,251,98,223,0,35,Grating cheese onto a pizza are the people doing
+2350748,pants,pants,375,500,256,461,166,318,122,249,78,139,Pants is black with stripes
+2350827,animals,animals,333,500,114,227,67,310,292,411,138,307,Animals is the focus of the photo
+2351008,food,food,374,500,248,445,156,287,146,272,86,142,Food is on the table in dishes
+2351199,signs,signs,500,365,89,184,4,75,70,190,41,121,Signs is on the pole
+2351275,giraffes,giraffes,500,334,204,332,75,455,64,204,117,460,Giraffes are these animals
+2351310,beer,beer,334,500,100,158,0,100,443,481,24,59,Beer is in the glass
+2351404,computer,computer,306,500,203,289,112,178,284,361,111,178,The computer is on the desk
+2351522,trees,trees,375,500,393,498,3,264,444,499,2,132,Palm trees is growing next to the beach
+2351580,Sunglasses,Sunglasses,333,500,102,129,19,25,376,400,14,26,Sunglasses are both men wearing on their faces
+2351668,Tires,Tires,500,500,166,241,220,375,378,457,222,377,Tires is round
+2351688,buildings,buildings,375,500,43,178,0,86,176,499,0,95,Buildings is behind the bird
+2351817,goggles,goggles,333,500,90,112,59,75,181,233,29,55,Goggles is on the people's faces
+2351853,uniforms,uniforms,500,313,163,265,75,458,61,172,73,450,Uniforms are the men wearing
+2351890,Lettuce,Lettuce,500,375,79,111,200,228,1,36,247,261,Lettuce and eggs is in the refrigerator
+107998,food,drink,960,1280,238,1086,606,852,565,721,0,520,Food and drink is this photo of
+2351942,surfboards,surfboards,500,500,93,219,138,493,234,313,140,470,Surfboards are the two boards
+2352005,lights,lights,500,375,60,94,156,184,0,130,213,313,Lights is hanging from the wall on the left
+2352080,tracks,tracks,340,500,0,499,242,332,0,245,273,338,Tracks is the engine by
+2352187,poles,poles,332,500,402,415,85,203,260,270,99,147,Poles is long in the air
+2352187,reflectors,reflectors,332,500,384,399,307,321,60,70,268,277,Reflectors is yellow on the ground
+2352509,buildings,buildings,500,332,0,187,40,333,182,314,284,322,Buildings is present
+2352613,poles,poles,375,500,356,417,271,365,277,281,276,326,Ski poles is the person holding in his hands
+2352673,flat breads,flat breads,500,500,31,264,145,325,0,301,168,374,Flat breads is on the plate
+2352807,skates,skates,300,500,199,332,83,295,186,292,87,288,Long roller skates is he riding
+2352925,cleaning products,cleaning products,500,341,227,255,267,349,216,245,222,333,Cleaning products is next to the toilet
+2352953,hats,hats,331,500,237,277,58,95,343,377,94,122,Hats are the men wearing on their heads
+2353113,wings,wings,333,500,97,158,38,140,160,290,0,180,Spreading its wings is the bird doing
+2353145,zebras,zebras,500,418,161,374,189,416,71,196,328,417,Zebras are these animals called
+2353389,wheels,wheels,332,500,326,331,225,230,296,303,233,240,Skateboards wheels is yellow
+2353486,fence cover,fence cover,250,500,7,241,8,149,257,493,6,150,Fence cover is blue in background
+2353642,Socks,Socks,333,500,129,149,278,289,166,186,289,310,Socks is the young girl wearing on her feet
+2353794,water skis,water skis,375,500,267,314,252,275,230,265,245,272,Water skis are the man's feet attached to
+2353839,skis,skis,500,333,34,200,380,400,100,300,393,411,Skis is on the man's feet
+2354080,woman,man,500,333,0,180,77,414,99,332,50,497,A man and woman is in the photo
+2354290,street signs,street signs,500,375,208,259,30,130,156,331,121,185,Street signs is on the pole
+2354341,birds,birds,333,500,414,498,59,172,109,259,127,213,Birds are they
+2354386,Benches,Benches,375,500,41,295,162,272,315,446,169,223,Benches is present
+2354603,hats,hats,351,500,140,159,134,143,302,325,120,137,Hats are the men wearing
+2354603,horses,horses,351,500,71,247,152,298,227,465,162,316,Horses are they riding
+2354638,wand,wand,500,500,349,410,183,253,85,127,189,218,A bubble wand is in each girl's hand
+2354657,Skateboards,Skateboards,333,500,149,290,253,322,54,142,230,280,Skateboards are they putting their feet on
+2354675,motorcycles,motorcycles,333,500,137,209,156,258,189,231,152,206,Motorcycles are these vehicles in the front
+2354675,helmets,helmets,333,500,163,185,137,159,202,216,137,151,Helmets are the yellow vested people wearing on their heads
+2354786,Cars,Cars,270,500,184,361,124,219,322,499,0,269,Cars is present
+2354891,parasol,pom-pom,442,500,97,456,0,214,32,178,27,180,A Parasol and a pom-pom is she holding
+2354917,salt,pepper,333,500,377,392,185,211,390,405,184,213,Salt and pepper is by the left napkin holder
+2354957,phones,phones,350,500,249,282,203,250,411,449,228,251,Looking at their phones are the women doing
+2354958,boots,boots,500,375,104,148,324,380,188,226,331,383,Snowboarding boots is on the teens feet
+2355178,man,shirt,400,500,224,314,0,300,220,310,44,133,A man's shirt is blue
