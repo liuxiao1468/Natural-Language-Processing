@@ -13,7 +13,7 @@ The synthetic dataset is created by using 3 different datasets with image/text a
    - **Xiao**:
    This dataset is a Q&A dataset with bounding boxes included. The text augmentation is done by combining the 
    answer and the question, which resulted in a statement of the relationship between two objects in the image.
-   QA pairs with only 2 objects involved are selected for our dataset creation. Xiao worked on combining "what" questions.
+   QA pairs with only 2 objects involved are selected for our dataset creation. Xiao worked on combining "what" questions. i.e., with a QA pair Q-"What is on the plate?" A-"Pizza.", the referring expression is "Pizza is on the plate". For running the code, you will need two json file provided by the dataset and the images.
    code-> https://github.com/liuxiao1468/Natural-Language-Processing/blob/main/Code_dataset/Xiao_prep_data.py
    - **Zijie**: The visual_7w is a VQA task dataset, with annotated bounding boxes for objects decribed in both texts and images.
    For our task, we want to convert the question-answering pairs into text desriptions for corresponding images respectively, just like
