@@ -5,7 +5,7 @@ Dataset:
 The dataset has 14 columns and the fieldnames = ['ImageID', 'LabelName1', 'LabelName2','Height', 'Width', 
 'XMin1','XMax1', 'YMin1', 'YMax1', 'XMin2', 'XMax2', 'YMin2', 'YMax2', 'ReferringExpression']
 
-where annotated the bounding boxes and the relationship between two objects in the image.
+which annotated the bounding boxes and the relationship between two objects in the image.
 The synthetic dataset is created by using 3 different datasets with image/text augmentation.
 
 1. Visual 7W (QA + BB -> VRE) -[Xiao Liu & Zijie]
