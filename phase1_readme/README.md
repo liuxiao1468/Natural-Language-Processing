@@ -3,10 +3,10 @@ This is the readme for phase1 submission. Project topic: Robot Scene Understandi
 
 Model:
 
-1. Vil-Bert model -[Xiao & Ziming]
+1. Vil-Bert model
    model address: https://github.com/jiasenlu/vilbert_beta
-   - **Xiao**:
+   - **Xiao & Ziming**:
    
-2. VL-Bert model - [Alex & Zijie]
+2. VL-Bert model
    model address: https://github.com/jackroos/VL-BERT
-   - **Alex**: 
+   - **Alex & Zijie**: 
