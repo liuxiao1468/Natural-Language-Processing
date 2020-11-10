@@ -116,8 +116,8 @@ python refcoco/test.py \
 |testA     |76.02165560600768  |
 |testB     |60.52362446308038  |
 
-![val split evaluation](https://photos.app.goo.gl/6Dkn1sc538sGjkrUA)
+![val split evaluation](./image/val_results_20201109.png)
 
-![testA split evaluation](https://photos.app.goo.gl/xSTu3YHc836pjXVz6)
+![testA split evaluation](./image/testA_result_20201109.png)
 
-![testB split evaluation](https://photos.app.goo.gl/qW4ksVrTK3Z3AhCB8)
+![testB split evaluation](./image/testB_result_20201109.png)
