@@ -23,7 +23,8 @@ make
 ```
 python eval_tasks.py --bert_model bert-base-uncased --from_pretrained save/refcoco+_bert_base_6layer_6conect-pretrained/pytorch_model_19.bin --config_file config/bert_base_6layer_6conect.json --task 4
 ```
-
+The script resulted in the loss and validation score.
+![Algorithm schema](./image/eval_result.png)
 
 
 
