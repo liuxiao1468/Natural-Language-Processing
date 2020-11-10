@@ -17,7 +17,8 @@ conda install pytorch torchvision cudatoolkit=10.0 -c pytorch
 cd tools/refer
 make
 ```
-For using a pretrained model from vil-Bert, 
+For using a pretrained model with 6-Layer vil-Bert, simply go to https://drive.google.com/drive/folders/1GWY2fEbZCYHkcnxd0oysU0olfPdzcD3l and save the downloaded model under '~/vilbert_beta/save'. 
+
 
 
 ## 2. VL-Bert model
