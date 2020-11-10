@@ -18,7 +18,12 @@ cd tools/refer
 make
 ```
 * For using a pretrained model with 6-Layer vil-Bert, simply go to https://drive.google.com/drive/folders/1GWY2fEbZCYHkcnxd0oysU0olfPdzcD3l and save the downloaded model under `~/vilbert_beta/save`. 
-* For using refercoco dataset, download from the dropbox: https://www.dropbox.com/sh/4jqadcfkai68yoe/AADHI6dKviFcraeCMdjiaDENa?dl=0 and move the unzipped file "referExpression" folder to `~/vilbert_beta/data`. The data we use the default pytorch dataloader to load the Downstream tasks, consider use the following script to convert the `tsv` file to `lmdb`.
+* For using refercoco dataset, download from the dropbox: https://www.dropbox.com/sh/4jqadcfkai68yoe/AADHI6dKviFcraeCMdjiaDENa?dl=0 and move the unzipped file "referExpression" folder to `~/vilbert_beta/data`. The default pytorch dataloader is used to load the Downstream tasks, raw data need to be converted to the `tsv` file to `lmdb`. 
+* Since re-training model on refercoco+ took too much time, we simply did a validation on a split refercoco+ dataset, 3085 images are used for validation. Here is the command:
+```
+python eval_tasks.py --bert_model bert-base-uncased --from_pretrained save/refcoco+_bert_base_6layer_6conect-pretrained/pytorch_model_19.bin --config_file config/bert_base_6layer_6conect.json --task 4
+```
+
 
 
 
