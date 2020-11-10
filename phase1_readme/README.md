@@ -18,7 +18,7 @@ cd tools/refer
 make
 ```
 * For using a pretrained model with 6-Layer vil-Bert, simply go to https://drive.google.com/drive/folders/1GWY2fEbZCYHkcnxd0oysU0olfPdzcD3l and save the downloaded model under '~/vilbert_beta/save'. 
-* For using refercoco dataset, download from https://www.dropbox.com/sh/4jqadcfkai68yoe/AADHI6dKviFcraeCMdjiaDENa?dl=0
+* For using refercoco dataset, download from the dropbox: https://www.dropbox.com/sh/4jqadcfkai68yoe/AADHI6dKviFcraeCMdjiaDENa?dl=0 and move the unzipped file "referExpression" folder to "~/vilbert_beta/data" 
 
 
 
