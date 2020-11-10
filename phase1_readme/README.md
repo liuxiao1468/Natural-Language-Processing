@@ -6,14 +6,14 @@ Model:
 ##1. Vil-Bert model
    model address: https://github.com/jiasenlu/vilbert_beta
    - **Xiao & Ziming**:
-   To run this project, install it locally using npm:
-
+   We used a conda env for installing the vil-Bert model and pytorch with other deeplearning packages:
 ```
-$ cd ../lorem
-$ npm install
-$ npm start
+conda create -n vilbert python=3.6
+conda activate vilbert
+git clone https://github.com/jiasenlu/vilbert_beta
+cd vilbert_beta
+pip install -r requirements.txt
 ```
-   
    
 ##2. VL-Bert model
    model address: https://github.com/jackroos/VL-BERT
