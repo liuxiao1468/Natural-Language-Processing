@@ -3,6 +3,11 @@ This is the readme for phase1 submission. Project topic: Robot Scene Understandi
 
 Model:
 
+## Dataset setup
+* COCO 2014 Train/2014 Val/2014 Test Images and 2014 Train/Val annotations: [https://cocodataset.org/#download](https://cocodataset.org/#download)
+RefCOCO+ annotations: http://bvisionweb1.cs.unc.edu/licheng/referit/data/refcoco+.zip
+RefCOCO+ region proposals: http://bvision.cs.unc.edu/licheng/MattNet/detections.zip 
+
 ## 1. Vil-Bert model
    model address: https://github.com/jiasenlu/vilbert_beta
    - **Xiao & Ziming**:
@@ -36,13 +41,7 @@ The script resulted in the loss and validation score.
 * The structure of the code is broken up into separate python scripts for training and testing or various downstream tasks (VCR, VQA, RefCOCO+). For RefCOCO+. the training is called in either a distributed or non-distributed command, which kicks off the end-to-end process, starting from parsing the commandline and configured arguments. The internal training function is then called, and the pre-trained model checkpoint is loaded using pytorch, and trained for a maximum of 20 epochs using a common trainer for all downstream tasks. After each epoch, the updated weights are saved in a checkpoint file, and the best-performing model at that point is saved as the "best" model in the checkpoint directory. When the evaluation command is used, a test script is run, which parses the passed and configured arguments, then loads the model with pytorch, passes the test data through in eval mode to produce the predicted bounding boxes, and compares them to the groundtruth boxes using the IOU protocol to calculate the accuracy. 
 
 ### Data and Pre-trained model setup
-* The VL-BERT model was pre-trained on the Conceptual Captions dataset, with only text data. In order to use the model for the RefCOCO+ task, we downloaded the following datasets for fine-tuning and evaluation with image data, and placed them in the appropriate directories per the author's instructions: 
-
-* COCO 2014 Train/2014 Val/2014 Test Images and 2014 Train/Val annotations: [https://cocodataset.org/#download](https://cocodataset.org/#download)
-RefCOCO+ annotations: http://bvisionweb1.cs.unc.edu/licheng/referit/data/refcoco+.zip
-RefCOCO+ region proposals: http://bvision.cs.unc.edu/licheng/MattNet/detections.zip 
-
-We also retrieved the pre-trained models from the links at [https://github.com/jackroos/VL-BERT/blob/master/model/pretrained_model/PREPARE_PRETRAINED_MODELS.md](https://github.com/jackroos/VL-BERT/blob/master/model/pretrained_model/PREPARE_PRETRAINED_MODELS.md).
+* The VL-BERT model was pre-trained on the Conceptual Captions dataset, with only text data. In order to use the model for the RefCOCO+ task, we downloaded the following fine-tuning and evaluation with image data, and placed them in the appropriate directories per the author's instructions: We also retrieved the pre-trained models from the links at [https://github.com/jackroos/VL-BERT/blob/master/model/pretrained_model/PREPARE_PRETRAINED_MODELS.md](https://github.com/jackroos/VL-BERT/blob/master/model/pretrained_model/PREPARE_PRETRAINED_MODELS.md).
 
 
 ### Environment Setup
