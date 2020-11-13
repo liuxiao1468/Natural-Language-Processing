@@ -2,7 +2,7 @@
 This is the project repo for NLP course 2020 fall. Project topic: Robot Scene Understanding using Referring Relationship
 
 <p align="center">
-<img src = "Overview.PNG" width ="800" />
+<img src = "Overview.PNG" width ="500" />
 </p>
 Fig1: Visual grounding in Human-robot interaction: humans teaching robot in scene understanding and robot generating scene descriptions.
 
