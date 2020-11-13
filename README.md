@@ -4,6 +4,7 @@ This is the project repo for NLP course 2020 fall. Project topic: Robot Scene Un
 <p align="center">
 <img src = "Overview.PNG" width ="800" />
 </p>
+Fig1: Visual grounding in Human-robot interaction: humans teaching robot in scene understanding and robot generating scene descriptions.
 
 ## Dataset:
 The dataset has 14 columns and the fieldnames = ['ImageID', 'LabelName1', 'LabelName2','Height', 'Width', 
