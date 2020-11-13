@@ -1,7 +1,11 @@
 # Natural-Language-Processing
 This is the project repo for NLP course 2020 fall. Project topic: Robot Scene Understanding using Referring Relationship
 
-Dataset:
+<p align="center">
+<img src = "Overview.PNG" width ="800" />
+</p>
+
+## Dataset:
 The dataset has 14 columns and the fieldnames = ['ImageID', 'LabelName1', 'LabelName2','Height', 'Width', 
 'XMin1','XMax1', 'YMin1', 'YMax1', 'XMin2', 'XMax2', 'YMin2', 'YMax2', 'ReferringExpression']
 
