@@ -1,6 +1,4 @@
-# ViLBERT <img src="fig/vilbert_trim.png" width="45">
-
-#### ViLBERT_beta has been deprecated. Please see [vilbert-multi-task](https://github.com/facebookresearch/vilbert-multi-task), which includes implementations for [12-in-1: Multi-Task Vision and Language Representation Learning](https://arxiv.org/abs/1912.02315)
+# ViLBERT 
 
 Code and pre-trained models for **[ViLBERT: Pretraining Task-Agnostic VisiolinguisticRepresentations for Vision-and-Language Tasks](https://arxiv.org/abs/1908.02265)**.
 
@@ -82,10 +80,3 @@ If you find this code is useful for your research, please cite the paper
 }
 ```
 
-
-
-## Why does ViLBERT look like <img src="fig/vilbert_trim.png" width="45">? 
-
-<p align="center">
-<img src="fig/vilbert.png" width="400" >
-</p>
