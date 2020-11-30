@@ -51,57 +51,6 @@ Check `README.md` under `data` for more details.  Check  `vlbert_tasks.yml` for 
 
 ## Evaluation
 
-### Zero-Shot Image Retrieval
-
-We can directly use the Pre-trained ViLBERT model for zero-shot image retrieval tasks on Flickr30k. 
-
-1: Download the pretrained model with objective `Conceptual Caption` and put it under `save`
-
-2: Update `featyres_h5path1` and `val_annotations_jsonpath` in  `vlbert_task.yml` to load the Flickr30k testset image feature and jsonfile (defualt is training feature). 
-
-3: Use the following command to evaluate pre-trained 6 layer ViLBERT model. (only support single GPU for evaluation now):
-
-```bash
-python eval_retrieval.py --bert_model bert-base-uncased --from_pretrained save/bert_base_6_layer_6_connect/pytorch_model_9.bin --config_file config/bert_base_6layer_6conect.json --task 3 --split test --batch_size 1 --zero_shot
-```
-
-### Image Retrieval
-
-1: Download the pretrained model with objective `Image Retrieval` and put it under `save`
-
-2: Update `featyres_h5path1` and `val_annotations_jsonpath` in  `vlbert_task.yml` to load the Flickr30k testset image feature and jsonfile (defualt is training feature). 
-
-3: Use the following command to evaluate pre-trained 6 layer ViLBERT model. (only support single GPU for evaluation now):
-
-```bash
-python eval_retrieval.py --bert_model bert-base-uncased --from_pretrained save/RetrievalFlickr30k_bert_base_6layer_6conect-pretrained/pytorch_model_19.bin --config_file config/bert_base_6layer_6conect.json --task 3 --split test --batch_size 1
-```
-
-### VQA
-
-1: Download the pretrained model with objective `VQA` and put it under `save`
-
-2: To test on held out validation split, use the following command: 
-
-```
-python eval_tasks.py --bert_model bert-base-uncased --from_pretrained save/VQA_bert_base_6layer_6conect-pretrained/pytorch_model_19.bin --config_file config/bert_base_6layer_6conect.json --task 0 --split minval
-```
-
-### VCR
-
-1: Download the pretrained model with objective `VCR` and put it under `save`
-
-2: To test on VCR Q->A
-
-```
-python eval_tasks.py --bert_model bert-base-uncased --from_pretrained save/VCR_Q-A-VCR_QA-R_bert_base_6layer_6conect-pretrained/pytorch_model_19.bin --config_file config/bert_base_6layer_6conect.json --task 1 --split val
-```
-
-3: To test on VCR QA->R
-
-```
-python eval_tasks.py --bert_model bert-base-uncased --from_pretrained save/VCR_Q-A-VCR_QA-R_bert_base_6layer_6conect-pretrained/pytorch_model_19.bin --config_file config/bert_base_6layer_6conect.json --task 2 --split val
-```
 
 ### RefCOCO+
 
@@ -126,27 +75,7 @@ ig_file config/bert_base_6layer_6conect.json --learning_rate 1e-4 --train_batch_
 
 ### Train ViLBERT for DownStream Tasks
 
-### VQA 
 
-To fintune a 6-layer ViLBERT model for VQA with 8 GPU. `--tasks 0` means VQA tasks. Check `vlbert_tasks.yml` for more settings for VQA tasks.  
-
-```bash
-python -m torch.distributed.launch --nproc_per_node=8 --nnodes=1 --node_rank=0 train_tasks.py --bert_model bert-base-uncased --from_pretrained save/bert_base_6_layer_6_connect_freeze_0/pytorch_model_8.bin  --config_file config/bert_base_6layer_6conect.json  --learning_rate 4e-5 --num_workers 16 --tasks 0 --save_name pretrained
-```
-
-### VCR
-
-Similarly, to finetune a 6-layer vilbert model for VCR task, run the following commands. Here we joint train `Q->A ` and `QA->R` tasks, so the tasks is specified as `--tasks 1-2`
-
-```bash
-python -m torch.distributed.launch --nproc_per_node=8 --nnodes=1 --node_rank=0 train_tasks.py --bert_model bert-base-uncased --from_pretrained save/bert_base_6_layer_6_connect_freeze_0/pytorch_model_8.bin  --config_file config/bert_base_6layer_6conect.json  --learning_rate 2e-5 --num_workers 16 --tasks 1-2 --save_name pretrained
-```
-
-### Image Retrieval
-
-```bash
-python -m torch.distributed.launch --nproc_per_node=8 --nnodes=1 --node_rank=0 train_tasks.py --bert_model bert-base-uncased --from_pretrained save/bert_base_6_layer_6_connect_freeze_0/pytorch_model_8.bin  --config_file config/bert_base_6layer_6conect.json  --learning_rate 4e-5 --num_workers 9 --tasks 3 --save_name pretrained
-```
 
 ### Refer Expression
 
@@ -158,7 +87,7 @@ python -m torch.distributed.launch --nproc_per_node=8 --nnodes=1 --node_rank=0 t
 
 ## References
 
-If you find this code is useful for your research, please cite our paper
+If you find this code is useful for your research, please cite the paper
 
 ```
 @article{lu2019vilbert,
