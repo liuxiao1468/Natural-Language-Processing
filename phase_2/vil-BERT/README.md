@@ -40,14 +40,9 @@ Check `README.md` under `data` for more details.  Check  `vlbert_tasks.yml` for 
 
 | Model | Objective | Link |
 |:-------:|:------:|:------:|
-|ViLBERT 2-Layer| Conceptual Caption |[Google Drive](https://drive.google.com/drive/folders/1asaQDYTacetm12j1K4AkYWdjPincLnap?usp=sharing)|
-|ViLBERT 4-Layer| Conceptual Caption |[Google Drive](https://drive.google.com/drive/folders/1uDa1UsJC-Vz0ZdbHUMw5imRGhk5oM-YR?usp=sharing)|
-|ViLBERT 6-Layer| Conceptual Caption |[Google Drive](https://drive.google.com/drive/folders/1JVM5WiolJJLnY9_lruxSaSop7IFX8a-v?usp=sharing)|
-|ViLBERT 8-Layer| Conceptual Caption |[Google Drive](https://drive.google.com/drive/folders/1M-QoxLB6WJaqY9nq4KzPwfpJ8Va5FNCy?usp=sharing)|
-|ViLBERT 6-Layer| VQA |[Google Drive](https://drive.google.com/drive/folders/1nrcVww0u_vozcFRQVr58-YH5LOU1ZiWT?usp=sharing)|
-|ViLBERT 6-Layer| VCR |[Google Drive](https://drive.google.com/drive/folders/1QJuMzBarTKU_hAWDSZm60rWiDnbAVEVZ?usp=sharing)|
+
 |ViLBERT 6-Layer| RefCOCO+ |[Google Drive](https://drive.google.com/drive/folders/1GWY2fEbZCYHkcnxd0oysU0olfPdzcD3l?usp=sharing)|
-|ViLBERT 6-Layer| Image Retrieval |[Google Drive](https://drive.google.com/drive/folders/18zUTF3ZyOEuOT1z1aykwtIkBUhfROmJo?usp=sharing)|
+
 
 ## Evaluation
 
@@ -64,18 +59,7 @@ Check `README.md` under `data` for more details.  Check  `vlbert_tasks.yml` for 
 python eval_tasks.py --bert_model bert-base-uncased --from_pretrained save/refcoco+_bert_base_6layer_6conect-pretrained/pytorch_model_19.bin --config_file config/bert_base_6layer_6conect.json --task 4
 ```
 
-## Visiolinguistic Pre-training
-
-Once you extracted all the image features, to train a 6-layer ViLBERT model on conceptual caption:
-
-```bash
-python -m torch.distributed.launch --nproc_per_node=8 --nnodes=1 --node_rank=0 train_concap.py --from_pretrained bert-base-uncased --bert_model bert-base-uncased --conf
-ig_file config/bert_base_6layer_6conect.json --learning_rate 1e-4 --train_batch_size 512 --save_name pretrained
-```
-
 ### Train ViLBERT for DownStream Tasks
-
-
 
 ### Refer Expression
 
